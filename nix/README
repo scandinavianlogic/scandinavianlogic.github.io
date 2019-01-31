@@ -1,0 +1,4 @@
+Files for running a local development environment using nix-shell and direnv.
+See:
+
+https://discourse.nixos.org/t/shell-nix-for-github-pages-development/2000
