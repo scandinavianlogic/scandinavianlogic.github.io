@@ -7,3 +7,4 @@
 /.direnv
 /.envrc
 /shell.nix
+/Makefile
