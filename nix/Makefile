@@ -7,6 +7,8 @@ update: install
 
 clean:
 	rm -rf .direnv
+	rm -rf _site
+	rm -f Gemfile.lock
 
 serve: install
 	jekyll serve --watch
