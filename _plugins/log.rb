@@ -6,11 +6,13 @@ module Jekyll
         bad_file = @context.registers[:page]['path']
         err_msg = "\033[33mIn #{bad_file}: #{msg}\033[0m"
         warn err_msg
+        return msg
     end
     def log_error(msg)
         bad_file = @context.registers[:page]['path']
         err_msg = "\033[31mIn #{bad_file}: #{msg}\033[0m"
         warn err_msg
+        return msg
     end
   end
 end
