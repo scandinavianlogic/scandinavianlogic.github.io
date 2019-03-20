@@ -9,14 +9,17 @@ including the fields computer science, philosophy, mathematics and linguistics.
 
 ## Membership
 
+{{ "TODO" | log_warning }}
 TODO: how to join/leave the Scandinavian Logic Society
 
 ## Mailing list
 
+{{ "TODO" | log_warning }}
 TODO: how to subscribe/unsubscribe to the mailing list
 
 ## Inform about events
 
+{{ "TODO" | log_warning }}
 TODO: where to send information about events
 
 ## Executive Committee
