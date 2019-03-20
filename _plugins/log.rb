@@ -4,6 +4,11 @@ module Jekyll
   module WarningFilter
     def log_warning(msg)
         bad_file = @context.registers[:page]['path']
+        err_msg = "\033[33mOn #{bad_file}: #{msg}\033[0m"
+        warn err_msg
+    end
+    def log_error(msg)
+        bad_file = @context.registers[:page]['path']
         err_msg = "\033[31mOn #{bad_file}: #{msg}\033[0m"
         warn err_msg
     end
