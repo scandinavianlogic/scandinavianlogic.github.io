@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: "assets/minutes"
+    values:
+      minutes: true

@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{% comment %} check that all tags are valid {% endcomment %}
+{% for tag in page.tags %}
+  {% unless site.data.valid_tags contains tag %}
+    {{ "invalid tag '" | append: tag | append: "'" | log_warning }}
+  {% endunless %}
+{% endfor %}
+{% comment %} generate page {% endcomment %}
+<h2>{{ page.title }}</h2>
+<p>{{ page.date | date_to_string }}</p>
+{{ content }}

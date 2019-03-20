@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Logic in Scandinavia
+  link: /logic_in_scandinavia.html
+- name: Links
+  link: /links.html
+- name: Events
+  link: /events.html
+- name: Positions
+  link: /positions.html
+- name: Texts
+  link: /texts.html
