@@ -9,10 +9,11 @@
             - {{ page.title }}
         {% endif %}
     </title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
     <h1>Scandinavian Logic Society</h1>
-    {% include navigation.html %}
+    {% include menu_items.html items=site.data.menu_items %}
     {{ content }}
   </body>
 </html>

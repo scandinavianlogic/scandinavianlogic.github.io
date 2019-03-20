@@ -1,5 +1,5 @@
 ---
-layout: logic_in_scandinavia
+layout: default
 title: Sweden
 ---
 {{ "TODO" | log_warning }}

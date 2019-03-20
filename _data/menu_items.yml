@@ -1,0 +1,24 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Logic in Scandinavia
+  sub_items:
+    - name: Denmark
+      link: /denmark.html
+    - name: Finland
+      link: /finland.html
+    - name: Iceland
+      link: /iceland.html
+    - name: Norway
+      link: /norway.html
+    - name: Sweden
+      link: /sweden.html
+- name: Links
+  link: /links.html
+- name: Events
+  link: /events.html
+- name: Positions
+  link: /positions.html
+- name: Texts
+  link: /texts.html

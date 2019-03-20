@@ -1,0 +1,13 @@
+<ul>
+  {% for item in include.items %}
+    {% if item.link and page.url != item.link %}
+      <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+    {% else %}
+      <li>{{ item.name }}</li>
+    {% endif %}
+    {% if item.sub_items %}
+      {% include menu_items.html items=item.sub_items %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
