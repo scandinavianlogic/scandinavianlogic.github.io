@@ -15,3 +15,4 @@
 {{ "TODO: fix menu at top when displayed as left sidebar" | log_warning }}
 {{ "TODO: image" | log_warning }}
 {{ "TODO: verify css" | log_warning }}
+{{ "TODO: auto zoom on small devices" | log_warning }}
