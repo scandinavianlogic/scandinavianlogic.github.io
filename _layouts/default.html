@@ -13,7 +13,11 @@
   </head>
   <body>
     <h1>Scandinavian Logic Society</h1>
-    {% include menu_items.html items=site.data.menu_items %}
-    {{ content }}
+    <nav>
+      {% include menu_items.html items=site.data.menu_items %}
+    </nav>
+    <div id="content">
+      {{ content }}
+    </div>
   </body>
 </html>

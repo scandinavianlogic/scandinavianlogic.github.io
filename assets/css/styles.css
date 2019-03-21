@@ -1,0 +1,28 @@
+* {
+  font-family: sans-serif;
+  line-height: 150%;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+#content {
+  display: table-cell;
+}
+nav {
+  float: left;
+  display: table-cell;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 5vw;
+  font-size: 125%;
+}
+nav li {
+  list-style-type: square;
+}
+nav a {
+  color: blue;
+}
