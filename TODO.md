@@ -9,3 +9,9 @@
 {{ "TODO: rss feeds" | log_warning }}
 {{ "TODO: site map (at least for development purposes)" | log_warning }}
 {{ "TODO: remove recursive menu function if flat menu remains used" | log_warning }}
+{{ "TODO: print css" | log_warning }}
+{{ "TODO: max line length of content" | log_warning }}
+{{ "TODO: menu as left sidebar iff minimum line length of content met" | log_warning }}
+{{ "TODO: fix menu at top when displayed as left sidebar" | log_warning }}
+{{ "TODO: image" | log_warning }}
+{{ "TODO: verify css" | log_warning }}
