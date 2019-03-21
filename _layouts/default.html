@@ -10,12 +10,16 @@
         {% endif %}
     </title>
     <link rel="stylesheet" href="/assets/css/styles.css">
-    <link rel="stylesheet" media="(min-width: 100ch)" href="/assets/css/large.css">
+    <link rel="stylesheet" media="(max-width: 90ch)" href="/assets/css/small.css">
+    <link rel="stylesheet" media="(min-width: 90ch)" href="/assets/css/large.css">
   </head>
   <body>
     <h1>Scandinavian Logic Society</h1>
-    <nav>
-      {% include menu_items.html items=site.data.menu_items %}
+    <nav class="small">
+      {% include menu_items.html items=site.data.menu_items append="#content" %}
+    </nav>
+    <nav class="large">
+      {% include menu_items.html items=site.data.menu_items append="" %}
     </nav>
     <div id="content">
       {{ content }}

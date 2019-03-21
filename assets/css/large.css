@@ -1,3 +1,6 @@
+.small {
+  display: none;
+}
 #content {
   display: table-cell;
 }
