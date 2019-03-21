@@ -18,3 +18,6 @@ nav li {
 nav a {
   color: blue;
 }
+#content {
+  max-width: 70ch;
+}
