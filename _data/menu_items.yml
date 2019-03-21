@@ -2,8 +2,6 @@
   link: /
 - name: About
   link: /about.html
-- name: Links
-  link: /links.html
 - name: Events
   link: /events.html
 - name: Positions
@@ -18,3 +16,5 @@
   link: /norway.html
 - name: Logic in Sweden
   link: /sweden.html
+- name: Links
+  link: /links.html
