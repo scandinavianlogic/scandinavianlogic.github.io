@@ -16,3 +16,4 @@
 {{ "TODO: image" | log_warning }}
 {{ "TODO: verify css" | log_warning }}
 {{ "TODO: auto zoom on small devices" | log_warning }}
+{{ "TODO: documentation of everything" | log_warning }}
