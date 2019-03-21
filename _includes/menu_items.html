@@ -1,13 +1,17 @@
 <ul>
   {% for item in include.items %}
-    {% if item.link and page.url != item.link %}
-      <li><a href="{{ item.link }}">{{ item.name }}</a></li>
-    {% else %}
-      <li>{{ item.name }}</li>
+    {% if item.link and item.sub_items %}
+      {{ "both link and sub_items" | log_error }}
     {% endif %}
-    {% if item.sub_items %}
-      {% include menu_items.html items=item.sub_items %}
+    {% if item.link %}
+      <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+    {% elsif item.sub_items %}
+      <li>
+        {{ item.name }}
+        {% include menu_items.html items=item.sub_items %}
+      </li>
+    {% else %}
+      {{ "neither link nor sub_items" | log_error }}
     {% endif %}
   {% endfor %}
 </ul>
-
