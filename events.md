@@ -2,10 +2,12 @@
 layout: default
 title: Events
 ---
+## Events
+
 {% for post in site.posts %}
   {% if post.tags contains "event" %}
 
-## [{{ post.title }}]({{ post.url }})
+### [{{ post.title }}]({{ post.url }})
 
 {{ post.date | date_to_string }}
 

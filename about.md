@@ -2,24 +2,26 @@
 layout: default
 title: About
 ---
+## About the society
+
 Our aim at present is to develop this website for the purpose of sharing
 information on all matters related to logic in the Scandinavian countries. We
 wish the Society to construe the concept of logic as broadly as possible,
 including the fields computer science, philosophy, mathematics and linguistics.
 
-## Membership
+### Membership
 
 {{ "TODO: how to join/leave the Scandinavian Logic Society" | log_warning }}
 
-## Mailing list
+### Mailing list
 
 {{ "TODO: how to subscribe/unsubscribe to the mailing list" | log_warning }}
 
-## Inform about events
+### Inform about events
 
 {{ "TODO: where to send information about events" | log_warning }}
 
-## Executive Committee
+### Executive Committee
 
 **President:**
 
@@ -49,8 +51,7 @@ including the fields computer science, philosophy, mathematics and linguistics.
 - Øystein Linnebo, Oslo, Norway  
   <http://www.hf.uio.no/ifikk/personer/vit/filosofi/fast/oysteinl/>
 
-## Minutes
-
+### Minutes
 
 {% assign minutes_files = site.static_files | where: "minutes", true %}
 {% for file in minutes_files %}
