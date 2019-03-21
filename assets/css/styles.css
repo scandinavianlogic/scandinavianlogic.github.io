@@ -3,6 +3,7 @@
   line-height: 165%;
 }
 a {
+  word-wrap: break-word;
   text-decoration: none;
 }
 a:hover {
