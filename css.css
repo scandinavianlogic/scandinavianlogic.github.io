@@ -16,10 +16,16 @@ body {
   padding: 0;
 }
 
-/* layout on print, speech, small screens, and on devices not supporting media
+/* layout on speech, small screens, and on devices not supporting media
  * queries */
 #large_nav {
   display: none;
+}
+
+@media only print {
+  #menu {
+    display: none;
+  }
 }
 
 /* layout on large screens. total width with sidebar is 85ch but media queries
@@ -49,6 +55,7 @@ body {
 }
 
 /* STYLE */
+
 * {
   font-family: sans-serif;
 }
