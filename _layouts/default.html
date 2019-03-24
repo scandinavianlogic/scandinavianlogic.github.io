@@ -9,20 +9,22 @@
             - {{ page.title }}
         {% endif %}
     </title>
-    <link rel="stylesheet" href="/css/styles.css">
-    <link rel="stylesheet" media="(max-width: 90ch)" href="/css/small.css">
-    <link rel="stylesheet" media="(min-width: 90ch)" href="/css/large.css">
+    <link rel="stylesheet" href="css.css">
   </head>
   <body>
-    <h1>Scandinavian Logic Society</h1>
-    <nav class="small">
-      {% include menu_items.html items=site.data.menu_items append="#content" %}
-    </nav>
-    <nav class="large">
-      {% include menu_items.html items=site.data.menu_items append="" %}
-    </nav>
-    <div id="content">
-      {{ content }}
+    <header><h1>The Scandinavian Logic Society</h1></header>
+    <div id="main">
+      <div id="menu">
+        <nav id="small_nav">
+          {% include menu_items.html items=site.data.menu_items append="#content" %}
+        </nav>
+        <nav id="large_nav">
+          {% include menu_items.html items=site.data.menu_items append="" %}
+        </nav>
+      </div>
+      <div id="content">
+        {{ content }}
+      </div>
     </div>
   </body>
 </html>
