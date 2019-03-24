@@ -3,3 +3,5 @@ defaults:
       path: "assets/minutes"
     values:
       minutes: true
+collections:
+  - boxes

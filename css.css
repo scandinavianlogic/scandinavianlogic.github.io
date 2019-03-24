@@ -21,6 +21,9 @@ body {
 #large_nav {
   display: none;
 }
+#extras {
+  display: none;
+}
 
 @media only print {
   #menu {
@@ -36,6 +39,9 @@ body {
     display: none;
   }
   #large_nav {
+    display: block;
+  }
+  #extras {
     display: block;
   }
   #main {
@@ -86,4 +92,21 @@ a {
 }
 a:hover {
   text-decoration: underline;
+}
+.extras_box {
+  width: 100%;
+  background: #DDD;
+  box-shadow: 1px 1px #AAA;
+  margin-top: 7vh;
+}
+.extras_box_header {
+  background: #CCC;
+}
+.extras_box_header_text {
+  padding-left: 0.5ch;
+  padding-right: 0.5ch;
+  font-weight: bold;
+}
+.extras_box_text {
+  padding: 0.5ch;
 }

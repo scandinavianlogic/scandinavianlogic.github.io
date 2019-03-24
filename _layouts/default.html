@@ -21,6 +21,18 @@
         <nav id="large_nav">
           {% include menu_items.html items=site.data.menu_items append="" %}
         </nav>
+        <div id="extras">
+          {% for box in site.boxes %}
+            <div class="extras_box">
+              <div class="extras_box_header">
+                <div class="extras_box_header_text">{{ box.header }}</div>
+              </div>
+              <div class="extras_box_text">
+                {{ box.content }}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
       </div>
       <div id="content">
         {{ content }}
