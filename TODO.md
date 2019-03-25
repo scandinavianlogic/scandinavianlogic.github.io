@@ -18,3 +18,4 @@
 {{ "TODO: auto zoom on small devices" | log_warning }}
 {{ "TODO: documentation of everything" | log_warning }}
 {{ "TODO: plugin to validate HTML?" | log_warning }}
+{{ "TODO: do not output unneccessary files (e.g. Makefile)" | log_warning }}
