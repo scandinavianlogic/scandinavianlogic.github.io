@@ -9,3 +9,5 @@ title: Positions
 {{ "TODO: info where to send job announcements" | log_warning }}
 
 {% include posts.liquid tag="position" %}
+
+[All positions](./all_positions.html)

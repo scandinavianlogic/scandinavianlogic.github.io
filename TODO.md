@@ -19,4 +19,3 @@
 {{ "TODO: documentation of everything" | log_warning }}
 {{ "TODO: plugin to validate HTML?" | log_warning }}
 {{ "TODO: do not output unneccessary files (e.g. Makefile)" | log_warning }}
-{{ "TODO: lists of all news/positions/events" | log_warning }}

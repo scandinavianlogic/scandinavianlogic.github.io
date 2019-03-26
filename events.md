@@ -7,3 +7,5 @@ title: Events
 {{ "TODO: info where to send events" | log_warning }}
 
 {% include posts.liquid tag="event" %}
+
+[All events](./all_events.html)

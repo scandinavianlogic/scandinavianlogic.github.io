@@ -1,0 +1,20 @@
+<ul>
+{% for post in site.posts %}
+  {% if include.tag %}
+    {% comment %} check whether the post contains the tag {% endcomment %}
+    {% if post.tags contains include.tag %}
+      {% assign print = true %}
+    {% else %}
+      {% assign print = false %}
+    {% endif %}
+  {% else %}
+    {% assign print = true %}
+  {% endif %}
+  {% if print %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      ({{ post.date | date_to_string }})
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
