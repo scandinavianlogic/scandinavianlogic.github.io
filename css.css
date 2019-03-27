@@ -56,6 +56,9 @@ nav ul {
   nav ul {
     margin-bottom: 0;
   }
+  h2 {
+    margin-top: 0;
+  }
 }
 
 
@@ -84,9 +87,6 @@ nav ul {
 }
 .nav_link {
   color: blue;
-}
-h2 {
-  margin-top: 0;
 }
 a {
   word-wrap: break-word;
