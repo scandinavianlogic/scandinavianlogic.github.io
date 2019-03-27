@@ -84,6 +84,8 @@ nav {
   font-size: 1.25em;
 }
 nav ul {
+  list-style-position: inside;
+  padding-left: 1ch;
   padding-right: 1ch;
   list-style-type: square;
 }
