@@ -5,4 +5,4 @@ layout: default
 
 {% include posts.liquid %}
 
-[All news](./all_news.html)
+<a href="/all_news.html" class="nav_link">All news</a>

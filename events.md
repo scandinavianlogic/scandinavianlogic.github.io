@@ -8,4 +8,4 @@ title: Events
 
 {% include posts.liquid tag="event" %}
 
-[All events](./all_events.html)
+<a href="/all_events.html" class="nav_link">All events</a>

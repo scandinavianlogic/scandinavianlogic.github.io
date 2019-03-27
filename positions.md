@@ -10,4 +10,4 @@ title: Positions
 
 {% include posts.liquid tag="position" %}
 
-[All positions](./all_positions.html)
+<a href="/all_positions.html" class="nav_link">All positions</a>

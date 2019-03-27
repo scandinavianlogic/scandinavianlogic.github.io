@@ -81,7 +81,7 @@ nav ul {
   padding-right: 1ch;
   list-style-type: square;
 }
-nav a {
+.nav_link {
   color: blue;
 }
 h2 {
