@@ -13,7 +13,6 @@
 
 body {
   margin: var(--body-margin);
-  padding: 0;
 }
 
 /* layout on speech, small screens, and on devices not supporting media
@@ -21,11 +20,8 @@ body {
 #menu {
   max-width: var(--content-max-width);
 }
-#small_nav ul {
+nav ul {
   margin-top: 0;
-}
-#large_nav {
-  display: none;
 }
 #extras {
   display: none;
@@ -41,12 +37,6 @@ body {
  * use the browsers default font and size. thus 1ch here may be narrower than
  * 1ch in the font we use, so we use 100ch to be somewhat safe */
 @media only screen and (min-width: 100ch) {
-  #small_nav {
-    display: none;
-  }
-  #large_nav {
-    display: block;
-  }
   #extras {
     display: block;
   }
@@ -62,10 +52,10 @@ body {
     padding-left: var(--content-padding-left);
   }
   nav ul {
-    margin-top: 0;
     margin-bottom: 0;
   }
 }
+
 
 /* STYLE */
 
@@ -94,7 +84,6 @@ nav a {
 }
 h2 {
   margin-top: 0;
-  padding-top: 0;
 }
 a {
   word-wrap: break-word;
