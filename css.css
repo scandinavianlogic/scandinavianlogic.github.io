@@ -71,8 +71,9 @@ nav ul {
   max-width: var(--content-max-width);
 }
 nav {
+  width: 100%;
   background: #DDD;
-  box-shadow: 1px 1px #AAA;
+  border: 1px solid #AAA;
   font-size: 1.25em;
 }
 nav ul {
@@ -97,7 +98,7 @@ a:hover {
 .extras_box {
   width: 100%;
   background: #DDD;
-  box-shadow: 1px 1px #AAA;
+  border: 1px solid #AAA;
   margin-top: 7vh;
 }
 .extras_box_header {
