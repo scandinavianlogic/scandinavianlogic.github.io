@@ -2,8 +2,8 @@
 
 :root {
   --body-margin: 2ch;
-  --sidebar-width: 25ch;
-  --content-padding-left: 3ch;
+  --sidebar-width: 28ch; /* including padding */
+  --sidebar-padding-right: 3ch;
   --content-max-width: 53ch;
   /* total width with sidebar = 85ch */
 }
@@ -11,6 +11,9 @@
 
 /* LAYOUT */
 
+* {
+  box-sizing: border-box;
+}
 body {
   margin: var(--body-margin);
 }
@@ -20,8 +23,7 @@ nav ul {
 }
 
 
-/* layout on speech, small screens, and on devices not supporting media
- * queries */
+/* layout when not on a large screen supporting media queries */
 #menu {
   max-width: var(--content-max-width);
 }
@@ -29,16 +31,17 @@ nav ul {
   display: none;
 }
 
-/* layout on print */
+/* additional layout on print */
 @media only print {
   #menu {
     display: none;
   }
 }
 
-/* layout on large screens. total width with sidebar is 85ch but media queries
- * use the browsers default font and size. thus 1ch here may be narrower than
- * 1ch in the font we use, so we use 100ch to be somewhat safe */
+/* layout on large screens supporting media queries. total width with sidebar is
+ * 85ch but media queries use the browsers default font and size. thus 1ch here
+ * may be narrower than 1ch in the font we use, so we use 100ch to be somewhat
+ * safe */
 @media only screen and (min-width: 100ch) {
   #extras {
     display: block;
@@ -49,10 +52,10 @@ nav ul {
   #menu {
     display: table-cell;
     width: var(--sidebar-width);
+    padding-right: var(--sidebar-padding-right);
   }
   #content {
     display: table-cell;
-    padding-left: var(--content-padding-left);
   }
   h2 {
     margin-top: 0;
@@ -71,10 +74,12 @@ nav ul {
 #content {
   max-width: var(--content-max-width);
 }
-nav {
+nav, .extras_box {
   width: 100%;
   background: #DDD;
   border: 1px solid #AAA;
+}
+nav {
   font-size: 1.25em;
 }
 nav ul {
@@ -94,9 +99,6 @@ a:hover {
   text-decoration: underline;
 }
 .extras_box {
-  width: 100%;
-  background: #DDD;
-  border: 1px solid #AAA;
   margin-top: 7vh;
 }
 .extras_box_header {
