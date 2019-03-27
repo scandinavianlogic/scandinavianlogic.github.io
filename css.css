@@ -112,3 +112,19 @@ a:hover {
 .extras_box_text {
   padding: 0.5ch;
 }
+.news_list {
+  display: table;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.news_item {
+  display: table-row;
+}
+.news_date {
+  display: table-cell;
+  white-space: nowrap;
+  padding-right: 2ch;
+}
+.news_link {
+  display: table-cell;
+}
