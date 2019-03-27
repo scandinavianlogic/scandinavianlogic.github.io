@@ -14,19 +14,21 @@
 body {
   margin: var(--body-margin);
 }
+nav ul {
+  margin-top: 0;
+}
+
 
 /* layout on speech, small screens, and on devices not supporting media
  * queries */
 #menu {
   max-width: var(--content-max-width);
 }
-nav ul {
-  margin-top: 0;
-}
 #extras {
   display: none;
 }
 
+/* layout on print */
 @media only print {
   #menu {
     display: none;
