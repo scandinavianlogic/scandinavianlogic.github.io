@@ -16,6 +16,7 @@ body {
 }
 nav ul {
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 
@@ -52,9 +53,6 @@ nav ul {
   #content {
     display: table-cell;
     padding-left: var(--content-padding-left);
-  }
-  nav ul {
-    margin-bottom: 0;
   }
   h2 {
     margin-top: 0;
