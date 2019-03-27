@@ -18,6 +18,12 @@ body {
 
 /* layout on speech, small screens, and on devices not supporting media
  * queries */
+#menu {
+  max-width: var(--content-max-width);
+}
+#small_nav ul {
+  margin-top: 0;
+}
 #large_nav {
   display: none;
 }
@@ -56,7 +62,8 @@ body {
     padding-left: var(--content-padding-left);
   }
   nav ul {
-    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 }
 
@@ -72,11 +79,12 @@ body {
   max-width: var(--content-max-width);
 }
 nav {
+  background: #DDD;
+  box-shadow: 1px 1px #AAA;
   font-size: 1.25em;
 }
 nav ul {
-  list-style-position: inside;
-  padding-left: 0;
+  padding-right: 1ch;
   list-style-type: square;
 }
 nav a {
