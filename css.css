@@ -2,10 +2,10 @@
 
 :root {
   --body-margin: 2ch;
-  --sidebar-width: 33ch; /* including padding */
+  --sidebar-width: 30ch; /* including padding */
   --sidebar-padding-right: 3ch;
   --content-max-width: 53ch;
-  --total-width-with-sidebar: 90ch;
+  --total-width-with-sidebar: 87ch;
 }
 
 
@@ -45,10 +45,10 @@ header {
 }
 
 /* layout on large screens supporting media queries. total width with sidebar is
- * 90ch but media queries use the browsers default font and size. thus 1ch here
- * may be narrower than 1ch in the font we use, so we use 105ch to be somewhat
+ * 87ch but media queries use the browsers default font and size. thus 1ch here
+ * may be narrower than 1ch in the font we use, so we use 102ch to be somewhat
  * safe */
-@media only screen and (min-width: 105ch) {
+@media only screen and (min-width: 102ch) {
   header {
     max-width: var(--total-width-with-sidebar);
     width: var(--total-width-with-sidebar);
