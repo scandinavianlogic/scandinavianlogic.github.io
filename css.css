@@ -2,10 +2,10 @@
 
 :root {
   --body-margin: 2ch;
-  --sidebar-width: 28ch; /* including padding */
+  --sidebar-width: 33ch; /* including padding */
   --sidebar-padding-right: 3ch;
   --content-max-width: 53ch;
-  /* total width with sidebar = 85ch */
+  --total-width-with-sidebar: 90ch;
 }
 
 
@@ -24,7 +24,13 @@ nav ul {
 
 
 /* layout when not on a large screen supporting media queries */
-#menu {
+header {
+  max-width: var(--content-max-width);
+}
+#main {
+  max-width: var(--content-max-width);
+}
+#content {
   max-width: var(--content-max-width);
 }
 #extras {
@@ -39,15 +45,21 @@ nav ul {
 }
 
 /* layout on large screens supporting media queries. total width with sidebar is
- * 85ch but media queries use the browsers default font and size. thus 1ch here
- * may be narrower than 1ch in the font we use, so we use 100ch to be somewhat
+ * 90ch but media queries use the browsers default font and size. thus 1ch here
+ * may be narrower than 1ch in the font we use, so we use 105ch to be somewhat
  * safe */
-@media only screen and (min-width: 100ch) {
-  #extras {
-    display: block;
+@media only screen and (min-width: 105ch) {
+  header {
+    max-width: var(--total-width-with-sidebar);
+    width: var(--total-width-with-sidebar);
   }
   #main {
     display: table;
+    max-width: var(--total-width-with-sidebar);
+    width: var(--total-width-with-sidebar);
+  }
+  #extras {
+    display: block;
   }
   #menu {
     display: table-cell;
@@ -71,9 +83,6 @@ nav ul {
 #main {
   line-height: 1.65;
 }
-#content {
-  max-width: var(--content-max-width);
-}
 nav, .extras_box {
   width: 100%;
   background: #DDD;
@@ -83,10 +92,12 @@ nav {
   font-size: 1.25em;
 }
 nav ul {
-  list-style-position: inside;
-  padding-left: 1ch;
-  padding-right: 1ch;
+  padding-left: 3ch;
+  padding-right: 2ch;
   list-style-type: square;
+}
+.menu_item {
+  padding-left: 0.5ch;
 }
 .nav_link {
   color: blue;

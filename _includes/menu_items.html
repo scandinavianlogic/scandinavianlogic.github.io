@@ -4,7 +4,11 @@
       {{ "both link and sub_items" | log_error }}
     {% endif %}
     {% if item.link %}
-      <li><a href="{{ item.link }}" class="nav_link">{{ item.name }}</a></li>
+      <li>
+        <div class="menu_item">
+          <a href="{{ item.link }}" class="nav_link">{{ item.name }}</a>
+        </div>
+      </li>
     {% elsif item.sub_items %}
       <li>
         {{ item.name }}
