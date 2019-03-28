@@ -26,23 +26,23 @@ including the fields computer science, philosophy, mathematics and linguistics.
 
 ## Executive committee
 
-**President:**
+President:
 
 - [Valentin Goranko](https://www2.philosophy.su.se/goranko), Stockholm, Sweden
 
-**Vice-president:**
+Vice-president:
 
 - [Åsa Hirvonen](http://www.helsinki.fi/~asaekman/), Helsinki, Finland
 
-**Secretary:**
+Secretary:
 
 - [Øystein Linnebo](http://www.hf.uio.no/ifikk/personer/vit/filosofi/fast/oysteinl/), Oslo, Norway
 
-**Public relations:**
+Public relations:
 
 - [Vera Koponen](https://katalog.uu.se/profile/?id=N96-558), Uppsala, Sweden
 
-**National representatives:**
+National representatives:
 
 - [Thomas Bolander](http://www.dtu.dk/english/service/phonebook/person?id=6474&amp;tab=1), Kongens Lyngby, Denmark
 

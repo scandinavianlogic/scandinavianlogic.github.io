@@ -7,12 +7,12 @@ On June 15th, after a nomination process, the former president of SLS and chair
 of the election committee, Dag Normann, announced the following new president
 and new executive committee of the society.
 
-**President:**
+President:
 
   - Valentin Goranko, Stockholm, Sweden  
     <https://www2.philosophy.su.se/goranko>
 
-**Members at large:**
+Members at large:
 
   - Thomas Bolander, Kongens Lyngby, Denmark  
     <http://www.dtu.dk/english/service/phonebook/person?id=6474&amp;tab=1>
