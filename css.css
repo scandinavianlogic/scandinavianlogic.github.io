@@ -17,7 +17,7 @@
 body {
   margin: var(--body-margin);
 }
-nav ul {
+#menu ul {
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -46,9 +46,9 @@ header {
 
 /* layout on large screens supporting media queries. total width with sidebar is
  * 87ch but media queries use the browsers default font and size. thus 1ch here
- * may be narrower than 1ch in the font we use, so we use 102ch to be somewhat
+ * may be narrower than 1ch in the font we use, so we use 107ch to be somewhat
  * safe */
-@media only screen and (min-width: 102ch) {
+@media only screen and (min-width: 107ch) {
   header {
     max-width: var(--total-width-with-sidebar);
     width: var(--total-width-with-sidebar);
@@ -63,11 +63,13 @@ header {
   }
   #menu {
     display: table-cell;
+    vertical-align: top;
     width: var(--sidebar-width);
     padding-right: var(--sidebar-padding-right);
   }
   #content {
     display: table-cell;
+    vertical-align: top;
   }
   h2 {
     margin-top: 0;
@@ -87,32 +89,9 @@ h3 {
   font-size: medium;
 }
 h4 {
-  font-size: small;
-}
-h5 {
-  font-size: x-small;
-}
-h6 {
-  font-size: xx-small;
-}
-* {
-  font-family: sans-serif;
-}
-#main {
-  line-height: 1.65;
-}
-nav, .extras_box {
-  width: 100%;
-  background: #DDD;
-  border: 1px solid #AAA;
-}
-nav {
-  font-size: 1.25em;
-}
-nav ul {
-  padding-left: 3ch;
-  padding-right: 2ch;
-  list-style-type: square;
+  font-size: medium;
+  font-weight: normal;
+  font-style: italic;
 }
 .nav_link {
   color: blue;
@@ -123,6 +102,34 @@ a {
 }
 a:hover {
   text-decoration: underline;
+}
+* {
+  font-family: sans-serif;
+}
+#main {
+  line-height: 1.65;
+}
+#menu nav, nav.submenu, .extras_box {
+  background: #DDD;
+  border: 1px solid #AAA;
+}
+#menu nav {
+  font-size: 1.2em;
+}
+#menu ul {
+  padding-left: 3ch;
+  padding-right: 2ch;
+  list-style-type: square;
+}
+nav.submenu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+}
+nav.submenu a {
+  margin-left: 0.5ch;
+  margin-right: 0.5ch;
 }
 .extras_box {
   margin-top: 7vh;
