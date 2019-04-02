@@ -5,3 +5,4 @@ defaults:
       minutes: true
 collections:
   - boxes
+permalink: /:year-:month-:day-:title:output_ext
