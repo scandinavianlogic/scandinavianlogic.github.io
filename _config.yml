@@ -6,3 +6,9 @@ defaults:
 collections:
   - boxes
 permalink: /:year-:month-:day-:title:output_ext
+plugins:
+  - jekyll-feed
+feed:
+  categories:
+    - events
+    - positions

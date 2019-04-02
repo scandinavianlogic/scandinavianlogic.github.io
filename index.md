@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Latest news
+{% include feed_header.liquid text="Latest news" url="/feed.xml" %}
 
 {% include list_news.liquid limit=5 %}
 

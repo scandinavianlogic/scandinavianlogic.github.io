@@ -161,3 +161,7 @@ nav.submenu a {
 .news_link {
   display: table-cell;
 }
+img.feed_icon {
+  width: 1ex;
+  height: 1ex;
+}
