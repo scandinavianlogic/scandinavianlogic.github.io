@@ -1,7 +1,7 @@
 {% for post in site.posts %}
-  {% if include.tag %}
-    {% comment %} check whether the post contains the tag {% endcomment %}
-    {% if post.tags contains include.tag %}
+  {% if include.category %}
+    {% comment %} check whether the post contains the category {% endcomment %}
+    {% if post.categories contains include.category %}
       {% assign print = true %}
     {% else %}
       {% assign print = false %}

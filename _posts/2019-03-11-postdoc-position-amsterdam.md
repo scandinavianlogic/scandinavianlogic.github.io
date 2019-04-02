@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Postdoc position in proof systems for modal fixpoint logics, Amsterdam"
-tags: [position]
+category: positions
 ---
 - University of Amsterdam, The Netherlands
 - Duration: 3 years, starting September 2019 or shortly thereafter

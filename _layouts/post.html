@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-{% comment %} check that all tags are valid {% endcomment %}
-{% for tag in page.tags %}
-  {% unless site.data.valid_tags contains tag %}
-    {{ "invalid tag '" | append: tag | append: "'" | log_warning }}
+{% comment %} check that all categories are valid {% endcomment %}
+{% for category in page.categories %}
+  {% unless site.data.valid_categories contains category %}
+    {{ "invalid category '" | append: category | append: "'" | log_error }}
   {% endunless %}
 {% endfor %}
 {% comment %} generate page {% endcomment %}

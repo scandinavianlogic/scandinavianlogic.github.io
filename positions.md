@@ -4,4 +4,4 @@ title: Positions
 ---
 ## Positions
 
-{% include list_news.liquid tag="position" %}
+{% include list_news.liquid category="positions" %}

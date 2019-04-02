@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PhD positions in proof systems for modal fixpoint logics, Amsterdam"
-tags: [position]
+category: positions
 ---
 - University of Amsterdam, The Netherlands
 - Duration: 4 years fully-funded, starting September 2019 or shortly thereafter

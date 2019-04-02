@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Executive Committee of the Society"
-tags: []
 ---
 On June 15th, after a nomination process, the former president of SLS and chair
 of the election committee, Dag Normann, announced the following new president

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KVA workshop on Rational Agency and Logic on November 30"
-tags: [event]
+category: events
 ---
 A one-day workshop on Rational Agency and Logic will be held in Stockholm at the
 Royal Swedish Academy of Sciences (KVA), in Linnésalen, on Friday, November 30,
