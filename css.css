@@ -33,9 +33,6 @@ header {
 #content {
   max-width: var(--content-max-width);
 }
-#extras {
-  display: none;
-}
 
 /* additional layout on print */
 @media only print {
@@ -57,9 +54,6 @@ header {
     display: table;
     max-width: var(--total-width-with-sidebar);
     width: var(--total-width-with-sidebar);
-  }
-  #extras {
-    display: block;
   }
   #menu {
     display: table-cell;
@@ -109,7 +103,7 @@ a:hover {
 #main {
   line-height: 1.65;
 }
-#menu nav, nav.submenu, .extras_box {
+#menu nav, nav.submenu {
   background: #DDD;
   border: 1px solid #AAA;
 }
@@ -130,20 +124,6 @@ nav.submenu {
 nav.submenu a {
   margin-left: 0.5ch;
   margin-right: 0.5ch;
-}
-.extras_box {
-  margin-top: 7vh;
-}
-.extras_box_header {
-  background: #CCC;
-}
-.extras_box_header_text {
-  padding-left: 0.5ch;
-  padding-right: 0.5ch;
-  font-weight: bold;
-}
-.extras_box_text {
-  padding: 0.5ch;
 }
 .news_list {
   display: table;

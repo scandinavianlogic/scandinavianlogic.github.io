@@ -3,8 +3,6 @@ defaults:
       path: "assets/minutes"
     values:
       minutes: true
-collections:
-  - boxes
 permalink: /:year-:month-:day-:title:output_ext
 plugins:
   - jekyll-feed
