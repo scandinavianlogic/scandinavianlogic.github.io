@@ -9,3 +9,4 @@
 {{ "TODO: twitter presence?" | log_warning }}
 {{ "TODO: women in logic?" | log_warning }}
 {{ "TODO: check look without css" | log_warning }}
+{{ "TODO: search engine optimization" | log_warning }}
