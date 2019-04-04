@@ -22,7 +22,8 @@ including the fields computer science, philosophy, mathematics and linguistics.
 
 ## Inform about news, events or open positions
 
-{{ "TODO: how to inform about news, events or open positions" | log_warning }}
+We gratefully accept submissions of relevant announcments and other relevant
+news. Please e-mail <webmaster@scandinavianlogic.org>.
 
 ## Executive committee
 
