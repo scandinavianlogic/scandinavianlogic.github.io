@@ -17,7 +17,11 @@
     <div id="main">
       <div id="menu">
         <nav>
-          {% include menu_items.html items=site.data.menu_items %}
+          <ul>
+            {% for item in site.data.menu_items %}
+              <li><a href="{{ item.link }}" class="nav_link">{{ item.name }}</a></li>
+            {% endfor %}
+          </ul>
         </nav>
         <div id="extras">
           {% for box in site.boxes %}
