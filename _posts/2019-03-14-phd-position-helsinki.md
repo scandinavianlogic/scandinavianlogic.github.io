@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "PhD position in theory and applications of dependence logic, Helsinki"
+deadline: "2019-04-27"
 category: positions
 ---
 The Department of Mathematics and Statistics at the University of Helsinki

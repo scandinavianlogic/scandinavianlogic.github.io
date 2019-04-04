@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "PhD positions in proof systems for modal fixpoint logics, Amsterdam"
+deadline: "2019-04-19"
 category: positions
 ---
 - University of Amsterdam, The Netherlands

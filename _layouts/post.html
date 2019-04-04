@@ -6,6 +6,20 @@ layout: default
   {% unless site.data.valid_categories contains category %}
     {{ "invalid category '" | append: category | append: "'" | log_error }}
   {% endunless %}
+  {% comment %} check that mandatory fields are present {% endcomment %}
+  {% case category %}
+    {% when "positions" %}
+      {% unless page.deadline %}
+        {{ "deadline missing" | log_error }}
+      {% endunless %}
+    {% when "events" %}
+      {% unless page.start_date %}
+        {{ "start_date missing" | log_error }}
+      {% endunless %}
+      {% unless page.dates_label %}
+        {{ "dates_label missing" | log_error }}
+      {% endunless %}
+  {% endcase %}
 {% endfor %}
 {% comment %} generate page {% endcomment %}
 <h2>{{ page.title }}</h2>

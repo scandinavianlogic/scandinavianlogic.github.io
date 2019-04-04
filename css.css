@@ -150,8 +150,11 @@ nav.submenu a {
   margin-top: 1em;
   margin-bottom: 1em;
 }
-.news_item {
+.news_item, .news_header {
   display: table-row;
+}
+.news_header {
+  font-style: italic;
 }
 .news_date {
   display: table-cell;

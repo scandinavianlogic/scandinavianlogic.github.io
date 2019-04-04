@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Postdoc position in proof systems for modal fixpoint logics, Amsterdam"
+deadline: "2019-04-28"
 category: positions
 ---
 - University of Amsterdam, The Netherlands

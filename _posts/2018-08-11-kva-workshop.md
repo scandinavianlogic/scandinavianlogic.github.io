@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "KVA workshop on Rational Agency and Logic on November 30"
+start_date: "2018-11-30"
+dates_label: "30 Nov 2018"
 category: events
 ---
 A one-day workshop on Rational Agency and Logic will be held in Stockholm at the
