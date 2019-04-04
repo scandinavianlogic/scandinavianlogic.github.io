@@ -5,13 +5,6 @@ layout: default
 
 {% include list_news.liquid limit=5 %}
 
-## About the society
-
-Our aim at present is to develop this website for the purpose of sharing
-information on all matters related to logic in the Scandinavian countries. We
-wish the Society to construe the concept of logic as broadly as possible,
-including the fields computer science, philosophy, mathematics and linguistics.
-
 ## Membership
 
 {{ "TODO: how to join/leave the Scandinavian Logic Society" | log_warning }}
@@ -24,6 +17,13 @@ including the fields computer science, philosophy, mathematics and linguistics.
 
 We gratefully accept submissions of relevant announcments and other relevant
 news. Please e-mail <webmaster@scandinavianlogic.org>.
+
+## About the society
+
+Our aim at present is to develop this website for the purpose of sharing
+information on all matters related to logic in the Scandinavian countries. We
+wish the Society to construe the concept of logic as broadly as possible,
+including the fields computer science, philosophy, mathematics and linguistics.
 
 ## Executive committee
 
