@@ -125,24 +125,31 @@ nav.submenu a {
   margin-left: 0.5ch;
   margin-right: 0.5ch;
 }
-.news_list {
-  display: table;
+table.posts_list {
+  border-spacing: 0;
   margin-top: 1em;
   margin-bottom: 1em;
 }
-.news_item, .news_header {
-  display: table-row;
+table.posts_list tr {
+  padding: 0;
+  margin: 0;
 }
-.news_header {
+table.posts_list th {
   font-style: italic;
+  font-weight: normal;
+  text-align: left;
 }
-.news_date {
-  display: table-cell;
+td.post_date, th.post_date {
   white-space: nowrap;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
   padding-right: 2ch;
+  vertical-align: top;
 }
-.news_link {
-  display: table-cell;
+td.post_link, th.post_link {
+  padding: 0;
+  vertical-align: top;
 }
 img.feed_icon {
   width: 1.2ex;
