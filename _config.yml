@@ -8,7 +8,7 @@ collections:
 permalink: /:year-:month-:day-:title:output_ext
 plugins:
   - jekyll-feed
-title: SLS # for feeds
+title: "Scandinavian Logic Society" # for feeds
 feed:
   categories:
     - events
