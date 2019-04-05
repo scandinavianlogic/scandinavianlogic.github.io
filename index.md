@@ -15,7 +15,7 @@ layout: default
 
 ## Inform about news, events or open positions
 
-We gratefully accept submissions of relevant announcments and other relevant
+We gratefully accept submissions of relevant announcements and other relevant
 news. Please e-mail <webmaster@scandinavianlogic.org>.
 
 ## About the society
