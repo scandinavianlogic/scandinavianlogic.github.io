@@ -111,8 +111,9 @@ a:hover {
   font-size: 1.2em;
 }
 #menu ul {
-  padding-left: 3ch;
-  padding-right: 2ch;
+  padding-left: 1ch;
+  list-style-position: inside;
+  padding-right: 1ch;
   list-style-type: square;
 }
 nav.submenu {
