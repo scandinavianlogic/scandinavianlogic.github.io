@@ -148,6 +148,9 @@ td.post_date, th.post_date {
   padding-right: 2ch;
   vertical-align: top;
 }
+td.post_date {
+  text-align: right;
+}
 td.post_link, th.post_link {
   padding: 0;
   vertical-align: top;
