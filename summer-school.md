@@ -11,7 +11,7 @@ particular subject.
 
 ### Past schools
 
-- 2013: Nordfjordeid {{ "TODO: link to 2013 summer school" }}
+- 2013: Nordfjordeid
 - 2015: [Helsinki](http://www.helsinki.fi/sls2015/index.html)
 - 2017: [Stockholm](https://www.math-stockholm.se/en/konferenser-och-akti/logic-in-stockholm-2/nls-summer-school-in)
 
