@@ -149,7 +149,7 @@ td.post_date, th.post_date {
   vertical-align: top;
 }
 td.post_date {
-  text-align: right;
+  font-variant-numeric: tabular-nums;
 }
 td.post_link, th.post_link {
   padding: 0;
