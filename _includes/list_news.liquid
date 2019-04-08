@@ -31,9 +31,9 @@
           {% when "events" %}
             {{ post.dates_label }}
           {% when "positions" %}
-            {{ post.deadline | date_to_string }}
+            {{ post.deadline | date: "%Y-%m-%d" }}
           {% else %}
-            {{ post.date | date_to_string }}
+            {{ post.date | date: "%Y-%m-%d" }}
         {% endcase %}
       </td>
       <td class="post_link">
