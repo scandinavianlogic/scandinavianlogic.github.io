@@ -8,3 +8,4 @@
 {{ "TODO: do not output unneccessary files (e.g. Makefile)" | log_warning }}
 {{ "TODO: check look without css" | log_warning }}
 {{ "TODO: search engine optimization" | log_warning }}
+{{ "TODO: stable sort in news lists" | log_warning }}
