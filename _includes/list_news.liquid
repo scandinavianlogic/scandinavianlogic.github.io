@@ -29,7 +29,11 @@
       <td class="post_date">
         {% case include.category %}
           {% when "events" %}
-            {{ post.dates_label }}
+            {{ post.start_date | date: "%Y-%m-%d" }}
+            {% if post.end_date != post.start_date %}
+              –
+              {{ post.end_date | date: "%Y-%m-%d" }}
+            {% endif %}
           {% when "positions" %}
             {{ post.deadline | date: "%Y-%m-%d" }}
           {% else %}

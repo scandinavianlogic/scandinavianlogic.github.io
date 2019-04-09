@@ -16,8 +16,8 @@ layout: default
       {% unless page.start_date %}
         {{ "start_date missing" | log_error }}
       {% endunless %}
-      {% unless page.dates_label %}
-        {{ "dates_label missing" | log_error }}
+      {% unless page.end_date %}
+        {{ "end_date missing" | log_error }}
       {% endunless %}
   {% endcase %}
 {% endfor %}

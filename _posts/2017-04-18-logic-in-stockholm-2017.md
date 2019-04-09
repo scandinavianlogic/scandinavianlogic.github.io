@@ -2,7 +2,7 @@
 layout: post
 title: "Logic in Stockholm 2017, August 7–25"
 start_date: "2017-08-07"
-dates_label: "7–25 Aug 2017"
+end_date: "2017-08-25"
 category: [events]
 ---
 
