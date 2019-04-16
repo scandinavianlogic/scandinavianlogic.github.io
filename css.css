@@ -1,10 +1,11 @@
 /* VARIABLES */
 
 :root {
-  --body-margin: 2ch;
+  --body-padding: 2ch;
   --sidebar-width: 30ch; /* including padding */
   --sidebar-padding-right: 3ch;
   --content-max-width: 53ch;
+  --total-width-without-sidebar: 57ch;
   --total-width-with-sidebar: 87ch;
 }
 
@@ -15,7 +16,10 @@
   box-sizing: border-box;
 }
 body {
-  margin: var(--body-margin);
+  padding-left: var(--body-padding);
+  padding-right: var(--body-padding);
+  margin: 0 auto;
+  max-width: var(--total-width-without-sidebar);
 }
 #menu ul {
   margin-top: 0;
@@ -46,6 +50,10 @@ header {
  * may be narrower than 1ch in the font we use, so we use 107ch to be somewhat
  * safe */
 @media only screen and (min-width: 107ch) {
+  body {
+    margin: 0;
+    max-width: initial;
+  }
   header {
     max-width: var(--total-width-with-sidebar);
     width: var(--total-width-with-sidebar);
