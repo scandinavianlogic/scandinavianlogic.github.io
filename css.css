@@ -114,6 +114,7 @@ a:hover {
 #menu nav, nav.submenu {
   background: #DDD;
   border: 1px solid #AAA;
+  border-radius: 4px;
 }
 #menu nav {
   font-size: 1.2em;
