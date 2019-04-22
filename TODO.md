@@ -9,3 +9,4 @@
 {{ "TODO: check look without css" | log_warning }}
 {{ "TODO: search engine optimization" | log_warning }}
 {{ "TODO: stable sort in news lists" | log_warning }}
+{{ "TODO: validate published page" | log_warning }}
