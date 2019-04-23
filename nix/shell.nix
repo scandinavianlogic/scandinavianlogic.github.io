@@ -11,5 +11,6 @@ stdenv.mkDerivation {
     pkgconfig
     libxml2
     bundler
+    html-proofer
   ];
 }
