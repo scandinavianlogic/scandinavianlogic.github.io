@@ -16,6 +16,9 @@ build: install
 serve: install
 	jekyll serve --watch
 
+serve-all: install
+	jekyll serve --watch --host 0.0.0.0
+
 test: build
 	htmlproofer --check-html --check-img-http --check-opengraph --check-sri ./_site
 
