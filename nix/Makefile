@@ -1,4 +1,4 @@
-.PHONY: install update clean build serve
+.PHONY: install update clean build serve serve-all
 
 install: .direnv/bin/github-pages
 
