@@ -10,7 +10,7 @@
 }
 
 
-/* LAYOUT */
+/* MAIN LAYOUT */
 
 * {
   box-sizing: border-box;
@@ -23,11 +23,30 @@ body {
   margin: 0 auto;
   max-width: var(--total-width-without-sidebar);
 }
+#main {
+  line-height: 1.65;
+}
 #menu ul {
   margin-top: 0;
   margin-bottom: 0;
+  padding-left: 1ch;
+  padding-right: 1ch;
+  list-style-position: inside;
+  list-style-type: square;
 }
-
+#menu nav, nav.submenu {
+  border-radius: 3px;
+}
+nav.submenu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+}
+nav.submenu a {
+  margin-left: 0.5ch;
+  margin-right: 0.5ch;
+}
 
 /* layout when not on a large screen supporting media queries */
 header {
@@ -75,67 +94,16 @@ header {
     display: table-cell;
     vertical-align: top;
   }
-  h2 {
+  #content> :first-child {
     margin-top: 0;
   }
 }
 
 
-/* STYLE */
+/* ADDITIONAL LAYOUT */
 
-h1 {
-  font-size: x-large;
-}
-h2 {
-  font-size: large;
-}
-h3 {
-  font-size: medium;
-}
-h4 {
-  font-size: medium;
-  font-weight: normal;
-  font-style: italic;
-}
-.nav_link {
-  color: blue;
-}
 a {
   word-wrap: break-word;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-* {
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
-}
-#main {
-  line-height: 1.65;
-}
-#menu nav, nav.submenu {
-  background: #DDD;
-  border: 1px solid #AAA;
-  border-radius: 4px;
-}
-#menu nav {
-  font-size: 1.2em;
-}
-#menu ul {
-  padding-left: 1ch;
-  list-style-position: inside;
-  padding-right: 1ch;
-  list-style-type: square;
-}
-nav.submenu {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  width: 100%;
-}
-nav.submenu a {
-  margin-left: 0.5ch;
-  margin-right: 0.5ch;
 }
 table.posts_list {
   border-spacing: 0;
@@ -169,4 +137,66 @@ td.post_link, th.post_link {
 img.feed_icon {
   width: 1.1ex;
   height: 1.1ex;
+}
+
+
+/* COLORS */
+
+* {
+  color: #203549;
+}
+#menu nav, nav.submenu {
+  background-color: #E5E8EA;
+}
+a, nav a:visited {
+  color: #2D59EF;
+}
+a:visited {
+  color: #551A8B;
+}
+
+
+/* FONTS */
+
+* {
+  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-weight: 400;
+}
+#menu nav {
+  font-size: 1.2em;
+}
+h1 {
+  font-size: x-large;
+  font-weight: 500;
+}
+h2 {
+  font-size: large;
+  font-weight: 500;
+}
+h3 {
+  font-size: medium;
+  font-weight: 500;
+}
+h4 {
+  font-size: medium;
+  font-weight: 400;
+  font-style: italic;
+}
+h5 {
+  font-size: smaller;
+  font-weight: 500;
+}
+h6 {
+  font-size: smaller;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+/* STYLING */
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }

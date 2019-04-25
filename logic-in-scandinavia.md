@@ -5,11 +5,11 @@ title: Logic in Scandinavia
 ## Logic in Scandinavia
 
 <nav class="submenu">
-  <a class="nav_link" href="#denmark">Denmark</a>
-  <a class="nav_link" href="#finland">Finland</a>
-  <a class="nav_link" href="#iceland">Iceland</a>
-  <a class="nav_link" href="#norway">Norway</a>
-  <a class="nav_link" href="#sweden">Sweden</a>
+  <a href="#denmark">Denmark</a>
+  <a href="#finland">Finland</a>
+  <a href="#iceland">Iceland</a>
+  <a href="#norway">Norway</a>
+  <a href="#sweden">Sweden</a>
 </nav>
 
 ### Denmark
