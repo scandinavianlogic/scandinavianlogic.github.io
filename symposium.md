@@ -19,7 +19,7 @@ logic (broadly conceived) carried out in research communities in Scandinavia.
 - 1996: Uppsala
 - 2012: [Roskilde](http://scandinavianlogic.weebly.com)
 - 2014: [Tampere](http://www.sis.uta.fi/SLS2014/)
-- 2016: [Gothenburg]({% post_url 2017-09-18-SLS2018 %})
+- 2018: [Gothenburg]({% post_url 2017-09-18-SLS2018 %})
 
 ### News
 
