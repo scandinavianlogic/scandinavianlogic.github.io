@@ -140,6 +140,12 @@ table.posts_list tr {
   padding: 0;
   margin: 0;
 }
+table.posts_list th, table.posts_list td {
+  padding-top: 0.5em;
+}
+table.posts_list tr:first-child th, table.posts_list tr:first-child td {
+  padding-top: 0;
+}
 table.posts_list th {
   font-style: italic;
   font-weight: normal;
@@ -147,7 +153,6 @@ table.posts_list th {
 }
 td.post_date, th.post_date {
   white-space: nowrap;
-  padding-top: 0;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 1.5ch;
@@ -157,7 +162,9 @@ td.post_date {
   font-variant-numeric: tabular-nums;
 }
 td.post_link, th.post_link {
-  padding: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
   vertical-align: top;
 }
 img.feed_icon {
