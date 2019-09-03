@@ -10,3 +10,4 @@
 {{ "TODO: stable sort in news lists" | log_warning }}
 {{ "TODO: validate published page" | log_warning }}
 {{ "TODO: make menu into a drop-down on screens with small height" | log_warning }}
+{{ "TODO: make menu and header look like they have the same background color" | log_warning }}
