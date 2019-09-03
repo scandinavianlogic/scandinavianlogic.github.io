@@ -10,3 +10,4 @@
 {{ "TODO: search engine optimization" | log_warning }}
 {{ "TODO: stable sort in news lists" | log_warning }}
 {{ "TODO: validate published page" | log_warning }}
+{{ "TODO: make menu into a drop-down on screens with small height" | log_warning }}
