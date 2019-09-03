@@ -31,8 +31,11 @@ header {
 header img {
   width: 100%;
   vertical-align: text-bottom;
+  border-radius: 3px;
 }
 header h1 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
   position: absolute;
   bottom: 0;
   left: 0;
