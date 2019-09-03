@@ -70,10 +70,19 @@ nav.submenu a {
   margin-left: 0.5ch;
   margin-right: 0.5ch;
 }
+footer {
+  margin-top: 3em;
+}
+footer p {
+  text-align: center;
+}
 
 /* layout when not on a large screen supporting media queries */
 header {
   max-width: var(--content-max-width);
+}
+#menu {
+  margin-bottom: 0.5em;
 }
 #main {
   max-width: var(--content-max-width);
@@ -81,8 +90,8 @@ header {
 #content {
   max-width: var(--content-max-width);
 }
-#menu {
-  margin-bottom: 0.5em;
+footer {
+  max-width: var(--content-max-width);
 }
 
 /* additional layout on print */
@@ -122,6 +131,9 @@ header {
   }
   #content> :first-child {
     margin-top: 0;
+  }
+  footer {
+    max-width: var(--total-width-with-sidebar);
   }
 }
 
@@ -197,6 +209,9 @@ a:visited {
 }
 #menu nav {
   font-size: 1.2em;
+}
+footer p {
+  font-size: small;
 }
 h1 {
   font-size: large;
