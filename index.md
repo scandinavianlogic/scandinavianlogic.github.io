@@ -49,7 +49,7 @@ National representatives:
 
 - [Lauri Hella](http://www.sis.uta.fi/~malahe/), Tampere, Finland
 
-- [Anna Ingólfsdóttir](http://en.ru.is/the-university/faculty-and-staff/annai), Reykjavik, Iceland
+- [Antonis Achilleos](https://sites.google.com/view/antonisachilleos), Reykjavik, Iceland
 
 - [Øystein Linnebo](http://www.hf.uio.no/ifikk/personer/vit/filosofi/fast/oysteinl/), Oslo, Norway
 
