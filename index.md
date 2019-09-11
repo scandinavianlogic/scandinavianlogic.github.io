@@ -7,11 +7,8 @@ layout: default
 
 ## Membership
 
-{{ "TODO: how to join/leave the Scandinavian Logic Society" | log_warning }}
-
-## Mailing list
-
-{{ "TODO: how to subscribe/unsubscribe to the mailing list" | log_warning }}
+Fill out [this form](https://forms.gle/jnwqRqCHNkcjvQB7A) to apply for
+membership.
 
 ## Inform about news, events or open positions
 
