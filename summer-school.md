@@ -9,8 +9,6 @@ society. The intended audience is advanced master students, PhD-students,
 postdocs and experienced researchers wishing to learn the state of the art in a
 particular subject.
 
-{{ "TODO: what is the official name of the school?" | log_warning }}
-
 ### Past schools
 
 - 2013: Nordfjordeid
