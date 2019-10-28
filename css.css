@@ -207,6 +207,9 @@ a:visited {
   font-family: "Helvetica Neue", "Helvetica", sans-serif;
   font-weight: 400;
 }
+strong {
+  font-weight: 500;
+}
 #menu nav {
   font-size: 1.2em;
 }
