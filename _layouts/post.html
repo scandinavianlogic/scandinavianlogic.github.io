@@ -23,5 +23,5 @@ layout: default
 {% endfor %}
 {% comment %} generate page {% endcomment %}
 <h2>{{ page.title }}</h2>
-<p>{{ page.date | date: "%Y-%m-%d" }}</p>
+<p class="publication_date">published {{ page.date | date: "%Y-%m-%d" }}</p>
 {{ content }}
