@@ -1,0 +1,11 @@
+#! /usr/bin/env bash
+FULL_PATH=$(realpath .)
+DIR_NAME=$(dirname "$FULL_PATH")
+BASE_NAME=$(basename "$FULL_PATH")
+cd $(realpath "$(mktemp -d)")
+mv "$FULL_PATH" .
+cd "$BASE_NAME"
+direnv allow . && eval "$(direnv export bash)"
+bundle install
+cd ..
+mv "$BASE_NAME" "$DIR_NAME"
