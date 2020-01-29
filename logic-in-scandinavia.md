@@ -14,7 +14,35 @@ title: Logic in Scandinavia
 
 ### Denmark
 
-{{ "TODO" | log_warning }}
+
+Denmark has logic groups primarily working in philosophy and computer science
+departments. In philosophy, at University of Copenhagen there is the group of
+Vincent Hendricks, at University of Roskilde the group of Patrick Blackburn, and
+at Aalborg University the group of Peter Øhrstrøm. Additionally, the philosophy
+departments of University of Southern Denmark and Aarhus University has
+researchers working in logic. In computer science, there are the sections of
+Algorithms, Logic and Graphs (AlgoLoG) and Formal Methods at the Technical
+University of Denmark, the group of Carsten Schürmann at the IT University of
+Copenhagen, the group Programming, Logic and Intelligent Systems (PLIS) at
+Roskilde University, the group Logic and Semantics at Aarhus University, the
+research section of Programming Languages and Theory of Computation (PLTC) at
+University of Copenhagen, and the group Distributed, Embedded and Intelligent
+Systems at Aalborg University. Additionally, the computer science department of
+University of Southern Denmark have researchers working in logic. There is
+generally fewer logic environments in mathematics in Denmark, though there are
+some logicians in mathematics, e.g. Asger Törnquist at the Department of
+Mathematics, Copenhagen University.
+
+In Denmark there has been a number of research projects on logic combining
+researchers from multiple of the above-mentioned universities and also crossing
+the bound between philosophy and computer science departments. We expect to see
+more such projects in the future. There has also been a tradition of organising
+multi-disciplinary seminar series on logic in the Copenhagen area involving
+researchers in computer science and philosophy from Copenhagen University,
+Roskilde University and the Technical University of Denmark. The
+inter-disciplinary logic community of Copenhagen is informally organised in the
+Copenhagen Association for Dynamics, Interaction, Logic, Language and
+Computation (CADILLAC): <http://cadillac-dk.weebly.com>.
 
 ### Finland
 
