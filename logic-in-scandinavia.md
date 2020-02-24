@@ -46,7 +46,7 @@ Computation (CADILLAC): <http://cadillac-dk.weebly.com>.
 
 ### Finland
 
-{{ "TODO" | log_warning }}
+{{ "TODO: logic in finland" | log_warning }}
 
 ### Iceland
 
@@ -62,7 +62,7 @@ of processes", a project on "Quantified effects & interaction", and one on
 
 ### Norway
 
-{{ "TODO" | log_warning }}
+{{ "TODO: logic in norway" | log_warning }}
 
 ### Sweden
 
@@ -81,6 +81,8 @@ Please also see the webpage of the
 [Logic and Types](https://www.chalmers.se/en/departments/cse/organisation/LT/Pages/default.aspx)
 group at Chalmers.
 
+{{ "TODO: the logic and types group at chalmers" | log_warning }}
+
 #### Stockholm
 
 The main research of the logic group at the Department of Philosophy at
@@ -97,6 +99,8 @@ Please also see the
 at the Department of Mathematics.
 
 {{ "TODO: the logic group at the the Stockholm university math dept" | log_warning }}
+
+{{ "TODO: logic at KTH" | log_warning }}
 
 #### Uppsala
 
