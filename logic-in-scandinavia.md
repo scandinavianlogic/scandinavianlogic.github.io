@@ -85,12 +85,13 @@ group at Chalmers.
 
 #### Stockholm
 
-The main research of the logic group at the Department of Philosophy at
-Stockholm university is currently focused on various logical systems for agency
-and multi-agent systems, including logics for strategic reasoning and for
-normative reasoning, as well as study of fragments of the modal mu-calculus and
-of transition semantics for branching time logics. There is a broader scope
-weekly seminar series on Logic, Language and Mind, organized by the
+The main research of the logic group at the
+[Department of Philosophy at Stockholm university](https://www.philosophy.su.se/english)
+is currently focused on various logical systems for agency and multi-agent
+systems, including logics for strategic reasoning and for normative reasoning,
+as well as study of fragments of the modal mu-calculus and of transition
+semantics for branching time logics. There is a broader scope weekly seminar
+series on Logic, Language and Mind, organized by the
 [Centre for Logic, Language, and Mind (CLLAM)](https://www.philosophy.su.se/english/research/projects-and-centers/cllam)
 at the department.
 
