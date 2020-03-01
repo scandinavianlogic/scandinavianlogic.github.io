@@ -95,13 +95,21 @@ series on Logic, Language and Mind, organized by the
 [Centre for Logic, Language, and Mind (CLLAM)](https://www.philosophy.su.se/english/research/projects-and-centers/cllam)
 at the department.
 
+At
+[the division of theoretical computer science (TCS) at KTH](https://www.kth.se/tcs)
+several researchers work on areas involving logic, such as Formal Verification,
+Software security, and Provably secure systems. While most of this research uses
+or adapts existing logical frameworks for Model checking, Deductive
+verification, and Theorem proving, some researchers have also theoretical
+contributions to specification languages and verification techniques based on
+Temporal logics and variants of Hoare logic. Further, SAT/SMT solving is another
+area of interest.
+
 Please also see the
 [Stockholm Logic Seminar](http://logic.math.su.se/seminar)
 at the Department of Mathematics.
 
 {{ "TODO: the logic group at the the Stockholm university math dept" | log_warning }}
-
-{{ "TODO: logic at KTH" | log_warning }}
 
 #### Uppsala
 
