@@ -68,6 +68,15 @@ of processes", a project on "Quantified effects & interaction", and one on
 
 #### Gothenburg
 
+Much of the research in the
+[Division of Logic and Types](https://www.chalmers.se/en/departments/cse/organisation/LT/Pages/default.aspx)
+at the Department of Computer Science and Engineering is in the area
+intuitionistic type theory and constructive mathematics. Much current work is on
+univalent foundations and homotopy type theory. The group is also developing the
+proof assistant Agda based on intuitionistic type theory. The group runs a
+seminar series entitled
+[Initial Types Club](https://github.com/InitialTypes/Club/wiki).
+
 The
 [logic group at the Department of Philosophy, Linguistics and Theory of Science](https://flov.gu.se/english/research/research-areas/logic)
 focuses on solving philosophically motivated
@@ -76,12 +85,6 @@ example, the areas of formal theories of truth, metamathematics of foundational
 systems, modal logic and dependence logic. The
 [research seminar](https://flov.gu.se/english/research/research-areas/logic/the-logic-seminar)
 meets biweekly.
-
-Please also see the webpage of the
-[Logic and Types](https://www.chalmers.se/en/departments/cse/organisation/LT/Pages/default.aspx)
-group at Chalmers.
-
-{{ "TODO: the logic and types group at chalmers" | log_warning }}
 
 #### Stockholm
 
