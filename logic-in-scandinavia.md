@@ -98,6 +98,12 @@ series on Logic, Language and Mind, organized by the
 [Centre for Logic, Language, and Mind (CLLAM)](https://www.philosophy.su.se/english/research/projects-and-centers/cllam)
 at the department.
 
+The
+[Stockholm University Department of Mathematics logic group](https://www.math.su.se/english/research/research-groups/research-group-in-mathematical-logic-1.330078)
+has a long-standing focus on foundations of mathematics, including especially
+type theory, constructive mathematics, and categorical logic. There is a weekly
+seminar on mathematical logic: <http://logic.math.su.se/seminar/>
+
 At
 [the division of theoretical computer science (TCS) at KTH](https://www.kth.se/tcs)
 several researchers work on areas involving logic, such as Formal Verification,
@@ -107,12 +113,6 @@ verification, and Theorem proving, some researchers have also theoretical
 contributions to specification languages and verification techniques based on
 Temporal logics and variants of Hoare logic. Further, SAT/SMT solving is another
 area of interest.
-
-Please also see the
-[Stockholm Logic Seminar](http://logic.math.su.se/seminar)
-at the Department of Mathematics.
-
-{{ "TODO: the logic group at the the Stockholm university math dept" | log_warning }}
 
 #### Uppsala
 
