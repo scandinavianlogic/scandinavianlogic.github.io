@@ -62,7 +62,63 @@ of processes", a project on "Quantified effects & interaction", and one on
 
 ### Norway
 
-{{ "TODO: logic in norway" | log_warning }}
+Norway has logic groups primarily at the Universities of Bergen and Oslo, but
+also in Tromsø.
+
+[The Bergen Logic Group](https://www.uib.no/en/rg/logic)
+is a research group at the
+[Department of Philosophy](https://www.uib.no/en/fof).
+The group's research area includes formal logic (including proof theory, modal
+and non-classical logic, and theories of truth), philosophy of logic, theory of
+argumentation, and rationality. The group is responsible for several externally
+funded research projects and organizes many talks and workshops.
+
+[The Logic, Information and Interaction group](https://www.uib.no/en/rg/lii)
+at the University of Bergen is a research group at the
+[Department of Information Science and Media Studies](https://www.uib.no/en/infomedia).
+The group study formalisation of reasoning about different aspects of
+interaction, in particular information change and aggregation. Research areas
+include modal logics for reasoning about interaction, such as epistemic-,
+action- and game logics, as well as logical formalisation of reasoning about
+interaction in other areas of the social sciences such as game theory,
+(computational) social choice and social network analysis. The group is very
+active in the international community and is responsible for organising the next
+Scandinavian Logic Symposium and Nordic Logic School in Bergen in 2021.
+
+There is also a logic cluster in
+[Department of Informatics](https://www.uib.no/en/ii)
+based in the
+[Group on Programming Theory](https://www.uib.no/en/rg/put),
+with researchers working especially in mathematical logic and modal logic.
+
+At the University of Oslo, there is research and teaching in logic in the
+Departments of
+[Mathematics](https://www.mn.uio.no/math/english/),
+[Informatics](https://www.mn.uio.no/ifi/english/)
+and
+[Philosophy](https://www.hf.uio.no/ifikk/english/).
+Topics studied include complexity theory, computability theory, set theory,
+reverse mathematics, modal logic, predicativity, paradoxes, the investigation of
+algorithms, and applications in the foundations of mathematics and formal
+semantics. An overview with further links can be found
+[here](https://www.hf.uio.no/ifikk/english/research/groups/logic/).
+
+The logic group in Oslo is host to several externally funded research projects
+and is responsible for numerous talks and workshops, an annual
+[Skolem Lecture](https://www.hf.uio.no/ifikk/english/research/groups/logic/events/index.html)
+in honour of this great Oslo-based logician, and a weekly
+[interdisciplinary seminar in logic](https://www.mn.uio.no/math/english/research/groups/logic/events/).
+
+There are also logicians based at other universities in and around Oslo:
+[Eyvind Briseid](https://www.oslomet.no/om/ansatt/embri/)
+and
+[Henrik Forssell](https://www.usn.no/english/about/contact-us/employees/henrik-forssell).
+
+At the Arctic University of Norway, Tromsø,
+[Michael Morreau](https://en.uit.no/ansatte/person?p_document_id=329116)
+does research in philosophical logic and formal epistemology, and
+[Jan Harald Alnes](https://uit.no/ansatte/person?p_document_id=42390)
+works on philosophical logic and Frege.
 
 ### Sweden
 
