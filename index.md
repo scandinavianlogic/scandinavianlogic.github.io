@@ -52,6 +52,12 @@ National representatives:
 
 - [Fredrik Engström](https://flov.gu.se/english/about/staff?userId=xengfr), Gothenburg, Sweden
 
+## Statute of the society
+
+- [Swedish version](/assets/statutes/SLS-statute-2019-11-18-swedish.pdf)
+
+- [English translation](/assets/statutes/SLS-statute-2019-11-03-english.pdf)
+
 ## Minutes
 
 {% assign minutes_files = site.static_files | where: "minutes", true %}
