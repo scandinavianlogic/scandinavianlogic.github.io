@@ -1,4 +1,7 @@
 #! /usr/bin/env bash
+# 'bundle install' fails when the path of the current working directory path
+# contains spaces. solution: run bundle install in tmpdir, then copy back the
+# '.direnv'
 FULL_PATH=$(realpath .)
 BASE_NAME=$(basename "$FULL_PATH")
 cd $(realpath "$(mktemp -d)")
