@@ -76,6 +76,19 @@ footer {
 footer p {
   text-align: center;
 }
+#content ul {
+  list-style-type: none;
+  padding: 0;
+  margin-left: 2.5ch;
+}
+#content li:before {
+  content: "–";
+  position: absolute;
+  left: -2.5ch;
+}
+#content li {
+  position: relative;
+}
 
 /* layout when not on a large screen supporting media queries */
 header {
