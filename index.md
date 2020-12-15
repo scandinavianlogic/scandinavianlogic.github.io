@@ -17,6 +17,10 @@ news. Please e-mail <webmaster@scandinavianlogic.org>.
 
 ## About the society
 
+The Scandinavian Logic Society is a member of
+[The Division of Logic, Methodology and Philosophy of Science](https://dlmps.org/)
+of
+[The International Union of History and Philosophy of Science](https://iuhpst.org/).
 Our aim at present is to develop this website for the purpose of sharing
 information on all matters related to logic in the Scandinavian countries. We
 wish the Society to construe the concept of logic as broadly as possible,
