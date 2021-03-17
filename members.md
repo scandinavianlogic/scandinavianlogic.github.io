@@ -4,9 +4,7 @@ title: Members
 ---  
 ## List of members  
 
-**NOTE:** This is an old list of members. Old members wishing to renew their
-membership should do so by filling out
-[this form](https://forms.gle/MKFcWEoZFniC3gJn7).
+**NOTE:** This is an old list of members which will soon be updated.
 
   
 Aarne Ranta  
