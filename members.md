@@ -4,1299 +4,666 @@ title: Members
 ---  
 ## List of members  
 
-**NOTE:** This is an old list of members which will soon be updated.
+Fill out [this form](https://forms.gle/jnwqRqCHNkcjvQB7A) to apply for
+membership.
 
-  
-Aarne Ranta  
-Department of Computer Science and Engineering, Chalmers University of Technology and University of Gothenburg  
-http://www.cse.chalmers.se/~aarne/  
-Type Theory, Computational Linguistics, Functional Programming  
-  
-Achraf  
-Philosophy student  
-Logic. Epistemology. Metaphysics.  
-  
-Adam ó Conghaile  
-Computer Lab, University of Cambridge  
-Category theory, finite model theory, finite variable logics  
-  
-Ahmed El Azhary  
-Independent Researcher  
-Arabic Logic, Cognitive Sciences, Pedagogical Studies  
-  
-Ahti-Veikko Pietarinen  
-University of Helsinki  
-http://www.helsinki.fi/~pietarin/  
-Philosophical logic, Logic &amp; Language, Logic &amp; Cognition, History and Philosophy of Logic  
-  
-Aleksandra Samonek  
-Université catholique de Louvain  
-algebra, recursion theory, logic programming  
-  
-Aleksandra Samonek  
-Université catholique de Louvain  
-I don&#39;t have one.  
-algebra, recursion theory, logic programming  
-  
-ALEXANDER COX  
-  
-Alexandra Soskova  
-Sofia university  
-http://www.fmi.uni-sofia.bg/fmi/logic/asoskova/  
-Computability and effective model theory  
-  
-Alexandre Costa-Leite  
-University of Brasilia  
-http://costaleite.info  
-Philosophical Logic, Philosophy of Logic  
-  
-Alfred Askeljung  
-KTH, Stockholm and Mensa Sweden  
-quantum computing  
-  
-Ali Enayat  
-American University (Washington, DC)  
-http://academic2.american.edu/~enayat/  
-Model Theory of Foundational Theories (PA, ZF, ...)  
-  
-Alireza Sayadmansour  
-MA Student of Philosophy at the University of Tehran &amp; Assistant Editor of the Journal &#39;Ethical Research&#39;    
-Ethics, Islamic Philosophy, Arabic and Medieval Logic  
-  
-Allen L. Mann  
-Birkhäuser Science  
-Logic with imperfect information  
-  
-Aman Tripathi  
-IIT Bombay  
-Logic, Philosophy of Science  
-  
-Amir Hossein Rahdari  
-Tarbiat Modares University  
-amirrahdari.branded.me  
-Sustainability; CSR  
-  
-Amir Mosavi  
-Adjunct Professor, Obuda University  
-http://www.bgk.uni-obuda.hu/mei/dolgozok.php  
-Logics, Machine Learning, Data Mining, Analytics  
-  
-Anders Hellström  
-https://andersh3.keybase.pub  
-  
-Anders Hellström  
-Gothenburg University  
-https://andersh3.keybase.pub  
-ai  
-  
-Anders J. Schoubye  
-Carnegie Mellon University, Dept. of Philosophy  
-http://www.schoubye.net  
-Philosophy of Language, Epistemology, Philosophical Logic  
-  
-Anders Märak Leffler  
-Linköping University  
-  
-André Rognes  
-OsloMet  
-http://drrognes.no/  
-Tarskian algebraic logic, automated reasoning  
-  
-Andrea Reichenberger  
-University Paderborn, Germany  
-under construction  
-Women in Logic, Mathematics and Physics  
-  
-Andrea Strollo  
-university of helsinki  
-theories of truth meta-mathematics  
-  
-Andreas Aabrandt  
-Technical University of Denmark  
-Category theory, topology, geometry, control theory  
-  
-Andreas Fjellstad  
-University of Bergen  
-  
-Andreas Herzig  
-University of Toulouse, IRIT, CNRS  
-http://www.irit.fr/~Andreas.Herzig  
-modal logic  
-  
-Andreas Schmidt Jensen  
-Technical University of Denmark  
-http://www2.imm.dtu.dk/~ascje/  
-  
-Andreas Stokke  
-Centre for the Study of Mind in Nature, University of Oslo  
-http://andreasstokke.net  
-Philosophy of language, semantics, philosophy of logic  
-  
-Andrés Villaveces  
-Universidad Nacional de Colombia (Bogotá)  
-Model Theory, Set Theory, Non-Elementary Classes  
-  
-Angel Nepomuceno  
-Universidad de Sevilla  
-http://investigacion.us.es/sisius/sis_showpub.php?idpers=2122  
-Non classical logics, formal epistemology  
-  
-Ankit Shukla  
-Chennai mathematical institute  
-Mathematical Logic and Verification  
-  
-Annika Siders  
-University of Helsinki  
-http://www.mv.helsinki.fi/kanckos/  
-  
-Ansten Klev  
-Leiden University  
-http://sites.google.com/site/anstenklev/  
-Philosophy and history of logic and mathematics  
-  
-Anton Setzer  
-Swansea University  
-http://www.cs.swan.ac.uk/~csetzer/  
-Proof theory, type theory, software verification  
-  
-Antti Kuusisto  
-University of Tampere  
-http://mtl.uta.fi/~ak75987/  
-modal logic, finite model theory  
-  
-Anupam Das  
-University of Copenhagen  
-http://www.anupamdas.com  
-Proof theory, Proof  complexity, Rewriting theory  
-  
-Anupam Das  
-University of Copenhagen  
-http://www.anupamdas.com  
-Proof theory  
-  
-Arnold Beckmann  
-Swansea University  
-http://www.cs.swan.ac.uk/~csarnold/  
-Proof Theory, Bounded Arithmetic, Propositional Proof Complexity  
-  
-Åsa Hirvonen  
-University of Helsinki  
-www.helsinki.fi/~asaekman  
-model theory, metric structures  
-  
-Asger Törnquist  
-University of Copenhagen, Department of Mathematics  
-www.math.ku.dk/~asgert/  
-Descriptive set theory, applications of set theory to ergodic theory and operator algebras  
-  
-Azadeh Neman  
-Model theory  
-  
-B.N.  
-Logic  
-Logic  
-  
-Bahareh Afshari  
-University of Gothenburg  
-http://www.gu.se/omuniversitetet/personal/?userId=xafsba  
-Proof Theory, Formal Language Theory, Fixpoint and Modal Logics  
-  
-Bartosz Janik  
-Jagiellonian University  
-http://jagiellonian.academia.edu/BartoszJanik  
-legal logic  
-  
-Bartosz Więckowski  
-Goethe University Frankfurt  
-http://www.uni-frankfurt.de/49561986/Wieckowski_Bartosz  
-Logic, Philosophy of Language  
-  
-Bengt Nordström  
-Chalmers  
-http://www.cse.chalmers.se/~bengt/  
-semantics of natural language, type theory, dialogues,  
-  
-Bernd Buldt  
-IPFW  
-http://users.ipfw.edu/buldtb/  
-Logic and Philosophy of Mathematics  
-  
-Berwanger  
-CNRS, ENS Cachan, France  
-http://www.lsv.ens-cachan.fr/~dwb/  
-Descriptive Complexity, Graph Structure Theory, Game Theory, Independence Logic  
-  
-Bruno Rigonato Mundim  
-Type Theory, Proof-theory, Philosophy of logic and mathematics  
-  
-Camillo Fiorentini  
-Department of Computer Science, Universita&#39; degli Studi di Milano  
-  
-Carroline Dewi Puspa Kencana Ramli  
-DTU  
-  
-Carsten Schürmann  
-IT University of Copenhagen  
-www.itu.dk/~carsten  
-Programming languages, Type Theory, Logical Frameworks, Electronic Elections  
-  
-Casper Bach Poulsen  
-Swansea University  
-http://cs.swansea.ac.uk/~cscbp  
-Programming Languages, Semantics, Type Theory, Static Analysis  
-  
-Casper Storm Hansen  
-University of Aberdeen  
-http://www.abdn.ac.uk/philosophy/nip/members/member?id=hansen  
-Semantic and set theoretic paradoxes, constructive matematics  
-  
-Cezary Cieslinski  
-University of Warsaw  
-http://www.filozofia.uw.edu.pl/cieslinski/  
-mathematical and philosophical logic, truth theory, model theory  
-  
-Charles Grellois  
-University of Dundee  
-http://research.grellois.fr  
-linear logic, denotational semantics, game semantics, higher-order model-checking, coinductive rewriting, differential privacy  
-  
-Christian Espíndola  
-Stockholm university  
-Foundations - Set theory - Model theory - Metamathematics - Category theory  
-  
-Christian Theil Have  
-Roskilde University  
-http://akira.ruc.dk/~cth/  
-  
-Christoph Benzmueller  
-FU Berlin  
-http://christoph-benzmueller.de  
-Classical higher order logic as universal logic, embeddings of non-classical logics, automation  
-  
-Claes Strannegård  
-University of Gothenburg  
-http://www.flov.gu.se/english/contact/staff/claes-strannegard/  
-human reasoning  
-  
-Claudio Animato  
-University of Naples &#34;Federico II&#34;, Department of Philosophy  
-Mathematical Logic and Foundations of Mathematics  
-  
-Constantin E. Dumitrescu  
-Independent  
-http://www.rexlogic.net  
-Logic, Ontology etc  
-  
-Cristian Prisacariu  
-Department of Informatics, University of Oslo  
-http://heim.ifi.uio.no/~cristi/index.shtml  
-modal logics, deontic/temporal/dynamic logics, universal algebra and rewriting theory, logics for concurrency  
-  
-Crystal Chang Din  
-University of Oslo  
-http://www.mn.uio.no/ifi/english/people/aca/crystald/index.html  
-Logic, Specification, Verification  
-  
-Cynthia M. Grund  
-University of Southern Denmark  
-www.cynthiamgrund.dk  
-Semantics, Philosophy of Language, Logic and Music  
-  
-Dag Normann  
-The University of Oslo  
-http://folk.uio.no/~dnormann  
-Computability Theory  
-  
-Dag Prawitz  
-Department of Philosophy, Stockholm University  
-www.philosophy.su.se/eng/prawitz.htm  
-Proof theory, Theory of meaning  
-  
-Daisuke Ikegami  
-University of California, Berkeley  
-http://math.berkeley.edu/~daisuke/  
-Set Theory  
-  
-Dan Saattrup Nielsen  
-University of Bristol  
-www.dsnielsen.com  
-Set theory, inner model theory  
-  
-Dan Saattrup Nielsen  
-University of Bristol  
-www.dsnielsen.com  
-Set theory, inner model theory  
-  
-David Ross  
-University of Hawaii  
-http://www.math.hawaii.edu/~ross/  
-Nonstandard analysis; model theory  
-  
-David Sabonis  
-TU Munich &amp; University of Copenhagen  
-Quantum Logic  
-  
-David Sabonis  
-TU Munich &amp; University of Copenhagen  
--  
-Quantum Logic  
-  
-David Sherratt  
-University of Bath  
-http://people.bath.ac.uk/drs32/  
-Logic, Computation, Proof Theory.  
-  
-Denitsa  
-Logic, analytical metaphysics, contemporary phiosophy  
-  
-Denitsa  
-Logic  
-  
-Dirk Pattinson  
-Imperial College London  
-http://www.doc.ic.ac.uk/~dirk/  
-Applied Logic, Automated Reasoning  
-  
-Donald Edward Stahl  
-Washington University in St. louis  
-https://independent.academia.edu/DonaldStahl  
-Political Entification, International Affairs  
-  
-Douglas Sutherland Bridges  
-University of Canterbury  
-http://www.math.canterbury.ac.nz/~d.bridges/  
-constructive analysis, topology, and reverse mathematics  
-  
-Dr. Mustafa Hashmi  
-Mälardalen University, Västerås, Sweden  
-http://www.es.mdh.se/staff/3353-Mustafa__Hashmi  
-Logic Programming, Non-Reasoning, Classical Logic, Model and Defeasible Logics  
-  
-Dr. Mustafa Hashmi  
-Mälardalen University, Västerås, Sweden  
-http://www.es.mdh.se/staff/3353-Mustafa__Hashmi  
-Logic Programming, Non-Reasoning, Classical Logic, Model and Defeasible Logics  
-  
-Dr.Stenly Djatah  
-Universitas Pelita Harapan, Lippo Karawaci, Banten INDONESIA  
-http://www.uph.edu  
-Aristotelian Logic, Syncategomatic, Predicate logic, Ethics  
-  
-Ebba Gullberg  
-Umeå University  
-Philosophy of mathematics  
-  
-Eliya Cohen  
-Princeton University  
-  
-Erik Palmgren  
-Stockholm University, Department of Mathematics  
-http://www.math.su.se/~palmgren  
-Mathematical Logic and Foundations  
-  
-Frode Bjørdal  
-Department of Philosophy, Classics, History of Art and Ideas, The unibversity of Oslo, Norway  
-http://www.hf.uio.no/ifikk/personer/vit/fbjordal/index.html  
-Set theory, foundations of mathematics, paradoxes, modal logics, philosophical logic  
-  
-Gianluca Paolini  
-Department of Mathematics and Statistics, University of Helsinki  
-http://www.mv.helsinki.fi/home/gianpaol/homepage.html  
-Model theory, extensions of first-order logic, foundations of mathematics  
-  
-Giovanni Sambin  
-University of Padua (Italy)  
-www.math.unipd.it/~sambin  
-non-classical logics, constructive mathematics, type theory, philosophy of mathematics  
-  
-Giuseppina Ronzitti  
-http://sites.google.com/site/giuseppinaronzitti/home  
-intuitionistic mathematics, philosophy of mathematics, vagueness, metaphysics, Erik Stenius  
-  
-Göran Sundholm  
-Leiden university, Chair of Logic  
-https://openaccess.leidenuniv.nl/browse?value=Sundholm%2C+B.G.&amp;type=author  
-philosophy of logic and mathematics, constructivism, modern history of logic  
-  
-Graham E Leigh  
-University of Gothenburg  
-http://flov.gu.se/english/about/staff?languageId=100001&amp;userId=xleigr  
-Proof Theory, Theories of Truth, Modal µ-calculus  
-  
-Gunnar Johansson  
-Göteborgs Universitet  
-Foundations of Mathematics, Mereology  
-  
-Håkon Robbestad Gylterud  
-Stockholms Universitet  
-logic, category theory, type theory, computer science  
-  
-Hanne Riis Nielson  
-DTU Informatics  
-http://www2.imm.dtu.dk/~riis/  
-static analysis, model checking, process calculi, security  
-  
-Hans Bugge Grathwohl  
-Aarhus University  
-Type theory, lambda calculus, proof theory, categorical logic  
-  
-Hans Christian Nordtveit Kvernenes  
-Université de Lille 3  
-https://univ-lille3.academia.edu/HansChristianNordtveit  
-Logic, Analogy, Legal Reasoning  
-  
-Hans Götzsche  
-Aalborg University  
-http://www.cfl.hum.aau.dk/Organisation/Hans+Gotzsche/  
-logic and language, formal systems, formal semantics  
-  
-Heinrich Wansing  
-Dept. of Philosophy II, Ruhr University Bochum, Germany  
-http://www.ruhr-uni-bochum.de/philosophy/logic/  
-non-classical logics, in particular modal and constructive logics; applications of logic in philosophy;  epistemology   
-  
-Helmut Schwichtenberg  
-Mathematisches Institut der Universitaet Muenchen  
-http://www.mathematik.uni-muenchen.de/~schwicht/  
-Proof theory, program extraction from proofs  
-  
-Henrik Forssell  
-University of Oslo  
-Categorical logic, logic in computer science.   
-  
-Herman Ruge Jervell  
-Computer Science, University of Oslo  
-http://heim.ifi.uio.no/herman/  
-Proof theory  
-  
-Jacopo Emmenegger  
-Department of mathematics, Stockholm University  
-Type theory, category theory, topology  
-  
-Jakob Grue Simonsen  
-University of Copenhagen  
-www.diku.dk/~simonsen  
-  
-Jakob Nordström  
-KTH Royal Institute of Technology  
-http://www.csc.kth.se/~jakobn/  
-Theoretical computer science, proof complexity, computational complexity, SAT solving  
-  
-James Leslie  
-Edinburgh University  
-Pure Mathematics, Mathematical Logic, Proof Theory, Model Theory, Category Theory  
-  
-Jan Lundorff.Rasmussen  
-Privat  
-Modal logic, epistemic logic, doxastic logic  
-  
-Jan von Plato  
-University of Helsinki  
-http://www.helsinki.fi/~vonplato/  
-  
-Jani Isohanni  
-Tampere University of Technology  
-Logic in computer science  
-  
-Jendrik Stelling  
-Rostock University, Germany  
-philosophy of mathematics, algebraic logic, philosophy of logic, manyvalued logics  
-  
-Jens Christian Bjerring  
-Aarhus University  
-https://sites.google.com/site/jcbjerringswebsite/  
-Epistemology, philosophical logic, metaphysics  
-  
-Jens Kristian Dreyer Mathiasen  
-University of Southern Denmark  
-Knowledge Representation, Description Logics  
-  
-Jens Ulrik Hansen  
-www.ruc.dk/~jensuh/  
-modal logic, epistemic logic, logic for rational interaction, formal and social epistemology  
-  
-Joao Marcos  
-Federal University of Rio Grande do Norte, Brazil  
-http://sequiturquodlibet.googlepages.com  
-universal logic, non-classical logics, formal philosophy  
-  
-John Baldwin  
-University of Illinois at Chicago emeritus  
-http://homepages.math.uic.edu/~jbaldwin/model11.html  
-model theory, philosophy of mathematics, mathematics education  
-  
-John Gallagher  
-Roskilde University  
-http://www.ruc.dk/~jpg/  
-logic programming, program verification/analysis/transformation  
-  
-John T. Baldwin  
-University of Illinois at Chicago  
-http://homepages.math.uic.edu/~jbaldwin/mathed.html  
-model theory, philosophy of mathematical practice  
-  
-John T. Baldwin  
-University of Illinois at Chicago  
-http://homepages.math.uic.edu/~jbaldwin/  
-model theory, philosophy of mathematical practice  
-  
-Jonne Mickelin Sätherblom  
-Former student at Uppsala and Stockholm University  
-https://ljhms.se  
-Proof theory, metamathematics, verification, constructivism  
-  
-Jonni Virtema  
-University of Tampere  
-http://mtl.uta.fi/~jv76817/  
-modal logic, finite model theory  
-  
-Joost Jacob Vecht  
-University of Oslo  
-https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/joos...  
-Philosophy of mathematics, philosophy of science, conceptual engineering  
-  
-Joseph Kiniry  
-IT University of Copenhagen  
-http://www.itu.dk/~josr/  
-applied formal methods  
-  
-Jostein Aanderaa  
-Wrote a thesis in mathematical logic many ears ago, 1994 UiO Cand. Scient. In resent years, spare time work on mathematical prob  
-Complexity theory, implicit complexity, type theory, functional programming, game theory, provable security, pi-1-2 logic.  
-  
-Jouko Väänänen  
-Department of Mathematics and Statistics, University of Helsinki, and ILLC, University of Amsterdam  
-mathstat.helsinki.fi/logic/people/jouko.vaananen/  
-set theory, model theory, dependence logic, foundations of mathematics  
-  
-Juha Kontinen  
-University of Helsinki  
-http://www.helsinki.fi/~jkontine/  
-Finite model theory, descriptive complexity theory, and dependence logic  
-  
-Julie Goncharov  
-The Arctic University of Norway  
-epistemology, belief updates, intentions   
-  
-Julie Goncharov  
-The Arctic University of Norway  
-epistemology, belief revisions, intentions  
-  
-Julie Goncharov  
-  
-Julie Goncharov  
-  
-Julie Goncharov  
-The Arctic University of Norway  
-  
-Jørgen Fischer Nilsson  
-DTU Informatics, Technical University of Denmark  
-http://www2.imm.dtu.dk/~jfn/  
-Computational logic, logic programming, diagram logic, natural logic  
-  
-Jørgen Villadsen  
-Technical University of Denmark  
-http://imm.dtu.dk/~jv  
-Logic in Computer Science and Artificial Intelligence  
-  
-Karoliina Lehtinen  
-University of Edinurgh  
-Modal mu, logic, games, automata, computation, model-checking  
-  
-Kasper Højbjerg Christensen   
-Victoria University of Wellington  
-Philosophy of Logic, Metaphysics.  
-  
-Katalin Lazar  
-  
-Kerkko Luosto  
-University of Tampere  
-mathstat.helsinki.fi/~kluosto  
-finite and abstract model theory, discrete mathematics  
-  
-Kevin Wilkinghoff  
-MSc Student in Mathematics, University of Bonn (Germany)  
-Mathematical Logic, Set Theory  
-  
-Kim Solin  
-Dept. of Philosophy, Uppsala University  
-http://www.anst.uu.se/kimso473/index_e.html  
-Philosophical and Computational Logic, Algebraic Methods, Philosophy of Mathematics  
-  
-Klaus Frovin Joergensen  
-Roskilde University  
-http://akira.ruc.dk/~frovin  
-Mathematical logic, philosophical logic, philosophy of mathematics  
-  
-Klaus Robering  
-Syddansk Universitet - Instiut for Fagsprog, Kommunikation og Informationsvidenskab  
-http://www.sdu.dk/ansat/robering  
-modallogik, substructural logics, proof theory, non-classical set-theories  
-  
-Lars Birkedal  
-IT University of Copenhagen  
-www.itu.dk/people/birkedal  
-Logic in computer science, categorical logic  
-  
-Lars Gundersen  
-Aarhus University  
-http://pure.au.dk/portal/en/persons/lars-bo-gundersen  
-(cfa849bb-afef-47f1-b20b-1d48dc42ecdd).html  
-philosophy of logic, epistemology, metaphysics  
-  
-Lars Kristiansen  
-Department of Mathematics, University of Oslo  
-http://folk.uio.no/larsk/  
-Mathmatical logic, computability theory, complexity theory, programming langauges, theoretical computer scjence  
-  
-Lauri Hella  
-School of Information Sciences, University of Tampere  
-http://www.uta.fi/sis/yhteystiedot/henkilokunta/laurihella.html  
-finite model theory, modal logic, generalized quantifiers  
-  
-LegasteloisB  
-UPMC - LIP6, Paris  
-http://webia.lip6.fr/~legasteloisb/  
-Non-classical logics, logic in artifical intelligence, modal logic, proof theory  
-  
-Lennart Berg  
-Independent researcher  
-Unprovability  
-  
-Lewis Hammond  
-University Of Warwick  
-Mathematical Logic, Philosophical Logic, Philosophy Of Mathematics, History Of Logic And Mathematics  
-  
-Lewis Hammond  
-University Of Warwick /  Uppsala Universitet  
-Mathematical Logic, Philosophical Logic, Philosophy Of Mathematics, History Of Logic And Mathematics  
-  
-Li Zhang  
-Division of Philosophy, KTH Royal Institute of Technology  
-Belief Revision, Modal Logic  
-  
-Lucian Zagan  
-ILLC, University of Amsterdam &amp; CSMN, University of Oslo  
-http://sites.google.com/site/lucianzagan/  
-Philosophical Logic, Philosophy of Language, Semantics and Pragmatics  
-  
-Maciej Kleczek  
-The University of Bielefeld   
-first order logic, modal logic  
-  
-Marco Carbone  
-IT University of Copenhagen  
-http://www.itu.dk/people/maca  
-Concurrency Theory, Programming Languages, Type Theory, Logic, Verification  
-  
-Marija Slavkovik  
-University of Bergen  
-http://www.uib.no/personer/Marija.Slavkovik  
-Computational Social Choice, Multi-agent Systems, Machine Ethics  
-  
-Marija Slavkovik  
-University of Bergen  
-http://www.uib.no/personer/Marija.Slavkovik  
-Multi-agent Systems, Computational Logic, Computational Social Choice  
-  
-marika bouchon  
-http://sites.google.com/site/basicoptions/on-representations  
-human and physical representations; topology  
-  
-Mario Piazza  
-University of Chieti-Pescara  
-https://www.researchgate.net/profile/Mario_Piazza/?ev=hdr_xprf  
-proof-theory; computation theory; philosophy of mathematics  
-  
-Martin Filin Karlsson  
-Göteborg University  
-Formal semantics for natural languages (quantification in particular)  
-  
-Martin Giese  
-University of Oslo  
-semantic technologies, automated reasoning, analytic tableaux, program verification  
-  
-Martin Holm Jensen  
-Technical University of Denmark  
-http://www2.imm.dtu.dk/~mhje/  
-Dynamic Epistemic Logic, Planning, Doxastic Logics, Belief Revision  
-  
-Martin Kaså  
-University of Gothenburg  
-  
-Martin Mose Bentzen  
-Roskilde University  
-www.martinmosebentzen.dk  
-Deontic Logic, Modal Logic, Philosophical Logic, Alternative Logics  
-  
-Martin Ziegler  
-TU Darmstadt  
-http://www.mathematik.tu-darmstadt.de/~ziegler  
-Real Number Computability and Complexity  
-  
-Mathias Barra  
-Akershus University Hospital (Ahus)  
-Sykehusveien 25  
-  
-Mathias Winther Madsen  
-Institute for Logic, Language, and Computation, University of Amsterdam  
-http://home.medewerker.uva.nl/m.w.madsen/  
-General linguistics, game-theoretical pragmatics and game-theoretical semantics, information theory  
-  
-Mattias Granberg Olsson  
-Göteborgs universitet  
-  
-Meeri Kesälä  
-University of Helsinki  
-http://www.helsinki.fi/~mzviljan/  
-model theory, non-elementary classes  
-  
-mehdi shahani  
-provability logic and type theory  
-  
-Merv Hammer  
-Independent researcher  
-Mathematical Logic, Foundations of Mathematics, Model Theoryx  
-  
-Merv Hammer  
-Independent researcher  
-Logic, Mathematical Logic, Foundations of Mathematics, Proof Theory, Model Theory  
-  
-Merv Hammer  
-Independent researcher  
-Logic, Mathematical Logic, Foundations of Mathematics, Proof Theory, Model Theory  
-  
-Michael Haene  
-ASL  
-limits of logic, incompleteness, self-reference, set theory  
-  
-Michael R. Hansen  
-DTU Informatics, Technical University of Denmark  
-www.imm.dtu.dk/~mrh  
-Verification, temporal logic, interval logic   
-  
-Miika Hannula  
-University of Helsinki  
-Dependence logic  
-  
-Mikko Männikkö  
-University of Helsinki, University Consortium of Seinäjoki  
-http://www.netikka.net/mikkomannikko/index.htm  
-Logic, Game Theory  
-  
-Mirja Hartimo  
-University of Tampere  
-History and philosophy of mathematics  
-  
-Mirko Tagliaferri  
-University of Urbino  
-Logic; trust; probability  
-  
-Mohammad Jabbari  
-student  
-category theory  
-  
-Mohammad Mousavi  
-Halmstad University  
-http://ceres.hh.se/mediawiki/index.php/Mohammad_Mousavi  
-Logic in Computer Science, Semantics  
-  
-Morten Heine Sørensen  
-Formalit  
-www.formalit.dk  
-Lambda-calculus, type theory, proof theory, the Curry-Howard isomorphism, dialogues in logic  
-  
-Muhammad Usama Sardar  
-Technische Universität Dresden (TU Dresden), Germany  
-https://www.linkedin.com/in/usama-sardar/  
-Formal verification, Model checking, Automated reasoning, Temporal logic, Hardware security  
-  
-Muniraja Gopal  
-Bangalore University, Bangalore, India  
-none  
-Nonlinear Dynamics, Foundations of Mathematics, Philosophy of Science  
-  
-Neil Barton  
-Birkbeck College, University of London  
-http://birkbeck.academia.edu/NeilBarton  
-Philosophy of Mathematics, Foundations of Mathematics, Philosophy of Science, Logic, Set Theory,   
-  
-Neil Barton  
-Birkbeck College, University of London  
-birkbeck.academia.edu/NeilBarton  
-Philosophy, Set Theory, Mathematical Logic  
-  
-Neil Deaton Jones  
-University of Copenhagen  
-www.diku.dk/~neil  
-Computability, complexity, finite models, model checking  
-  
-Nemi Pelgrom  
-Stockholm University  
-Philosophy of logic, philosophy of mathematics, foundations of mathematics  
-  
-Nikolaj Jang Lee Linding Pedersen  
-Underwood International College, Yonsei University  
-http://www.nikolajpedersen.com  
-Epistemology, truth, philosophy of logic and mathematics.   
-  
-Nina Gierasimczuk  
-Technical University of Denmark  
-www.ninagierasimczuk.com  
-Mathematical Logic, Epistemology, Learning Theory, Artificial Intelligence   
-  
-Nobuko Yoshida  
-Imperial College London  
-http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/  
-Theoretical Computer Science, Programming Languages   
-  
-Oğuz Akçelik  
-METU  
-Philosophical Logic, Epistemic Logic  
-  
-Ole Thomassen Hjortland  
-Munich Center for Mathematical Philosophy (MCMP), LMU  
-https://sites.google.com/site/olehjortland/  
-Philosophy of logic, proof theory, formal epistemology  
-  
-Ole Torp Lassen  
-Roskilde University  
-www.ruc.dk/~otl  
-Cognition, Language , AI, machine-learning  
-  
-Olga Kosheleva  
-University of Texas at El Paso  
-http://www.cs.utep.edu/vlaidk/olgavita.html  
-constructive mathematics, teaching  
-  
-Oliver Kutz  
-Research Center on Spatial Cognition, University of Bremen, Germany  
-http://www.informatik.uni-bremen.de/~okutz/  
-Logic, Philosophy, Artificial Intelligence  
-  
-Olle Torstensson  
-Uppsala University  
-  
-Otávio Bueno  
-University of Miami (USA)  
-http://www.as.miami.edu/personal/obueno  
-Philosophy of logic, philosophy of mathematics, philosophical logic, non-classical logics, paraconsistent logic  
-  
-Ove Ahlman  
-Uppsala University  
-http://www.math.uu.se/~ove  
-Mathematical Logic, Finite model theory, Combinatorics  
-  
-Paal Antonsen  
-University of Bergen  
-https://www.uib.no/personer/P%C3%A5l.Antonsen  
-Philosophy of language, philosophy of logic, philosophy of mind  
-  
-Panu Raatikainen  
-Department of Philosophy, History, Culture and Art Studies; University of Helsinki  
-http://www.mv.helsinki.fi/home/praatika/  
-the foundations of mathematics  
-  
-Patrick Bahr  
-University of Copenhagen  
-www.diku.dk/~paba/  
-term rewriting, functional programming, type theory  
-  
-Patrick Blackburn  
-Roskilde University, Denmark  
-http://www.patrickblackburn.org/  
-Modal Logic, Higher-order logic, Natural Language Semantics and Pragmatics, Formal Epistemology  
-  
-Patrick Blackburn  
-Roskilde University (RUC), Denmark  
-http://www.patrickblackburn.org/  
-Modal logic, applied logic, philosophical logic  
-  
-Paul Gorbow  
-University of Gothenburg  
-Set theory, Stratified set theory, Category theory, Applications to Philosophy  
-  
-Paula Quinon  
-Philosophy Department Lund University  
-lu.academia.org/paulaquinon  
-philosophy of mathematics, axiomatic arithmetic  
-  
-Pelle Guldborg Hansen  
-Inst. for Marketing &amp; Management, University of Southern Denmark  
-www.pelleonline.org  
-Game theory, justification logic  
-  
-Per Martin-Löf  
-Stockholm University  
-Logic  
-  
-Peter Arndt  
-Mathematische Fakultät, University of Regensburg  
-Categorical Logic, Abstract Logic, Homotopy Type Theory  
-  
-Peter Dybjer  
-Chalmers University of Technology  
-http://www.cse.chalmers.se/~peterd/  
-Type theory, constructive logic  
-  
-Peter Fritz  
-University of Oslo  
-https://www.hf.uio.no/ifikk/english/people/aca/philosophy/tenured/peteraf/  
-modal logic, higher-order logic  
-  
-Peter M. Schuster  
-Dipartimento di Informatica, Università degli Studi di Verona, Italia  
-http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en  
-Proof Theory, Constructive Mathematics, Hilbert&#39;s Programme  
-  
-Peter Nicholas Erik Sørensen   
-Victoria University of Wellington, New Zealand  
-www.facebook.com/sorenspete  
-Philosophy, language, syntax, formal systems, logic, QT=, meaning, semantics  
-  
-Peter Øhrstrøm  
-Aalborg University  
-www.hum.aau.dk/~poe  
-temporal logic, tense logic, modal logic, the history of logic  
-  
-Philip David Welch  
-University of Bristol  
-www.maths.bris.ac.uk/~mapdw  
-Set Theory, Foundations of Mathematics  
-  
-Philip Welch  
-University of Bristol  
-http://www.maths.bris.ac.uk/~mapdw/  
-Set Theory, Inner Model Theory, Determinacy, Theories of Truth, Transfinite Computational Models  
-  
-Pietro Galliani  
-Universiteit van Amsterdam  
-www.dependencelogic.org/galliani  
-Dependence Logic, Game-theoretic Semantics, Imperfect Information  
-  
-Piotr Kaźmierczak  
-Bergen University College  
-http://soundandcomplete.com  
-Normative systems, verification of multi-agent systems, tableau methods, functional programming.   
-  
-Radhakrishnan Delhibabu  
-RWTH Aachen  
-Application of Mathematical Logic  
-  
-Radu Mardare  
-Aalborg University, Denmark  
-http://people.cs.aau.dk/~mardare  
-Modal and Coalgebraic Logics, Temporal Logics, Mu-Calculus, Markovian and Probabilistic Logics, Theories of Bisimulation  
-  
-Raja Natarajan  
-Tata Institute of Fundamental Research  
-http://www.tcs.tifr.res.in/~raja/  
-Interactive Theorem Proving, Semantics of Computation, Foundations of Mathematics, Philosophy of Computer Science, Modal Logics  
-  
-Rasmus Blanck  
-Göteborgs universitet  
-arithmetized metamathematics, philosophy of mathematics  
-  
-Rasmus K. Rendsvig  
-Roskilde University  
-http://vince-inc.com/rendsvig  
-epistemic logic, quantified modal logic, social epistemology  
-  
-Rasmus K. Rendsvig  
-  
-Richard Dietz  
-University of Tokyo  
-http://richarddietz.net  
-Philosophical Logic  
-  
-Rineke Verbrugge  
-University of Groningen  
-http://www.ai.rug.nl/~rineke  
-modal logics (epistemic, provability); logic and cognition  
-  
-Robert Rothenberg  
-University of St Andrews, Scotland  
-Proof Theory, Type Theory  
-  
-Robin Cooper  
-University of Gothenburg  
-http://www.ling.gu.se/~cooper  
-logic for natural language  
-  
-Robin Kaarsgaard  
-University of Copenhagen  
-logic in computer science, type theory, proof theory  
-  
-Roger Antonsen  
-Department of Informatics, University of Oslo  
-http://www.mn.uio.no/ifi/english/people/aca/rantonse/index.html  
-sequent calculi, analytic tableaux, automated reasoning, modal logic  
-  
-Roman Kossak  
-City University of New York  
-Model Theory, Nonstandard Models of Arithmetic  
-  
-Roussanka Loukanova  
-unemployed  
-Logic and Linguistics, Logic and Computer Science  
-  
-Roy Dyckhoff  
-University of St Andrews  
-http://www.cs.st-andrews.ac.uk/~rd/  
-proof theory, type theory, semantics of natural language, intuitionistic logic, modal logic, multi-agent logic  
-  
-Ryan Burgess  
-The University of Chicago  
-  
-Ryan Burgess  
-The University of Chicago  
-N/A  
-Philosophical and Mathematical Logic, Model Theory, Proof &#34; &#34;, Computation &#34; &#34;, Category &#34; &#34;, Information &#34; &#34;, Metamathematics  
-  
-Ryan Burgess  
-The University of Chicago  
-  
-Ryan Burgess  
-The University of Chicago  
-  
-Ryan Burgess  
-The University of Chicago  
-  
-Ryan Burgess  
-The University of Chicago  
-  
-Saeed Salehi  
-University of Tabriz, Iran  
-http://saeedsalehi.ir/  
-Mathematical Logic (Godel Theorems and Arithmetics) and Theoretical Computer Science (Forma Tree Automata and Languages))  
-  
-Sam Roberts  
-University of Oslo  
-https://samrroberts.net/  
-Set theory, logic, philosophy of maths  
-  
-Sampo Haavasoja  
-Finite Model Theory, Turing Machines, Paradoxes, Restrained philosophical interpretations  
-  
-Sanderson Molick Silva  
-Undergrad Student  - Federal University of Rio Grande do Norte/Brazil  
-Proof theory, non-classical logics and game theory  
-  
-Sankha S. Basu  
-Assistant Professor, Indraprastha Institute for Information Technology, New Delhi, India  
-intuitionistic logic, paraconsistent logics, non-classical logics  
-  
-Sara Negri  
-University of Helsinki  
-http://www.helsinki.fi/~negri/  
-Proof theory, non-classical logics, formal epistemology, constructive foundations  
-  
-Satyendr Singh  
-BML Munjal University, Gurgaon, India  
-http://www.satyendrsingh.webs.com/  
-Natural Language Processing, Machine Learning, Logic in Computer Science  
-  
-Sebastian Enqvist  
-Lund University  
-http://www.fil.lu.se/persons/person.asp?filpers=790  
-modal logic, non-classical logics, categorical logic, constructive mathematics, foundations of mathematics, universal logic  
-  
-Semiha Akinci  
-Anadolu University-Eskisehir-Turkey  
-Logic, Philosophy of Language  
-  
-Sergii Tropanets  
-Odessa National University  
-Proof theory, Modal logics, Truth theories, Formal philosophy  
-  
-Sine Zambach  
-Roskilde University  
-Knowledge representation, applied logics  
-  
-Staffan Angere  
-University of Bristol  
-Philosophical logic, metaphysics, philosophy of mathematics, philosophy of physics  
-  
-Stefán Jökulsson  
-Archives Henri Poincaré, Université de Lorraine  
-Philosophy of logic, philosophical logic, metaphilosophy, epistemology and philosophy of language  
-  
-Sten Lindström  
-Department of Historical, Philosophical and Religious Studies, Umeå University  
-http://www.idesam.umu.se/om/personal/filosofi/sten-lindstrom/  
-Philosophical logic, Philosophy of mathematics  
-  
-Stig Andur Pedersen  
-Roskilde University  
-http://akira.ruc.dk/~sap/  
-Foundations of Mathematics, Philosophy of Science  
-  
-Sumanta Sarathi Sharma  
-Shri Mata Vaishno Devi University, Katra, J&amp;K, India  
-Syllogistic Logic, Diagrammatic Reasoning  
-  
-Sven Ove Hansson  
-Royal Institute of Technology, Stockholm  
-http://home.abe.kth.se/~soh/  
-Belief revision, formal epistemology, preference logic, deontic logic, logic of probability, philosophy of logic  
-  
-Syeda Fatima  
-Loughborough University  
-http://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/shahe...  
-Artificial Intelligence, Multiagent systems  
-  
-Sylvie Saget  
-CLASP, FLOV, University of Gothenburg  
-Pragmatics, Spoken Dialog Systems, Logic and Linguistics, Logic in AI and Multi-Agent Systems, Logics of Games, Axiomatic The  
-  
-Sylvie Saget  
-CLASP, FLOV, University of Gothenburg  
-Pragmatics, Spoken Dialog Systems, Logic and Linguistics, Logic in AI and Multi-Agent Systems  
-  
-Tero Tulenheimo  
-Department of Philosophy, University of Lille 3, France  
-http://www.tulenheimo.webs.com/  
-philosophy of logic, expressivity, decidability, modal logic, extensions of first-order logic, logic &amp; games, model theory  
-  
-Thomas Ågotnes  
-University of Bergen  
-http://folk.uib.no/nmita/  
-Modal logic, in particular multi-agent logics, game logic, action logic, epistemic logic, deontic logic...  
-  
-Thomas Bolander  
-Technical University of Denmark  
-http://www.imm.dtu.dk/~tb  
-Modal logics, hybrid logics, epistemic logics, logic-based AI  
-  
-Toby Meadows  
-University of Aberdeen  
-https://sites.google.com/site/tobymeadows/  
-Set theory, philosophy of mathematics  
-  
-Tomoyuki Suzuki  
-University of Leicester  
-mathematical logic  
-  
-Torben Braüner  
-Roskilde University  
-http://akira.ruc.dk/~torben/  
-Non-classical logics, mainly modal and hybrid logics. Application of logic in CS, AI, and philosophy.  
-  
-Torbjörn Lager  
-  
-Tore Fjetland Øgaard  
-University of Bergen  
-https://www.uib.no/personer/Tore.Fjetland.%C3%98gaard  
-Philosophical logic  
-  
-Tudor Jebelean  
-Johannes Kepler University of Linz, Austria  
-www.risc.jku.at  
-automatic reasoning  
-  
-Tuomo Lempiäinen  
-Aalto University  
-http://users.ics.aalto.fi/tuomolem/  
-  
-Ulrich Kohlenbach  
-Department of Mathematics, TU Darmstadt, Germany  
-http://www.mathematik.tu-darmstadt.de/~kohlenbach  
-Proof Theory with Applications to Nonlinear Analysis and Ergodic Theory  
-  
-Ulrik Buchholtz  
-Stanford University  
-http://math.stanford.edu/~utb/  
-proof theory,constructive mathematics,type theory  
-  
-Umang Mathur  
-University Of Illinois, Urbana Champaign  
-umathur3@illinois.edu  
-Formal methods   
-  
-Vadim Kulikov  
-Kurt Gödel Research Center  
-www.vadimkulikov.com  
-descriptive set theory, knot theory, forcing, definability, games, model theory, recreational mathematics,   
-  
-Valentin Goranko  
-Technical University of Denmark  
-http://www2.imm.dtu.dk/~vfgo/  
-mathematical, philosophical, and applied logic; mainly: logic in CS, AI and multi-agent systems  
-  
-Valeria  C. V. de Paiva  
-Rearden Commerce  
-https://sites.google.com/a/valeriadepaiva.org/www/  
-Linear Logic, Intuitionisitic Logic, Constructive modal Logics, Hybrid Logics  
-  
-Valeria C V de Paiva  
-Nuance Communications  
-http://vcvpaiva.github.io/  
-proof theory, categorical logic, semantics of languages  
-  
-Valeria de Paiva  
-Rearden Commerce  
-  
-Valeria de Paiva  
-Nuance Communications  
-http://vcvpaiva.github.io/  
-categorical logic, type theory, proof theory, semantics of NL, semantics of PLs  
-  
-Vera Koponen  
-Department of Mathematics, Uppsala University  
-http://www.math.uu.se/~vera  
-logic, model theory, combinatorics  
-  
-Viggo Stoltenberg-Hansen  
-Uppsala University  
-www.math.uu.se/~viggo  
-Mathematical logic  
-  
-Vladik Kreinovich  
-University of Texas at El Paso  
-http://www.cs.utep.edu/vladik  
-constructive logic  
-  
-William F Fearon  
-Hungarian Academy of Sciences  
-Artificial Intelligence, Artificial Life, Logic Theorems of Uncertainty  
-  
-Yassine Ammar  
-Secondary Mathematics Teacher  
-Mathematics Didactics - Complexity in Mathematics teaching/learning - Proof construction - Teaching Logic.  
-  
-Yì Nicholas Wáng  
-Bergen University College  
-http://home.hib.no/ansatte/ynw/  
-Dynamic Epistemic Logic, Logic for Multiagent systems, Modal Logic  
-  
-Yoshihiro Maruyama  
-University of Oxford  
-http://researchmap.jp/ymaruyama/  
-Categorical Logic, Philosophical Logic  
-  
-Zhaohui Luo  
-RHUL, UK  
-http://www.cs.rhul.ac.uk/home/zhaohui/  
-Type theory, proof assistants, system verification, linguistic semantics  
-  
-Zhiguang Zhao  
-Institute for Logic, Language and Computation  
-Modal Logic, Model theory  
-  
-Zuzanna Gnatek  
-Trinity College Dublin  
-https://tcd.academia.edu/ZuzannaGnatek  
-  
-Zuzanna Gnatek  
-Trinity College Dublin  
-https://tcd.academia.edu/ZuzannaGnatek  
-reference, self-reference, higher order quantification, abstraction principles, neo-Fregeanism, truth and paradox  
-  
-Zuzanna Gnatek  
-Trinity College Dublin  
-reference, self-reference, higher order quantification, abstraction principles, neo-Fregeanism, truth and paradox  
-  
-Øystein Linnebo  
-University of Oslo  
-Dept Of Philosophy, Ifikk  
-philosophical logic, philosophy of mathematics, higher-order logic, logicism  
+- Achraf Rhilani  
+  Université Paris 1 Panthéon-Sorbonne  
+  Philosophy of language, Philosophy of Mind, Logic
+
+- Adam Ó Conghaile  
+  Cambridge  
+  <https://aconghaile.github.io>  
+  Descriptive complexity, finite model theory, category theory 
+
+- Aleksandra Samonek  
+  Université catholique de Louvain  
+  <https://asamonek.github.io>
+
+- Alexander Regueiro  
+  University of Bristol  
+  <http://noldorin.com/>  
+  philosophy of logic, philosophy of mathematics, constructive mathematics, proof theory, type theory, foundations of computer science
+
+- Ali Enayat  
+  University of Gothenburg (emeritus professor)  
+  <https://www.gu.se/en/about/find-staff/alienayat>  
+  Models of arithmetic and set theory, axiomatic theories of truth
+
+- Anders Lundstedt  
+  <https://anderslundstedt.com>
+
+- Anders Märak Leffler
+
+- Andrea Reichenberger  
+  Paderborn University  
+  History of Logic, History and Philosophy of Computing and Computability, Women in Logic
+
+- Andreas Fjellstad  
+  <https://philpeople.org/profiles/andreas-fjellstad>
+
+- Andreas Herzig  
+  CNRS-IRIT  
+  <https://www.irit.fr/~Andreas.Herzig/>  
+  modal logic, epistemic logic, dynamic logic, logics of agency, conditional logic
+
+- André Rognes  
+  OsloMet – Oslo Metropolitan University  
+  algebraic logic, automated reasoning
+
+- Andrés Villaveces  
+  Universidad Nacional de Colombia  
+  <https://avillavecesn.net>  
+  Model Theory, Set Theory, Infinitary Logic, Abstract Elementary Classes
+
+- Annika Kanckos  
+  University of Helsinki  
+  Proof theory
+
+- Ansten Klev  
+  Czech Academy of Sciences  
+  <https://sites.google.com/site/anstenklev>
+
+- Anton Setzer  
+  Swansea University, Dept. of Computer Science  
+  <http://www.cs.swan.ac.uk/~csetzer/>  
+  Proof theory, type theory, interactive theorem proving, dependently typed programming, coalgebras
+
+- Arild Waaler  
+  University of Oslo  
+  <https://sirius-labs.no/arild-waaler-centre-director/>  
+  Ontology languages, modal logic, proof theory, automated deduction
+
+- Arnold Beckmann  
+  Swansea University  
+  <https://www.beckmann.pro/>  
+  Proof Theory, Bounded Arithmetic, Propositional Proof Complexity
+
+- B. Göran Sundholm  
+  Leiden University, Institute for Philosophy  
+  <https://www.researchgate.net/profile/Goeran-Sundholm>  
+  philosophy of logic and mathematics, constructivism, modern history of logic
+
+- Bahareh Afshari  
+  University of Gothenburg & University of Amsterdam  
+  <https://www.gu.se/en/about/find-staff/baharehafshari>  
+  Proof Theory, Fixed Point Logic, Theoretical Computer Science, Modal and Temporal Logics
+
+- Bartosz Janik  
+  University of Silesia in Katowice  
+  cognitive science, philosophy of law, philosophy of mind
+
+- Bartosz Więckowski  
+  Goethe University Frankfurt  
+  <http://www.uni-frankfurt.de/49561986/Wieckowski_Bartosz>  
+  Logic, Philosophy of Language
+
+- Ben Martin  
+  University of Bergen  
+  <https://www.uib.no/en/persons/Ben.Martin>  
+  Philosophy of Logic; Paraconsistent Logics; Paradoxes
+
+- Bengt Nordström  
+  Chalmers  
+  <http://www.cse.chalmers.se/~bengt/>  
+  Type thory
+
+- Bruno R. Mundim  
+  Philosophy of logic
+
+- Camillo Fiorentini  
+  Universita' degli Studi di Milano, Department of Computer Science  
+  <https://homes.di.unimi.it/fiorentini/>  
+  Proof theory, Automated Deduction
+
+- Cezary Cieśliński  
+  University of Warsaw, Faculty of Philosophy  
+  <http://cieslinski.filozofia.uw.edu.pl/>  
+  truth theory (deflationism, theories of self-referential truth), mathematical and philosophical logic, model theory,
+
+- Christian Espindola  
+  University of La Réunion  
+  <https://sites.google.com/view/christianespindola>  
+  Categorical logic, set theory, model theory, philosophy of mathematics
+
+- Christian Johansen  
+  Norwegian University of Science and Technology  
+  <https://www.ntnu.edu/employees/christian.johansen>  
+  logic in concurrency, deontic and dynamic logics, Kleene algebras
+
+- Christoph Benzmüller  
+  Freie Universität Berlin  
+  <http://christoph-benzmueller.de>  
+  higher-order logic, non-classical logics, universal logic, automated reasoning
+
+- Claes Strannegård  
+  Chalmers  
+  <https://www.chalmers.se/en/staff/Pages/claes-strannegard.aspx>
+
+- Cynthia M. Grund  
+  Associate Professor Emerita, University of Southern Denmark  
+  <http://www.sdu.dk/ansat/cmgrund>  
+  Formal logic in general, philosophical logic, theory of argumentation
+
+- Dag Normann  
+  University of Oslo, Department of Mathematics  
+  <https://www.mn.uio.no/math/english/people/aca/dnormann/index.html>  
+  Higher order computability theory, semantics of computation, higher order reverse mathematics.
+
+- Dag Prawitz  
+  Stockholm University  
+  Proof theory, Philosophy of logic and mathematics
+
+- Daisuke Ikegami  
+  Shibaura Institute of Technology  
+  <http://www.sic.shibaura-it.ac.jp/~ikegami/>  
+  Set Theory
+
+- David A. Ross  
+  University of Hawaii, USA  
+  <http://math.hawaii.edu/~ross/>
+
+- Denitsa Zhelyazkova  
+  Sofia University  
+  <https://uni-sofia.academia.edu/DenitsaZhelyazkova>  
+  Contemporary philosophy
+
+- Douglas Sutherland Bridges  
+  University of Canterbury  
+  <https://www.dsbridges.com>  
+  constructive mathematics, esp. analysis, topology, and set theory
+
+- Dr. Amir Mosavi  
+  Norwegian University of Life Sceinces  
+  <https://www.nmbu.no/emp/amirhosein.mosavi>  
+  Machine Learning
+
+- Dr. Farshad Badie  
+  Aalborg University  
+  <https://vbn.aau.dk/en/persons/133935>  
+  Description Logics, Philosophical Logic, Knowledge Representation, Symbolic AI
+
+- Esko Turunen  
+  Tampere University  
+  Non classical logics
+
+- Esteban Guerrero  
+  Department of computing science, Umeå university, Sweden  
+  <https://people.cs.umu.se/esteban/>  
+  Artificial intelligence, Formal argumentation theory
+
+- Eyvind Martol Briseid  
+  OsloMet -- Oslo Metropolitan University
+
+- Fan Yang  
+  University of Helsinki  
+  <https://sites.google.com/site/fanyanghp/>
+
+- Farshad Badie  
+  Aalborg University  
+  <https://farshad-badie.com>  
+  Description Logics, Philosophical Logic, Symbolic AI & Knowledge Representation, Philosophy of Cognition
+
+- Ferenc Csatári
+
+- Fredrik Engström  
+  University of Gothenburg  
+  <http://engstrom.morot.org/>  
+  Models of arithmetic, Dependence logic, Logical constants
+
+- Fredrik Nordvall Forsberg  
+  University of Strathclyde  
+  <https://fredriknf.com>  
+  Type theory, constructive mathematics, category theory
+
+- Fredrik Stjernberg  
+  Linköping University  
+  Philosophical logic, philosophy of language
+
+- Frode Alfson Bjørdal  
+  Universitetet i Oslo/Universidade Federal do Rio Grando do Norte  
+  <https://www.hf.uio.no/ifikk/english/people/aca/philosophy/emeriti/fbjordal/index.html>  
+  Grunnlagsproblem i matematikk, modallogikk,
+
+- Gianluca Paolini  
+  <https://sites.google.com/view/gianlucapaolini/home>
+
+- Giovanni Sambin  
+  University of Padova  
+  Foundations of mathematics, constructive logic, constructive mathematics
+
+- Giulio Fellin  
+  University of Helsinki
+
+- Graham Leigh  
+  University of Gothenburg  
+  <https://www.gu.se/en/about/find-staff/grahamleigh>  
+  Proof Theory, Computational Logic, Formal Truth
+
+- Hans Götzsche  
+  Aalborg University  
+  <https://www.cfl.aau.dk>  
+  Formal Logic and the interface with natural languages
+
+- Heinrich Wansing  
+  Ruhr University Bochum, Department of Philosophy I, Germany  
+  <https://www.ruhr-uni-bochum.de/philosophy/logic/index.html.en>  
+  philosophical logic, modal logic, non-classical logic, epistemology
+
+- Helmut Schwichtenberg  
+  Mathematics Institute, LMU, Munich  
+  <http://www.mathematik.uni-muenchen.de/~schwicht/>  
+  proof theory, lambda calculus, program extraction  from proofs
+
+- Håkon Robbestad Gylterud  
+  Universitet i Bergen  
+  <https://hakon.gylterud.net/>  
+  type theory, category theory, formalisation of mathematics, computer science
+
+- Jakob Nordström  
+  University of Copenhagen and Lund University  
+  <http://www.csc.kth.se/~jakobn/>  
+  Computational aspects of propositional logic; Boolean satisfiability (SAT) solving; certified algorithms
+
+- Jan von Plato  
+  University of Helsinki
+
+- Jelle Tjeerd Fokkens  
+  Gothenburg University, Department of Philosophy, Linguistics and Theory of Science  
+  Description logic and human reasoning
+
+- Jens Christian Bjerring  
+  Aarhus University  
+  <https://sites.google.com/site/jcbjerringswebsite/>  
+  Philosophical logic, formal epistemology, philosophy of AI
+
+- Jens Ulrik Hansen  
+  Roskilde University  
+  Logic for social networks, Logic and AI, Logic and Machine Learning
+
+- Joao Marcos  
+  Federal University of Rio Grande do Norte, Brazil  
+  <http://sequiturquodlibet.googlepages.com>  
+  formal philosophy, consequence, non-classical logics
+
+- John Gallagher  
+  Roskilde University  
+  <http://www.ruc.dk/~jpg/>  
+  Logic programming, program analysis/transformation
+
+- John T Baldwin  
+  University of Illinois in Chicago  
+  <http://homepages.math.uic.edu/~jbaldwin/>  
+  model theory,  philosophy of mathematical practice
+
+- Jonne Mickelin  
+  Former student at Uppsala and Stockholm University  
+  Proof theory, metamathematics, verification, constructivism
+
+- Joseph Kiniry  
+  Galois  
+  <https://galois.com/team/joe-kiniry/>
+
+- Jouko Väänänen  
+  University of Helsinki and University of Amsterdam  
+  <http://www.math.helsinki.fi/logic/people/jouko.vaananen/>  
+  set theory, dependence logic, second order logic, set theoretic model theory, finite model theory, computer science logic, generalized quantifiers, infinitary logic, abstract logic, foundations of mathematics, quantum foundations, logic and games
+
+- Juha Kontinen  
+  University of Helsinki
+
+- Juvenal Murwanashyaka  
+  Department of Mathematics, University of Oslo  
+  Logic
+
+- Jørgen Fischer Nilsson  
+  DTU Technical University of Denmark  
+  <https://www.dtu.dk/english/service/phonebook/person?id=1845&cpid=109299&tab=3&qt=dtuprojectquery>  
+  Natural logics, Logic for AI
+
+- Jørgen Villadsen  
+  Technical University of Denmark  
+  <https://people.compute.dtu.dk/jovi/>  
+  Logic in Computer Science and Artificial Intelligence
+
+- Karl Nygren  
+  Stockholm University
+
+- Karoliina Lehtinen  
+  CNRS, Aix-Marseille Univ., LIS  
+  <http://pageperso.lif.univ-mrs.fr/~karoliina.lehtinen/>  
+  Logic, Games, Automata, Verification, Synthesis
+
+- Kerkko Pekka Luosto  
+  Tampere university  
+  Finite model theory, generalized quantifiers, mathematical logic in general
+
+- Kim Solin  
+  Uppsala University
+
+- Lars Gundersen  
+  Dept. of Philosophy, Aarhus University  
+  logic, semantics, epistemology, metaphysics
+
+- Lars Kristiansen  
+  Department of Informatics, Department of Mathematics, University of Oslo  
+  <https://www.mn.uio.no/ifi/english/people/aca/larsk/>  
+  Mathematical Logic, Computability Theory, Complexity Theory
+
+- Lauri Hella  
+  Faculty of Information Technology and Communication Sciences, Tampere University  
+  Logic in computer science, generalized quantifiers, dependence logics, modal logic
+
+- Lewis Hammond  
+  University of Oxford  
+  <https://www.lewishammond.com>  
+  Logic in Computer Science, Artificial Intelligence, Game Theory
+
+- Mario Piazza  
+  Scuola Normale Superiore di Pisa  
+  <https://sites.google.com/site/piazzalogic/>  
+  proof-theory; computation theory; philosophy of mathematics
+
+- Magdalena Ivanovska  
+  BI Norwegian Business School  
+  knowledge representation and reasoning, uncertainty in AI, probabilistic graphical models, probabilistic logic, causality, judgment aggregation
+
+- Marco Carbone  
+  IT University of Copenhagen  
+  <https://www.itu.dk/people/maca>  
+  Programming Languages, Types, Linear Logic
+
+- Martin Filin Karlsson  
+  Philosophy of logic, formal semantics, quantification,
+
+- Martin Giese  
+  University of Oslo, Dept. of Informatics  
+  <https://www.mn.uio.no/ifi/english/people/aca/martingi/>  
+
+- Martin Kaså  
+  University of Gothenburg  
+  <https://www.gu.se/en/about/find-staff/martinkasa>  
+  philosophical logic, philosophy of logic, philosophy of language, argumentation theory
+
+- Mathias Barra  
+  Akershus universitetssykehus HF, Universitetet i Bergen
+
+- Mathias Winther Madsen  
+  Micropsi Industries GmbH  
+  Probability theory
+
+- Mattias Granberg Olsson  
+  Göteborgs universitet
+
+- Michael Reichhardt Hansen  
+  Technical University of Denmark
+
+- Miika Hannula  
+  University of Helsinki  
+  <https://sites.google.com/view/miika-hannula>  
+  Finite model theory, database theory, dependence logic
+
+- Mirja Hartimo  
+  University of Jyväskylä  
+  Philosophy of mathematics and philosophy of logic
+
+- Morten Heine Sørensen  
+  Formalit  
+  <https://www.formalit.dk>  
+  Logic, Type Theory, Programming Languages
+
+- Muhammad Usama Sardar  
+  TU Dresden  
+  <https://tu-dresden.de/ing/informatik/sya/se/die-professur/beschaeftigte/muhammad-usama-sardar>  
+  Formal verification, formal methods for security analysis, hardware security, temporal logic, (probabilistic) model checking
+
+- Mustafa Hashmi  
+  La Trobe University  
+  Knowledge representation, model logic, higher order logics, proof theory
+
+- Neil Barton  
+  University of Konstanz  
+  <https://neilbarton.net/>  
+  Philosophy and Foundations of Mathematics, Set Theory, Philosophy of Science, Epistemology
+
+- Neil Deaton Jones  
+  University of Copenhagen (professor emeritus)  
+  <https://di.ku.dk/~neil>  
+  Complexity. programming languages
+
+- Nemi Pelgrom  
+  Ludwig-Maximilians-Universität  
+  Foundations of Mathematics, philosophical logic
+
+- Nina Gierasimczuk  
+  Technical University of Denmark  
+  <http:/www.ninagierasimczuk.com/>  
+  Mathematical and Applied Logic, Epistemology, Computability, Learning Theory, Cognitive Science, Artificial Intelligence, Art-Science Interface 
+
+- Ole Hjortland  
+  University of Bergen  
+  Philosophy of logic, nonclassical logics, proof theory
+
+- Otavio Bueno  
+  University of Miami  
+  <http://www.as.miami.edu/personal/obueno>  
+  Philosophy of Logic, Philosophy of Mathematics
+
+- Oğuz Akçelik  
+  METU - Department of Philosophy  
+  <https://metu.academia.edu/O%C4%9FuzAk%C3%A7elik>  
+  Philosophical Logic, Philosophy of Language, Automated Reasoning, Formal Ontology
+
+- Patrick Bahr  
+  IT University of Copenhagen  
+  <https://bahr.io/>  
+  functional programming, type theory, formal verification
+
+- Paul Gorbow  
+  Logic: PA, ZF, NF, axiomatic theories of truth, non-standard models. Applications of logic to philosophy: Metaphysics, Language, Truth, Knowledge, Belief, Mind, Mathematics
+
+- Per Martin-Löf  
+  Departments of Mathematics and Philosophy, Stockholm University  
+  Proof Theory, Type Theory
+
+- Peter Dybjer  
+  Chalmers University of Technology  
+  <http://www.cse.chalmers.se/~peterd/>  
+  type theory, proof assistants, logic and semantics of programs
+
+- Peter Fritz  
+  Australian Catholic University and University of Oslo  
+  <https://www.hf.uio.no/ifikk/english/people/aca/philosophy/tenured/peteraf/>  
+  Philosophical Logic
+
+- Peter LeFanu Lumsdaine  
+  Stockholm University  
+  <http://peterlefanulumsdaine.com>  
+  Dependent type theory, esp. homotopy type theory; constructive mathematics; categorical logic
+
+- Peter Schuster  
+  Università di Verona  
+  <https://www.di.univr.it/?ent=persona&id=21404&lang=en>  
+  Proof theory and constructive mathematics
+
+- Peter Øhrstrøm  
+  Aalborg University  
+  Tense-logic, modal logic, the history of logic
+
+- Philip David Welch  
+  University of Bristol  
+  <https://people.maths.bris.ac.uk/~mapdw/>  
+  Set Theory, Foundations, Transfinite Computation, Theories of Truth
+
+- Pietro Galliani  
+  Free University of Bozen-Bolzano
+
+- Radhakrishnan Delhibabu  
+  VIT Vellore, India  
+  <https://sites.google.com/site/rdelhibabu/>  
+  Applied Mathematical Logic, AI and Cognitive Modelling
+
+- Raja Natarajan  
+  Tata Institute of Fundamental Research  
+  <https://www.tcs.tifr.res.in/~raja/>  
+  Logic
+
+- Rasmus Blanck  
+  University of Gothenburg  
+  <https://www.rasmusblanck.com>  
+  metamathematics, philosophy of mathematics, formal semantics, probabilistic semantics
+
+- Rasmus Kræmmer Rendsvig  
+  Center for Information and Bubble Studies, University of Copenhagen  
+  <https://rends.dk>  
+  Epistemic Logic, Dynamic Epistemic Logic, Logic and Rational Interaction, Logic and Topology, Modal Logic
+
+- Rineke Verbrugge  
+  University of Groningen  
+  <https://rinekeverbrugge.nl>  
+  modal logics (epistemic, provability), logic and cognition, multi-agent systems
+
+- Robin Cooper  
+  University of Gothenburg  
+  <https://www.gu.se/en/about/find-staff/robincooper>  
+  logic and natural language
+
+- Roger Antonsen  
+  Department of Informatics, University of Oslo  
+  <https://rantonse.no/>  
+  Proof Theory, Automated Reasoning, Modal Logic, Recreational Mathematics, Teaching
+
+- Roman Kossak  
+  The Graduate Center, City University of New York  
+  model theory, nonstandard models of arithmetic
+
+- Roussanka Loukanova  
+  D. of Algebra and Logic, Institute of Mathematics and Informatics (IMI) Bulgarian Academy of Sciences (BAS), Sofia, Bulgaria  
+  <https://staff.math.su.se/rloukanova/>  
+  Theory of Computation, Logic, Types, Computational Linguistics, Computational Syntax-Semantics
+
+- Saeed Salehi  
+  University of Tabriz  
+  <http://www.SaeedSalehi.ir/>  
+  Mathematical Logic & Computer Science
+
+- Sankha S. Basu  
+  IIIT-Delhi, India
+
+- Sara Negri  
+  University of Genova  
+  <https://sites.google.com/view/saranegri>  
+  proof theory, modal logic, non-classical logics
+
+- Semiha Akıncı  
+  Anadolu University  
+  Logic, philosopy of language, philosophy of science
+
+- Stefán Jökulsson  
+  Archives Henri Poincaré  
+  Logic, Philosophy of logic, Philosophy of language, History of analytical philosophy
+
+- Sumanta Sarathi Sharma  
+  Shri Mata Vaishno Devi University Katra, India  
+  Syllogistic Reasoning, Diagrammatic Logic
+
+- Sven Ove Hansson  
+  Royal Institute of Technology, Stockholm  
+  <http://home.abe.kth.se/~soh/>  
+  Belief revision, formal epistemology, preference logic, deontic logic, logic of probability, philosophy of logic
+
+- Sylvie Saget  
+  University of Gothenburg  
+  <https://www.gu.se/en/about/find-staff/sylviesaget>  
+  Logic and Language, Philosophical logic
+
+- Thomas Bolander  
+  Technical University of Denmark  
+  <http://www2.compute.dtu.dk/~tobo/>  
+  epistemic logic, automated planning, hybrid logic, dynamic epistemic logic, self-reference, social intelligence, logic-based AI, combinations of symbolic and subsymbolic AI, human-robot interaction
+
+- Thomas Ågotnes  
+  University of Bergen  
+  <https://www.uib.no/en/persons/Thomas.Ågotnes>  
+  Modal logic, epistemic logic, temporal logic, strategic logic, game logic, multi-agent logic, social cognition
+
+- Torben Braüner  
+  Roskilde University  
+  <http://akira.ruc.dk/~torben/>
+
+- Tore Fjetland Øgaard  
+  University of Bergen  
+  <https://philpeople.org/profiles/tore-fjetland-ogaard>  
+  philosophy of logic, philosophical logic, philosophy of mathematics, non-classical logics, relevant logics, substructural logics
+
+- Truls Pedersen  
+  Department of Information Science and Media Studies, UiB  
+  <https://www.uib.no/personer/Truls.Andr%C3%A9.Pedersen>  
+  Logic, defeasible reasoning, artificial intelligence
+
+- Tuyen Trung Truong  
+  University of Oslo
+
+- Ulrich Kohlenbach  
+  Department of Mathematics, TU Darmstadt  
+  <https://www.mathematik.tu-darmstadt.de/~kohlenbach>  
+  Proof theory with applications in mathematics
+
+- Ulrik Torben Buchholtz  
+  TU Darmstadt  
+  <https://www2.mathematik.tu-darmstadt.de/~buchholtz/>  
+  homotopy type theory, proof theory, predicativity, univalent foundations, constructive mathematics
+
+- Vadim Kulikov  
+  University of Oulu
+
+- Valentin Goranko   
+  Stockholm University  
+  <https://www2.philosophy.su.se/goranko>  
+  modal and temporal logics, logics for games and multi-agent systems 
+
+- Valeria de Paiva  
+  <https://vcvpaiva.github.io/>  
+  proof theory, linear logic
+
+- Vera Koponen  
+  Department of Mathematics, Uppsala University  
+  <https://katalog.uu.se/profile/?id=N96-558>  
+  logic, model theory, and these things combined with combinatorics and probability, applications to AI
+
+- Viggo Stoltenberg-Hansen  
+  Uppsala Universitet  
+  Logik
+
+- Yoshihiro Maruyama  
+  Australian National University  
+  Algebraic and categorical logic
+
+- Yì Nicholas Wáng  
+  Sun Yat-sen University  
+  <http://xixilogic.org/ynw/index.html>  
+  Logics for AI, Philosophical Logic
+
+- Zhaohui Luo
+
+- Zuzanna Gnatek  
+  Trinity College Dublin
+
+- Vladik Kreinovich  
+  University of Texas at El Paso  
+  <http://www.cs.utep.edu/vladik>  
+  logics used in AI, constructive logic
+
+- Åsa Hirvonen  
+  University of Helsinki  
+  <https://www.mv.helsinki.fi/home/asaekman/>  
+  mathematical logic, model theory, quantum information
+
+- Øystein Linnebo  
+  Department of Philosophy, University of Oslo  
+  <https://www.oysteinlinnebo.org>  
+  Philosophical logic, philosophy of mathematics, Frege
+
+- Деница Желязкова  
+  Logic
+
