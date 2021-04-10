@@ -1,8 +1,8 @@
----  
-layout: default  
-title: Members  
----  
-## List of members  
+---
+layout: default
+title: Members
+---
+## List of members
 
 Fill out [this form](https://forms.gle/jnwqRqCHNkcjvQB7A) to apply for
 membership.
@@ -14,7 +14,7 @@ membership.
 - Adam Ó Conghaile  
   Cambridge  
   <https://aconghaile.github.io>  
-  Descriptive complexity, finite model theory, category theory 
+  Descriptive complexity, finite model theory, category theory
 
 - Aleksandra Samonek  
   Université catholique de Louvain  
@@ -30,10 +30,19 @@ membership.
   <https://www.gu.se/en/about/find-staff/alienayat>  
   Models of arithmetic and set theory, axiomatic theories of truth
 
+- Dr. Amir Mosavi  
+  Norwegian University of Life Sceinces  
+  <https://www.nmbu.no/emp/amirhosein.mosavi>  
+  Machine Learning
+
 - Anders Lundstedt  
   <https://anderslundstedt.com>
 
 - Anders Märak Leffler
+
+- André Rognes  
+  OsloMet – Oslo Metropolitan University  
+  algebraic logic, automated reasoning
 
 - Andrea Reichenberger  
   Paderborn University  
@@ -46,10 +55,6 @@ membership.
   CNRS-IRIT  
   <https://www.irit.fr/~Andreas.Herzig/>  
   modal logic, epistemic logic, dynamic logic, logics of agency, conditional logic
-
-- André Rognes  
-  OsloMet – Oslo Metropolitan University  
-  algebraic logic, automated reasoning
 
 - Andrés Villaveces  
   Universidad Nacional de Colombia  
@@ -78,6 +83,11 @@ membership.
   Swansea University  
   <https://www.beckmann.pro/>  
   Proof Theory, Bounded Arithmetic, Propositional Proof Complexity
+
+- Åsa Hirvonen  
+  University of Helsinki  
+  <https://www.mv.helsinki.fi/home/asaekman/>  
+  mathematical logic, model theory, quantum information
 
 - B. Göran Sundholm  
   Leiden University, Institute for Philosophy  
@@ -173,16 +183,6 @@ membership.
   <https://www.dsbridges.com>  
   constructive mathematics, esp. analysis, topology, and set theory
 
-- Dr. Amir Mosavi  
-  Norwegian University of Life Sceinces  
-  <https://www.nmbu.no/emp/amirhosein.mosavi>  
-  Machine Learning
-
-- Dr. Farshad Badie  
-  Aalborg University  
-  <https://vbn.aau.dk/en/persons/133935>  
-  Description Logics, Philosophical Logic, Knowledge Representation, Symbolic AI
-
 - Esko Turunen  
   Tampere University  
   Non classical logics
@@ -240,6 +240,11 @@ membership.
   <https://www.gu.se/en/about/find-staff/grahamleigh>  
   Proof Theory, Computational Logic, Formal Truth
 
+- Håkon Robbestad Gylterud  
+  Universitet i Bergen  
+  <https://hakon.gylterud.net/>  
+  type theory, category theory, formalisation of mathematics, computer science
+
 - Hans Götzsche  
   Aalborg University  
   <https://www.cfl.aau.dk>  
@@ -254,11 +259,6 @@ membership.
   Mathematics Institute, LMU, Munich  
   <http://www.mathematik.uni-muenchen.de/~schwicht/>  
   proof theory, lambda calculus, program extraction  from proofs
-
-- Håkon Robbestad Gylterud  
-  Universitet i Bergen  
-  <https://hakon.gylterud.net/>  
-  type theory, category theory, formalisation of mathematics, computer science
 
 - Jakob Nordström  
   University of Copenhagen and Lund University  
@@ -300,6 +300,16 @@ membership.
   Former student at Uppsala and Stockholm University  
   Proof theory, metamathematics, verification, constructivism
 
+- Jørgen Fischer Nilsson  
+  DTU Technical University of Denmark  
+  <https://www.dtu.dk/english/service/phonebook/person?id=1845&cpid=109299&tab=3&qt=dtuprojectquery>  
+  Natural logics, Logic for AI
+
+- Jørgen Villadsen  
+  Technical University of Denmark  
+  <https://people.compute.dtu.dk/jovi/>  
+  Logic in Computer Science and Artificial Intelligence
+
 - Joseph Kiniry  
   Galois  
   <https://galois.com/team/joe-kiniry/>
@@ -315,16 +325,6 @@ membership.
 - Juvenal Murwanashyaka  
   Department of Mathematics, University of Oslo  
   Logic
-
-- Jørgen Fischer Nilsson  
-  DTU Technical University of Denmark  
-  <https://www.dtu.dk/english/service/phonebook/person?id=1845&cpid=109299&tab=3&qt=dtuprojectquery>  
-  Natural logics, Logic for AI
-
-- Jørgen Villadsen  
-  Technical University of Denmark  
-  <https://people.compute.dtu.dk/jovi/>  
-  Logic in Computer Science and Artificial Intelligence
 
 - Karl Nygren  
   Stockholm University
@@ -359,11 +359,6 @@ membership.
   <https://www.lewishammond.com>  
   Logic in Computer Science, Artificial Intelligence, Game Theory
 
-- Mario Piazza  
-  Scuola Normale Superiore di Pisa  
-  <https://sites.google.com/site/piazzalogic/>  
-  proof-theory; computation theory; philosophy of mathematics
-
 - Magdalena Ivanovska  
   BI Norwegian Business School  
   knowledge representation and reasoning, uncertainty in AI, probabilistic graphical models, probabilistic logic, causality, judgment aggregation
@@ -373,12 +368,17 @@ membership.
   <https://www.itu.dk/people/maca>  
   Programming Languages, Types, Linear Logic
 
+- Mario Piazza  
+  Scuola Normale Superiore di Pisa  
+  <https://sites.google.com/site/piazzalogic/>  
+  proof-theory; computation theory; philosophy of mathematics
+
 - Martin Filin Karlsson  
-  Philosophy of logic, formal semantics, quantification,
+  Philosophy of logic, formal semantics, quantification
 
 - Martin Giese  
   University of Oslo, Dept. of Informatics  
-  <https://www.mn.uio.no/ifi/english/people/aca/martingi/>  
+  <https://www.mn.uio.no/ifi/english/people/aca/martingi/>
 
 - Martin Kaså  
   University of Gothenburg  
@@ -438,7 +438,12 @@ membership.
 - Nina Gierasimczuk  
   Technical University of Denmark  
   <http:/www.ninagierasimczuk.com/>  
-  Mathematical and Applied Logic, Epistemology, Computability, Learning Theory, Cognitive Science, Artificial Intelligence, Art-Science Interface 
+  Mathematical and Applied Logic, Epistemology, Computability, Learning Theory, Cognitive Science, Artificial Intelligence, Art-Science Interface
+
+- Oğuz Akçelik  
+  METU - Department of Philosophy  
+  <https://metu.academia.edu/O%C4%9FuzAk%C3%A7elik>  
+  Philosophical Logic, Philosophy of Language, Automated Reasoning, Formal Ontology
 
 - Ole Hjortland  
   University of Bergen  
@@ -449,10 +454,10 @@ membership.
   <http://www.as.miami.edu/personal/obueno>  
   Philosophy of Logic, Philosophy of Mathematics
 
-- Oğuz Akçelik  
-  METU - Department of Philosophy  
-  <https://metu.academia.edu/O%C4%9FuzAk%C3%A7elik>  
-  Philosophical Logic, Philosophy of Language, Automated Reasoning, Formal Ontology
+- Øystein Linnebo  
+  Department of Philosophy, University of Oslo  
+  <https://www.oysteinlinnebo.org>  
+  Philosophical logic, philosophy of mathematics, Frege
 
 - Patrick Bahr  
   IT University of Copenhagen  
@@ -481,14 +486,14 @@ membership.
   <http://peterlefanulumsdaine.com>  
   Dependent type theory, esp. homotopy type theory; constructive mathematics; categorical logic
 
+- Peter Øhrstrøm  
+  Aalborg University  
+  Tense-logic, modal logic, the history of logic
+
 - Peter Schuster  
   Università di Verona  
   <https://www.di.univr.it/?ent=persona&id=21404&lang=en>  
   Proof theory and constructive mathematics
-
-- Peter Øhrstrøm  
-  Aalborg University  
-  Tense-logic, modal logic, the history of logic
 
 - Philip David Welch  
   University of Bristol  
@@ -515,7 +520,7 @@ membership.
 
 - Rasmus Kræmmer Rendsvig  
   Center for Information and Bubble Studies, University of Copenhagen  
-  <https://rends.dk>  
+  <https://Rends.dk>  
   Epistemic Logic, Dynamic Epistemic Logic, Logic and Rational Interaction, Logic and Topology, Modal Logic
 
 - Rineke Verbrugge  
@@ -577,15 +582,15 @@ membership.
   <https://www.gu.se/en/about/find-staff/sylviesaget>  
   Logic and Language, Philosophical logic
 
-- Thomas Bolander  
-  Technical University of Denmark  
-  <http://www2.compute.dtu.dk/~tobo/>  
-  epistemic logic, automated planning, hybrid logic, dynamic epistemic logic, self-reference, social intelligence, logic-based AI, combinations of symbolic and subsymbolic AI, human-robot interaction
-
 - Thomas Ågotnes  
   University of Bergen  
   <https://www.uib.no/en/persons/Thomas.Ågotnes>  
   Modal logic, epistemic logic, temporal logic, strategic logic, game logic, multi-agent logic, social cognition
+
+- Thomas Bolander  
+  Technical University of Denmark  
+  <http://www2.compute.dtu.dk/~tobo/>  
+  epistemic logic, automated planning, hybrid logic, dynamic epistemic logic, self-reference, social intelligence, logic-based AI, combinations of symbolic and subsymbolic AI, human-robot interaction
 
 - Torben Braüner  
   Roskilde University  
@@ -620,7 +625,7 @@ membership.
 - Valentin Goranko   
   Stockholm University  
   <https://www2.philosophy.su.se/goranko>  
-  modal and temporal logics, logics for games and multi-agent systems 
+  modal and temporal logics, logics for games and multi-agent systems
 
 - Valeria de Paiva  
   <https://vcvpaiva.github.io/>  
@@ -635,35 +640,24 @@ membership.
   Uppsala Universitet  
   Logik
 
-- Yoshihiro Maruyama  
-  Australian National University  
-  Algebraic and categorical logic
+- Vladik Kreinovich  
+  University of Texas at El Paso  
+  <http://www.cs.utep.edu/vladik>  
+  logics used in AI, constructive logic
 
 - Yì Nicholas Wáng  
   Sun Yat-sen University  
   <http://xixilogic.org/ynw/index.html>  
   Logics for AI, Philosophical Logic
 
+- Yoshihiro Maruyama  
+  Australian National University  
+  Algebraic and categorical logic
+
 - Zhaohui Luo
 
 - Zuzanna Gnatek  
   Trinity College Dublin
 
-- Vladik Kreinovich  
-  University of Texas at El Paso  
-  <http://www.cs.utep.edu/vladik>  
-  logics used in AI, constructive logic
-
-- Åsa Hirvonen  
-  University of Helsinki  
-  <https://www.mv.helsinki.fi/home/asaekman/>  
-  mathematical logic, model theory, quantum information
-
-- Øystein Linnebo  
-  Department of Philosophy, University of Oslo  
-  <https://www.oysteinlinnebo.org>  
-  Philosophical logic, philosophy of mathematics, Frege
-
 - Деница Желязкова  
   Logic
-
