@@ -173,7 +173,7 @@ membership.
   University of Hawaii, USA  
   <http://math.hawaii.edu/~ross/>
 
-- Denitsa Zhelyazkova  
+- Denitsa Zhelyazkova (Деница Желязкова)  
   Sofia University  
   <https://uni-sofia.academia.edu/DenitsaZhelyazkova>  
   Contemporary philosophy
@@ -658,6 +658,3 @@ membership.
 
 - Zuzanna Gnatek  
   Trinity College Dublin
-
-- Деница Желязкова  
-  Logic
