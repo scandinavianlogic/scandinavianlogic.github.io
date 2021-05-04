@@ -23,5 +23,23 @@ layout: default
 {% endfor %}
 {% comment %} generate page {% endcomment %}
 <h2>{{ page.title }}</h2>
-<p class="publication_date">published {{ page.date | date: "%Y-%m-%d" }}</p>
+<p class="post_dates">
+  published: {{ page.date | date: "%Y-%m-%d" }}
+  {% if page.categories contains "events" %}
+    <br />
+    {% if page.end_date != page.start_date %}
+      event dates:
+      {{ page.start_date | date: "%Y-%m-%d" }}
+      –
+      {{ page.end_date | date: "%Y-%m-%d" }}
+    {% else %}
+      event date:
+      {{ page.start_date | date: "%Y-%m-%d" }}
+    {% endif %}
+  {% endif %}
+  {% if page.categories contains "positions" %}
+    <br />
+    deadline: {{ page.deadline }}
+  {% endif %}
+</p>
 {{ content }}
