@@ -3,9 +3,9 @@ layout: post
 title: "NOL Seminar with Dag Prawitz: Validity of inference and argument"
 start_date: "2021-03-22"
 end_date: "2021-03-22"
-category: events
+category: ["events", "nol-seminar"]
 ---
-[Nordic Online Logic Seminar]({% post_url 2021-03-16-NOL-Seminar %})
+[Nordic Online Logic Seminar](/the-NOL-seminar.html)
 
 Next talk: Monday, March 22, 16.00-17.30 CET (UTC+1), on Zoom (details will be
 provided to the subscribers)

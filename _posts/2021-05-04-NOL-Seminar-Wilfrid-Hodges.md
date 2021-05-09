@@ -3,9 +3,9 @@ layout: post
 title: "NOL Seminar with Wilfrid Hodges"
 start_date: "2021-05-24"
 end_date: "2021-05-24"
-category: events
+category: ["events", "nol-seminar"]
 ---
-[The Nordic Online Logic Seminar]({% post_url 2021-03-16-NOL-Seminar %})
+[The Nordic Online Logic Seminar](/the-nol-seminar.html)
 is organised monthly over Zoom, with expository talks on topics of interest for
 the broader logic community. The seminar is open for professional or aspiring
 logicians and logic aficionados worldwide. If you wish to receive the Zoom ID

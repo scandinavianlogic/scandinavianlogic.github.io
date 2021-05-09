@@ -1,6 +1,7 @@
 # valid categories for posts
 # corresponding checks for mandatory fields in post layout!
 - events
+- nol-seminar
 - positions
 - symposiums
 - schools

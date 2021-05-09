@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Nordic Online Logic Seminar (NOL Seminar)"
+category: nol-seminar
 ---
-We are pleased to announce the launch of the Nordic Online Logic Seminar (NOL
-Seminar), which will be organised monthly over Zoom, with talks on logic topics
-of interest for the broader logic community.
+We are pleased to announce the launch of the
+[Nordic Online Logic Seminar](/the-nol-seminar.html)
+(NOL Seminar), which will be organised monthly over Zoom, with talks on logic
+topics of interest for the broader logic community.
 
 The tentative time slot is Monday, 16.00-17.30 (UTC+1).
 
