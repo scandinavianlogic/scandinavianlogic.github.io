@@ -255,8 +255,8 @@ td.post_link, th.post_link {
   vertical-align: top;
 }
 img.feed_icon {
-  width: 1.1ex;
-  height: 1.1ex;
+  height: 1ex;
+  width: auto;
 }
 
 
