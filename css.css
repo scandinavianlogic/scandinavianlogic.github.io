@@ -265,6 +265,9 @@ img.feed_icon {
 * {
   color: #203549;
 }
+svg {
+  fill: #203549;
+}
 a, nav a:visited {
   color: #006Bff;
 }
