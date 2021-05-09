@@ -3,7 +3,7 @@ layout: post
 title: "Nordic Online Logic Seminar (NOL Seminar)"
 ---
 We are pleased to announce the launch of the
-[Nordic Online Logic Seminar](/the-nol-seminar.html)
+[Nordic Online Logic Seminar](/the-NOL-seminar.html)
 (NOL Seminar), which will be organised monthly over Zoom, with talks on logic
 topics of interest for the broader logic community.
 

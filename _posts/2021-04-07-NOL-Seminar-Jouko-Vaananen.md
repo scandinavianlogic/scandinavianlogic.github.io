@@ -7,7 +7,7 @@ speaker: "Jouko Väänänen"
 talk_title: "Dependence logic—some recent developments"
 category: ["events", "nol-seminar"]
 ---
-[The Nordic Online Logic Seminar](/the-nol-seminar.html)
+[The Nordic Online Logic Seminar](/the-NOL-seminar.html)
 is organised monthly over Zoom, with expository talks on topics of interest for
 the broader logic community. The seminar is open for professional or aspiring
 logicians and logic aficionados worldwide. If you wish to receive the Zoom ID
