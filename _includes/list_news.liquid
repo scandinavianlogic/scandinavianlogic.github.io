@@ -34,6 +34,8 @@
               –
               <wbr>{{ post.end_date | date: "%Y-%m-%d" }}
             {% endif %}
+          {% when "nol-seminar" %}
+            {{ post.start_date | date: "%Y-%m-%d" }}
           {% when "positions" %}
             {{ post.deadline | date: "%Y-%m-%d" }}
           {% else %}
@@ -41,7 +43,14 @@
         {% endcase %}
       </td>
       <td class="post_link">
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        {% case include.category %}
+          {% when "nol-seminar" %}
+            <a href="{{ post.url }}">
+              {{ post.speaker }}: {{ post.talk_title }}
+            </a>
+          {% else %}
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        {% endcase %}
       </td>
     </tr>
   {% endfor %}

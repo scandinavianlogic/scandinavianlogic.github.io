@@ -3,6 +3,8 @@ layout: post
 title: "NOL Seminar with Wilfrid Hodges"
 start_date: "2021-05-24"
 end_date: "2021-05-24"
+speaker: "Wilfrid Hodges"
+talk_title: "How the teenage Avicenna planned out several new logics"
 category: ["events", "nol-seminar"]
 ---
 [The Nordic Online Logic Seminar](/the-nol-seminar.html)

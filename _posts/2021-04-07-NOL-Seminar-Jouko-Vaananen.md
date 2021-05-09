@@ -3,6 +3,8 @@ layout: post
 title: "NOL Seminar with Jouko Väänänen"
 start_date: "2021-04-26"
 end_date: "2021-04-26"
+speaker: "Jouko Väänänen"
+talk_title: "Dependence logic—some recent developments"
 category: ["events", "nol-seminar"]
 ---
 [The Nordic Online Logic Seminar](/the-nol-seminar.html)

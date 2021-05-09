@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Nordic Online Logic Seminar (NOL Seminar)"
-category: nol-seminar
 ---
 We are pleased to announce the launch of the
 [Nordic Online Logic Seminar](/the-nol-seminar.html)

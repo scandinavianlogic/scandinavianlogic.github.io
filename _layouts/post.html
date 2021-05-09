@@ -19,6 +19,16 @@ layout: default
       {% unless page.end_date %}
         {{ "end_date missing" | log_error }}
       {% endunless %}
+    {% when "nol-seminar" %}
+      {% unless page.start_date == page.end_date %}
+        {{ "start_date ≠ end_date" | log_error }}
+      {% endunless %}
+      {% unless page.speaker %}
+        {{ "speaker missing" | log_error }}
+      {% endunless %}
+      {% unless page.talk_title %}
+        {{ "talk title missing" | log_error }}
+      {% endunless %}
   {% endcase %}
 {% endfor %}
 {% comment %} generate page {% endcomment %}

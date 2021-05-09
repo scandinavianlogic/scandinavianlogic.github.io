@@ -12,6 +12,6 @@ further announcements, please subscribe here:
 
 <https://listserv.gu.se/sympa/subscribe/nordiclogic>
 
-### News
+### Seminars
 
 {% include list_news.liquid category="nol-seminar" %}
