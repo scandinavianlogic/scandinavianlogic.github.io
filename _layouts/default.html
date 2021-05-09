@@ -14,16 +14,21 @@
   </head>
   <body>
     <header>
-      <img src="/assets/img/akka.jpg" alt="Akka">
+      <img src="/assets/img/akka.jpg" alt="Akka" width="100%" height="auto">
       <div>
         <h1>The Scandinavian Logic Society</h1>
         <label id="hamburger" for="show-menu">
-          <img src="/assets/img/hamburger.svg" alt="☰">
+          <svg viewBox="0 0 150 100" width="0" height="0">
+            <rect y="0"  width="150" height="15" rx="10"></rect>
+            <rect y="45" width="150" height="15" rx="10"></rect>
+            <rect y="85" width="150" height="15" rx="10"></rect>
+          </svg>
+          <!-- <img src="/assets/img/hamburger.svg" alt="☰"> -->
         </label>
       </div>
     </header>
     <div id="main">
-      <input id="show-menu" name="show-menu" type="checkbox">
+      <input id="show-menu" name="show-menu" type="checkbox" style="display: none;">
       <div id="menu">
         <nav>
           <ul>

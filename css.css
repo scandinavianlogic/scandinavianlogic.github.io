@@ -35,40 +35,39 @@ header {
   margin-top: 0.5em;
   position: relative;
 }
-header img {
+header>img {
   width: 100%;
-  vertical-align: text-bottom;
+  vertical-align: bottom;
 }
-header div {
-  display: flex;
-  flex-direction: row-reverse;
-  align-items: center;
+header>div {
   position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
-  font-size: large;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+  padding-left: 1.5ch;
+  padding-right: 1.5ch;
   background: var(--gray); /* fallback */
   background: var(--gray-transparent);
 }
-header div h1, #hamburger {
-  padding-top: 0.3em;
-  padding-bottom: 0.3em;
-  padding-left: 1ch;
-  padding-right: 1ch;
-}
-header div h1 {
-  margin: 0;
+header>div>h1 {
   flex-grow: 1;
+  margin: 0;
+  padding-left: 2ch;
   text-align: right;
 }
 #hamburger {
-  cursor: pointer;
-  text-align: left;
-}
-#hamburger img {
   height: 1em;
-  width: auto;
+  width: 1.5em;
+  cursor: pointer;
+}
+#hamburger>svg {
+  height: 100%;
+  width: 100%;
 }
 #show-menu {
   display: none;
@@ -99,6 +98,9 @@ header div h1 {
 #menu ul {
   margin-top: 0;
   margin-bottom: 0;
+  margin-left: 0;
+  padding: 0;
+  list-style-type: none;
 }
 #content {
   padding-top: 0.5em;
@@ -186,14 +188,14 @@ nav.submenu a {
     display: initial;
     position: initial;
     background: initial;
-    flex-grow: 1;
     width: fit-content;
-    white-space: nowrap;
     margin-right: var(--sidebar-margin-right);
+    white-space: nowrap;
     border: var(--border);
     border-radius: var(--border-radius);
   }
   #content {
+    margin-left: auto;
     max-width: var(--max-content-width);
     border: var(--border);
     border-radius: var(--border-radius);
@@ -203,17 +205,17 @@ nav.submenu a {
 
 /* ADDITIONAL STUFF */
 
-ul {
+#content ul {
   list-style-type: none;
   padding: 0;
   margin-left: 2.5ch;
 }
-li:before {
+#content li:before {
   content: "–";
   position: absolute;
   left: -2.5ch;
 }
-li {
+#content li {
   position: relative;
 }
 table.posts_list {
@@ -276,7 +278,7 @@ a:visited {
 strong {
   font-weight: 500;
 }
-#menu nav {
+#menu nav, header h1 {
   font-size: 1.2em;
 }
 .post_dates {
