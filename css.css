@@ -72,7 +72,18 @@ header>div>h1 {
 #show-menu {
   display: none;
 }
-#show-menu:checked~#menu {
+#hide-menu {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: white;
+  opacity: 0.6;
+}
+#show-menu:checked~#menu, #show-menu:checked~#hide-menu {
   display: initial;
 }
 #main {
@@ -81,7 +92,7 @@ header>div>h1 {
 }
 #menu {
   display: none;
-  z-index: 1;
+  z-index: 2;
   position: absolute;
   top: 0;
   left: 0;
