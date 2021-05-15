@@ -160,11 +160,11 @@ nav.submenu a {
 
 /* hide some stuff on print */
 @media only print {
-  #menu, nav.submenu, #hamburger, header img, footer {
+  #menu, nav.submenu, #hamburger, header>img, footer {
     display: none;
   }
-  header, header div {
-    all: initial;
+  header, header>div, header>div>h1 {
+    all: unset;
   }
   #content {
     border: 0;
@@ -303,7 +303,7 @@ footer p {
 }
 h1 {
   font-size: large;
-  font-weight: 450;
+  font-weight: 400;
 }
 h2 {
   font-size: large;
