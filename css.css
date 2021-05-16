@@ -163,6 +163,9 @@ nav.submenu a {
   #menu, nav.submenu, #hamburger, header>img, footer {
     display: none;
   }
+  #show-menu:checked~#menu, #show-menu:checked~#hide-menu {
+    display: none;
+  }
   header, header>div, header>div>h1 {
     all: unset;
   }
@@ -194,6 +197,9 @@ nav.submenu a {
   #main {
     position: initial;
     display: flex;
+  }
+  #show-menu:checked~#hide-menu {
+    display: none;
   }
   #menu {
     display: initial;
