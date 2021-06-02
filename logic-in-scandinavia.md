@@ -46,8 +46,6 @@ Computation (CADILLAC): <http://cadillac-dk.weebly.com>.
 
 ### Finland
 
-{{ "TODO: logic in finland" | log_warning }}
-
 ### Iceland
 
 Logic in Iceland is mainly represented by the Icelandic Center of Excellence in
