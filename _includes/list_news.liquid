@@ -32,7 +32,8 @@
             {{ post.start_date | date: "%Y-%m-%d" }}
             {% if post.end_date != post.start_date %}
               –
-              <wbr>{{ post.end_date | date: "%Y-%m-%d" }}
+              <br>
+              {{ post.end_date | date: "%Y-%m-%d" }}
             {% endif %}
           {% when "nol-seminar" %}
             {{ post.start_date | date: "%Y-%m-%d" }}
