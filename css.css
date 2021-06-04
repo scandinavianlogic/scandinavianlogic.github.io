@@ -7,23 +7,111 @@
   --max-content-width: 59ch; /* including padding */
   --max-width-without-sidebar: 61ch;
   --max-width-with-sidebar: 91ch;
-  --gray: rgb(229,229,229);
-  --gray-transparent: rgba(229,229,229,0.75);
+  --pantone-653c: #326295;
+  --pantone-653c-tint-30: #C2D0DF;
+  --pantone-653c-tint-60: #99B1CA;
+  --pantone-653c-transparent: rgba(50, 98, 149, 0.85);
+  --pantone-653c-tint-30-transparent: rgba(194, 208, 223, 0.85);
+  --pantone-653c-tint-60-transparent: rgba(132, 161, 191, 0.85);
   --border-width: 3px;
-  --border: var(--border-width) solid var(--gray);
+  --border: var(--border-width) solid var(--pantone-653c);
   --border-radius: var(--border-width);
 }
 
 
-/* MAIN STUFF */
+/* COLORS */
+
+* {
+  color: black;
+}
+body {
+  background: var(--pantone-653c-tint-60);;
+}
+#content {
+  background: white;
+}
+header>div>h1 {
+  color: var(--pantone-653c-tint-30);
+}
+#hamburger>svg {
+  fill: var(--pantone-653c-tint-30);
+}
+header>div {
+  background: var(--pantone-653c); /* fallback */
+  background: var(--pantone-653c-transparent);
+}
+#menu {
+  background: var(--pantone-653c-tint-30);
+}
+a, nav a:visited {
+  color: #06f;
+}
+a:visited {
+  color: #75C;
+}
+
+
+/* FONTS */
+
+* {
+  font-family: Arial, sans-serif;
+  font-weight: 400;
+}
+strong {
+  font-weight: 500;
+}
+#menu nav, header>div>h1 {
+  font-size: 1.2em;
+}
+.post_dates {
+  font-size: small;
+}
+footer p {
+  font-size: small;
+}
+h1 {
+  font-size: large;
+  font-weight: 400;
+}
+h2 {
+  font-size: large;
+  font-weight: 600;
+}
+h3 {
+  font-size: medium;
+  font-weight: 600;
+}
+h4 {
+  font-size: medium;
+  font-style: italic;
+}
+h5 {
+  font-size: small;
+  font-weight: 600;
+}
+h6 {
+  font-size: x-small;
+  font-weight: 600;
+}
+
+
+/* STYLING */
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+
+/* MAIN LAYOUT */
 
 * {
   box-sizing: border-box;
   word-break: break-word;
   text-size-adjust: none;
   -webkit-text-size-adjust: none;
-  font-family: Arial, sans-serif;
-  font-weight: 400;
 }
 body {
   margin: 0 auto;
@@ -51,8 +139,6 @@ header>div {
   padding-bottom: 0.3em;
   padding-left: 1.5ch;
   padding-right: 1.5ch;
-  background: var(--gray); /* fallback */
-  background: var(--gray-transparent);
 }
 header>div>h1 {
   flex-grow: 1;
@@ -104,7 +190,6 @@ header>div>h1 {
   margin-right: 0;
   margin-top: 0;
   margin-bottom: auto;
-  background: var(--gray);
 }
 #menu ul {
   margin-top: 0;
@@ -129,11 +214,14 @@ footer p {
 }
 
 /* borders */
-header img {
+header>img {
+  border-top: var(--border);
+  border-left: var(--border);
+  border-right: var(--border);
   border-top-left-radius: var(--border-radius);
   border-top-right-radius: var(--border-radius);
 }
-#content {
+#content, #menu {
   border-bottom-left-radius: var(--border-radius);
   border-bottom-right-radius: var(--border-radius);
 }
@@ -143,7 +231,7 @@ nav.submenu {
 nav.submenu {
   border: var(--border);
 }
-#content {
+#content, #menu, #hide-menu {
   border-left: var(--border);
   border-right: var(--border);
   border-bottom: var(--border);
@@ -156,67 +244,6 @@ nav.submenu {
 nav.submenu a {
   margin-left: 0.5ch;
   margin-right: 0.5ch;
-}
-
-/* hide some stuff on print */
-@media only print {
-  #menu, nav.submenu, #hamburger, header>img, footer {
-    display: none;
-  }
-  #show-menu:checked~#menu, #show-menu:checked~#hide-menu {
-    display: none;
-  }
-  header, header>div, header>div>h1 {
-    all: unset;
-  }
-  #content {
-    border: 0;
-    border-radius: 0;
-  }
-}
-
-/* layout on large screens supporting media queries. total width with sidebar is
- * 91ch but media queries use the browsers default font and size. thus 1ch here
- * may be narrower than 1ch in the font we use, so we use 110ch to be somewhat
- * safe */
-@media only screen and (min-width: 110ch) {
-  body {
-    margin-left: 0;
-    margin-right: auto;
-    max-width: var(--max-width-with-sidebar);
-  }
-  header {
-    margin-bottom: 0.5em;
-  }
-  #hamburger {
-    display: none;
-  }
-  header img {
-    border-radius: var(--border-radius);
-  }
-  #main {
-    position: initial;
-    display: flex;
-  }
-  #show-menu:checked~#hide-menu {
-    display: none;
-  }
-  #menu {
-    display: initial;
-    position: initial;
-    background: initial;
-    width: fit-content;
-    margin-right: var(--sidebar-margin-right);
-    white-space: nowrap;
-    border: var(--border);
-    border-radius: var(--border-radius);
-  }
-  #content {
-    margin-left: auto;
-    max-width: var(--max-content-width);
-    border: var(--border);
-    border-radius: var(--border-radius);
-  }
 }
 
 
@@ -277,69 +304,67 @@ img.feed_icon {
 }
 
 
-/* COLORS */
+/* ON LARGE SCREENS */
 
-* {
-  color: #203549;
-}
-svg {
-  fill: #203549;
-}
-a, nav a:visited {
-  color: #006Bff;
-}
-a:visited {
-  color: #75C;
-}
-
-
-/* FONTS */
-
-strong {
-  font-weight: 500;
-}
-#menu nav, header h1 {
-  font-size: 1.2em;
-}
-.post_dates {
-  font-size: small;
-}
-footer p {
-  font-size: small;
-}
-h1 {
-  font-size: large;
-  font-weight: 400;
-}
-h2 {
-  font-size: large;
-  font-weight: 500;
-}
-h3 {
-  font-size: medium;
-  font-weight: 600;
-}
-h4 {
-  font-size: medium;
-  font-weight: 500;
-  font-style: italic;
-}
-h5 {
-  font-size: smaller;
-  font-weight: 500;
-}
-h6 {
-  font-size: smaller;
-  font-weight: 400;
-  font-style: italic;
+/* layout on large screens supporting media queries. total width with sidebar is
+ * 91ch but media queries use the browsers default font and size. thus 1ch here
+ * may be narrower than 1ch in the font we use, so we use 110ch to be somewhat
+ * safe */
+@media only screen and (min-width: 110ch) {
+  body {
+    max-width: var(--max-width-with-sidebar);
+  }
+  header {
+    margin-bottom: 0.5em;
+  }
+  #hamburger {
+    display: none;
+  }
+  header>img, header>div {
+    border: unset;
+    border-bottom-left-radius: var(--border-radius);
+    border-bottom-right-radius: var(--border-radius);
+  }
+  #main {
+    position: initial;
+    display: flex;
+  }
+  #show-menu:checked~#hide-menu {
+    display: none;
+  }
+  #menu {
+    display: initial;
+    position: initial;
+    background: white;
+    width: fit-content;
+    margin-right: var(--sidebar-margin-right);
+    white-space: nowrap;
+    border: var(--border);
+    border-radius: var(--border-radius);
+  }
+  #content {
+    margin-left: auto;
+    max-width: var(--max-content-width);
+    border: var(--border);
+    border-radius: var(--border-radius);
+  }
 }
 
 
-/* STYLING */
+/* ON PRINT */
 
-a {
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
+@media only print {
+  #menu, nav.submenu, #hamburger, header>img, footer {
+    display: none;
+  }
+  #show-menu:checked~#menu, #show-menu:checked~#hide-menu {
+    display: none;
+  }
+  header, header>div, header>div>h1 {
+    all: unset;
+  }
+  #content {
+    border: 0;
+    border-radius: 0;
+  }
 }
