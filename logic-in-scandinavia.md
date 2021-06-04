@@ -132,12 +132,12 @@ seminar series entitled
 [Initial Types Club](https://github.com/InitialTypes/Club/wiki).
 
 The
-[logic group at the Department of Philosophy, Linguistics and Theory of Science](https://flov.gu.se/english/research/research-areas/logic)
+[logic group at the Department of Philosophy, Linguistics and Theory of Science](https://www.logic-gu.se/)
 focuses on solving philosophically motivated
 questions using tools from mathematical and computational logic in, for
 example, the areas of formal theories of truth, metamathematics of foundational
 systems, modal logic and dependence logic. The
-[research seminar](https://flov.gu.se/english/research/research-areas/logic/the-logic-seminar)
+[research seminar](https://www.logic-gu.se/seminars)
 meets biweekly.
 
 #### Stockholm
