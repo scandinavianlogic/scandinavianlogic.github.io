@@ -16,6 +16,11 @@ membership.
   <https://aconghaile.github.io>  
   Descriptive complexity, finite model theory, category theory
 
+- Adam Trybus  
+  Institute of Philosophy, Zielona Gora, Poland  
+  <http://logic.ifil.uz.zgora.pl/atrybus>  
+  history of logic, logic in AI, philosophy of geometry, spatial logics
+
 - Aleksandra Samonek  
   Université catholique de Louvain  
   <https://asamonek.github.io>
@@ -24,6 +29,11 @@ membership.
   University of Bristol  
   <http://noldorin.com/>  
   philosophy of logic, philosophy of mathematics, constructive mathematics, proof theory, type theory, foundations of computer science
+
+- Alexei Muravitsky  
+  Northwestern State University, US  
+  <http://nsula.academia.edu/AlexeiMuravitsky>  
+  Non-classical logics, algebraic methods in logic, monotonic and nonmonotonic consequence relations, philosophy of mathematics
 
 - Ali Enayat  
   University of Gothenburg (emeritus professor)  
@@ -155,6 +165,11 @@ membership.
   <http://www.sdu.dk/ansat/cmgrund>  
   Formal logic in general, philosophical logic, theory of argumentation
 
+- Cyrus F Nourani  
+  TU Berlin and the University of California  
+  <https://www.linkedin.com/in/cyrus-f-nourani-b7389419>  
+  Mathematical Logic, Model Theory, Categories, Types, Computability
+
 - Dag Normann  
   University of Oslo, Department of Mathematics  
   <https://www.mn.uio.no/math/english/people/aca/dnormann/index.html>  
@@ -244,6 +259,10 @@ membership.
   Universitet i Bergen  
   <https://hakon.gylterud.net/>  
   type theory, category theory, formalisation of mathematics, computer science
+
+- Hana Kalpak  
+  Stockholm University  
+  <https://hmkalpak.github.io>
 
 - Hans Götzsche  
   Aalborg University  
@@ -394,6 +413,9 @@ membership.
 
 - Mattias Granberg Olsson  
   Göteborgs universitet
+
+- Mauricio Martel  
+  University of Gothenburg
 
 - Michael Reichhardt Hansen  
   Technical University of Denmark
@@ -560,6 +582,10 @@ membership.
   <https://sites.google.com/view/saranegri>  
   proof theory, modal logic, non-classical logics
 
+- Sayantan Roy  
+  Indraprastha Institute of Information Technology, Delhi  
+  Universal logic, category theory, set theory, type theory
+
 - Semiha Akıncı  
   Anadolu University  
   Logic, philosopy of language, philosophy of science
@@ -567,6 +593,10 @@ membership.
 - Stefán Jökulsson  
   Archives Henri Poincaré  
   Logic, Philosophy of logic, Philosophy of language, History of analytical philosophy
+
+- Stenly Djatah  
+  General Achmad Yani University, Cimahi WEST JAVA - INDONESIA  
+  Medieval Logic, Modal Logic
 
 - Sumanta Sarathi Sharma  
   Shri Mata Vaishno Devi University Katra, India  
@@ -591,6 +621,11 @@ membership.
   Technical University of Denmark  
   <http://www2.compute.dtu.dk/~tobo/>  
   epistemic logic, automated planning, hybrid logic, dynamic epistemic logic, self-reference, social intelligence, logic-based AI, combinations of symbolic and subsymbolic AI, human-robot interaction
+
+- Timotheus Kampik  
+  Umeå University  
+  <https://people.cs.umu.se/tkampik>  
+  non-monotonic reasoning, formal argumentation
 
 - Torben Braüner  
   Roskilde University  
