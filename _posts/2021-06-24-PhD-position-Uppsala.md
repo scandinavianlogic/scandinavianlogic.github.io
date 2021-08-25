@@ -28,6 +28,8 @@ science, philosophy or some other relevant subject by the time of the start
 date. An ideal candidate should have a strong background in mathematical logic,
 and a keen interest in interdisciplinary research and computer programming.
 
-The closing date for applying is 15 October 2021.
+The closing date for applying is 15 October 2021. Apply by following this link:
+
+<https://www.math.uu.se/the-department/vacant-positions/?positionId=423558>
 
 For more information contact Vera Koponen (<vera.koponen@math.uu.se>).
