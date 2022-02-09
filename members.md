@@ -215,8 +215,8 @@ membership.
   <https://sites.google.com/site/fanyanghp/>
 
 - Farshad Badie  
-  Aalborg University  
-  <https://farshad-badie.com>  
+  Berlin School of Business and Innovation  
+  <https://sites.google.com/view/farshad-badie>  
   Description Logics, Philosophical Logic, Symbolic AI & Knowledge Representation, Philosophy of Cognition
 
 - Ferenc Csatári
