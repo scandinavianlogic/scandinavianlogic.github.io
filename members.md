@@ -21,6 +21,9 @@ membership.
   <http://logic.ifil.uz.zgora.pl/atrybus>  
   history of logic, logic in AI, philosophy of geometry, spatial logics
 
+- Adrien Ragot  
+  proof theory
+
 - Aleksandra Samonek  
   Université catholique de Louvain  
   <https://asamonek.github.io>
@@ -44,6 +47,10 @@ membership.
   Norwegian University of Life Sceinces  
   <https://www.nmbu.no/emp/amirhosein.mosavi>  
   Machine Learning
+
+- Anders Hellström  
+  <https://linktr.ee/andersh3>  
+  Kinematics, AI
 
 - Anders Lundstedt  
   <https://anderslundstedt.com>
