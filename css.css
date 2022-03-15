@@ -43,7 +43,7 @@ header>div {
 #menu {
   background: var(--pantone-653c-tint-30);
 }
-a, nav a:visited {
+a, nav a:visited, #feed_link {
   color: #06f;
 }
 a:visited {
@@ -261,6 +261,17 @@ nav.submenu a {
 }
 #content li {
   position: relative;
+}
+#feed_header {
+  display: table;
+  width: 100%;
+}
+#feed_header h2 {
+  display: table-cell;
+}
+#feed_header span {
+  display: table-cell;
+  text-align: right;
 }
 table.posts_list {
   border-spacing: 0;

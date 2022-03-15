@@ -1,9 +1,4 @@
-<h2>
-  {{ include.text }}
-  <a href="{{ include.url }}">
-    <img
-      alt="feed" src="/assets/img/feed_icon.svg" class="feed_icon"
-      width="12" height="12"
-    >
-  </a>
-</h2>
+<div id="feed_header">
+  <h2>{{ include.text }}</h2>
+  <span><a id="feed_link" href="{{ include.url }}">feed</a></span>
+</div>

@@ -9,4 +9,3 @@
 {{ "TODO: stable sort in news lists" | log_warning }}
 {{ "TODO: validate published page" | log_warning }}
 {{ "TODO: logic in finland" | log_warning }}
-{{ "TODO: replace RSS-logo with right-flushed text ‘feed’" | log_warning }}
