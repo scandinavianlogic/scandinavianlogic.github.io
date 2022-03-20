@@ -1,6 +1,20 @@
 ---
 layout: default
 ---
+
+## Statement on the war in Ukraine
+
+On behalf of the Scandinavian Logic Society, its Executive Committee joins the
+international community in condemning the military invasion of Russia in
+Ukraine, resulting in massive loss of human lives and destruction of residential
+buildings and civil infrastructure. No national or geopolitical cause can
+justify such barbaric aggression, leading to enormous humanitarian crisis, of a
+scale unseen in Europe since World War II. We declare our strong support for the
+fight of the Ukrainian people to protect their country, and for the Russian
+citizens and communities who have the courage to raise their voice of protest
+against the uncivilized and perilous actions of the Russian government. We
+appeal for immediate termination of the aggression.
+
 {% include feed_header.liquid text="Latest news" url="/feed.xml" %}
 
 {% include list_news.liquid limit=5 %}
