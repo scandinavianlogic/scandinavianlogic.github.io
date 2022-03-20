@@ -2,6 +2,12 @@
 layout: default
 ---
 
+## SLSS 2022: extended deadline
+
+Extended deadline for abstract submission to the Eleventh Scandinavian Logic
+Symposium (SLSS 2022): Friday Apr 1, 2022. More info in separate
+[news post]({% post_url 2022-03-20-SLSS-2022-third-call-for-abstracts %}).
+
 ## Statement on the war in Ukraine
 
 On behalf of the Scandinavian Logic Society, its Executive Committee joins the
