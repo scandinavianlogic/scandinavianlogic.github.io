@@ -55,10 +55,10 @@ a:visited {
 
 * {
   font-family: Arial, sans-serif;
-  font-weight: 400;
+  font-weight: normal;
 }
 strong {
-  font-weight: 500;
+  font-weight: bold;
 }
 #menu nav, header>div>h1 {
   font-size: 1.2em;
@@ -71,15 +71,15 @@ footer p {
 }
 h1 {
   font-size: large;
-  font-weight: 400;
+  font-weight: normal;
 }
 h2 {
   font-size: large;
-  font-weight: 600;
+  font-weight: bold;
 }
 h3 {
   font-size: medium;
-  font-weight: 600;
+  font-weight: bold;
 }
 h4 {
   font-size: medium;
@@ -87,11 +87,11 @@ h4 {
 }
 h5 {
   font-size: small;
-  font-weight: 600;
+  font-weight: bold;
 }
 h6 {
   font-size: x-small;
-  font-weight: 600;
+  font-weight: bold;
 }
 
 
