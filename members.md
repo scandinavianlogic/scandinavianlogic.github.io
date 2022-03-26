@@ -394,10 +394,20 @@ membership.
   <https://www.itu.dk/people/maca>  
   Programming Languages, Types, Linear Logic
 
+- Maria Emilia Maietti  
+  University of Padova  
+  <https://www.math.unipd.it/~maietti>  
+  type theory, categorical logic and constructive mathematics
+
 - Mario Piazza  
   Scuola Normale Superiore di Pisa  
   <https://sites.google.com/site/piazzalogic/>  
   proof-theory; computation theory; philosophy of mathematics
+
+- Mark Addis  
+  Open University and London School of Economics and Political Science  
+  <https://www.open.ac.uk/people/mra267>  
+  Epistemology, Philosophy of Mathematics, Philosophy of Science
 
 - Martin Filin Karlsson  
   Philosophy of logic, formal semantics, quantification
