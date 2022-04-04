@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "30 years of Finite Model Theory in Finland"
+title: "30 Years of Finite Model Theory in Finland"
 start_date: "2022-08-21"
 end_date: "2022-08-23"
 category: events
