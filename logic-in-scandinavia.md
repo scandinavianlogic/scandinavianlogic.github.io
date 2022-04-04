@@ -46,6 +46,78 @@ Computation (CADILLAC): <http://cadillac-dk.weebly.com>.
 
 ### Finland
 
+#### Espoo
+
+[The Computational Logic Group](https://www.aalto.fi/en/department-of-computer-science/computational-logic)
+at the Department of Computer Science at Aalto University is focused on
+developing automated reasoning techniques for solving computational problems in
+engineering and science. Their past research has been in the verification and
+testing of automation systems and software and in the use of formal methods to
+analyze distributed systems. Currently, the research group is researching
+efficient computational methods to solve large constraint satisfaction problems.
+
+At the same department, the
+[Distributed Algorithms](https://research.cs.aalto.fi/da/)
+group conducts research on the foundations of distributed computing. Their focus
+is on the locality of computational tasks in large computer networks:
+determining which tasks are global, requiring information from the other side of
+the network, and which ones are local, only requiring information from a local
+neighborhood. Mathematical logic has been applied in the group’s research on
+distributed systems.
+
+#### Helsinki
+
+[The Helsinki Logic Group](https://wiki.helsinki.fi/display/Logic/Home)
+at the Department of Mathematics and Statistics at the University of Helsinki is
+conducting research on model theory, set theory, finite model theory, as well as
+logic and analysis. Their work in logic concerns infinitary logic (especially
+transfinite Ehrenfeucht-Fraïssé games), second order logic, history of logic and
+most recently dependence logic. There is a weekly
+[Logic Seminar](https://wiki.helsinki.fi/display/Logic/Seminar)
+held on Wednesdays at 12-14.
+
+In the
+[Philosophy](https://www2.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy)
+group at the Faculty of Arts,
+[Sara Negri](https://www2.helsinki.fi/en/people/people-finder/sara-negri-9032085)
+has conducted research on philosophical
+logic.
+
+Also of interest to logicians is the
+[Gödel Enigma](https://www2.helsinki.fi/en/researchgroups/godel-enigma),
+a research project to study unpublished materials of Kurt Gödel and make them
+available to future logicians and philosophers.
+
+#### Lappeenranta
+
+At the School of Engineering Science at LUT University, the
+[Fuzzy logic and soft computing](https://www.lut.fi/web/en/school-of-engineering-science/research/research-groups/fuzzy-logic-and-soft-computing)
+group studies computational methods used in data analysis with the goal of
+creating new methods and tools based on fuzzy set theory. The methods studied
+concern classification, feature selection and extraction, as well as fuzzy
+principal component analysis. Other research areas include fuzzy linear systems,
+fuzzy differential equations and fuzzy multiperson multicriteria decision making
+problems.
+
+#### Tampere
+
+The
+[Tampere Logic Group](https://research.tuni.fi/logic/)
+at Tampere University conducts research in finite model theory and logic in
+computer science, different variants of modal logic, team semantics and
+dependence logics, as well as many-valued logics. The group is currently engaged
+in research projects involving digital forensics and the automation of
+mathematical reasoning. The group also runs a a biweekly seminar of logic and
+discrete mathematics.
+
+#### Turku
+
+While the University of Turku does not have any research groups focusing on
+logic, professor
+[Vesa Halava](https://www.utu.fi/en/people/vesa-halava)
+has done research on logic concerning the foundations of mathematics.
+
+
 ### Iceland
 
 Logic in Iceland is mainly represented by the Icelandic Center of Excellence in
