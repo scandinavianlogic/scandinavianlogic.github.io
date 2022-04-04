@@ -401,8 +401,7 @@ membership.
 
 - Mario Piazza  
   Scuola Normale Superiore di Pisa  
-  <https://sites.google.com/site/piazzalogic/>  
-  proof-theory; computation theory; philosophy of mathematics
+  <https://sites.google.com/sns.it/mariopiazza>
 
 - Mark Addis  
   Open University and London School of Economics and Political Science  
