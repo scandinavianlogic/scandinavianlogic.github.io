@@ -39,7 +39,7 @@ generalised semantics, including topological ones such as neighbourhood
 semantics.
 
 ### Research Lindström Lecture
-Sara Negri (University of Genoa): *On modal embeddings*
+Sara Negri (University of Genoa): *On modal embeddings*  
 Wednesday, 22 June 2022 at 10:00 to 12:00 (CEST)  
 
 Motivated by the difficulty in proving faithfulness of various modal embeddings
