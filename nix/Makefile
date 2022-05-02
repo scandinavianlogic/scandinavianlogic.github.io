@@ -23,4 +23,4 @@ test: build
 	htmlproofer --check-html --check-img-http --check-opengraph --check-sri ./_site
 
 .direnv/bin/github-pages:
-	./make_bundle_install
+	bundle install

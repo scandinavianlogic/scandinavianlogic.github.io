@@ -9,4 +9,3 @@ cd ..
 ln -s nix/envrc .envrc
 ln -s nix/shell.nix .
 ln -s nix/Makefile .
-ln -s nix/make_bundle_install .

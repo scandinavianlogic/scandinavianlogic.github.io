@@ -8,4 +8,3 @@
 /.envrc
 /shell.nix
 /Makefile
-/make_bundle_install
