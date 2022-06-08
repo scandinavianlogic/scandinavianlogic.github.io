@@ -254,12 +254,12 @@ nav.submenu a {
   padding: 0;
   margin-left: 2.5ch;
 }
-#content li:before {
+#content ul>li:before {
   content: "–";
   position: absolute;
   left: -2.5ch;
 }
-#content li {
+#content ul>li {
   position: relative;
 }
 #feed_header {
