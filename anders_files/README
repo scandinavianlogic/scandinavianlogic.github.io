@@ -1,4 +1,13 @@
-Files for running a local development environment using nix-shell and direnv.
-See:
+Files used by Anders Lundstedt for development and maintenance. Might be of help
+to a future developer or maintainer.
 
-https://discourse.nixos.org/t/shell-nix-for-github-pages-development/2000
+- envrc and shell.nix: For running a local development environment using
+  nix-shell and direnv. See:
+
+    https://discourse.nixos.org/t/shell-nix-for-github-pages-development/2000
+
+- Makefile: Anders' Makefile for this project
+
+- exclude: My ../.git/info/exclude file
+
+- make_symlinks.sh: bash script creating symlinks to the above files
