@@ -9,3 +9,4 @@ cd ..
 ln -sf anders_files/envrc .envrc
 ln -sf anders_files/shell.nix .
 ln -sf anders_files/Makefile .
+ln -sf anders_files/vim .vim
