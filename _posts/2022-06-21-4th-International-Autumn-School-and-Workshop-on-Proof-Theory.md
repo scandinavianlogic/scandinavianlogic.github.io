@@ -5,21 +5,6 @@ start_date: "2022-11-07"
 end_date: "2022-11-12"
 category: events
 ---
-
-### Short description
-
-The 4th International Autumn School on Proof Theory in Utrecht is arranged under
-the auspices of The Proof Society and organised by the universities of Amsterdam
-and Utrecht. The Proof Society has recently been formed to support the notion of
-proof in its broadest sense, through a series of suitable activities; to be
-therefore inclusive in reaching out to all scientific areas which consider proof
-as an object in their studies; to enable the community to shape its future by
-identifying, formulating and communicating its most important goals; to actively
-promote proof to increase its visibility and representation.
-
-
-### Long description
-
 The 4th International Autumn School on Proof Theory in Utrecht is arranged under
 the auspices of The Proof Society and organised by the universities of Amsterdam
 and Utrecht. The Proof Society has recently been formed to support the notion of
@@ -43,7 +28,7 @@ These can be on published or unpublished work, as well as work in progress. The
 best talk presented by a student will receive an award from The Proof Society.
 
 
-#### IMPORTANT DATES
+### IMPORTANT DATES
 
 - 7 August: Deadline for ASL student awards
 - 5 September: Deadline for submission of contributed workshop talks
@@ -54,7 +39,7 @@ best talk presented by a student will receive an award from The Proof Society.
 - 11–12 November: Workshop
 
 
-#### Scientific Programme
+### Scientific Programme
 
 The Autumn school will provide five courses:
 
@@ -65,7 +50,7 @@ The Autumn school will provide five courses:
 - Proof Theory of Set Theory by Michael Rathjen (University of Leeds)
 
 
-#### Workshop Speakers
+### Workshop Speakers
 
 - Benno van den Berg (University of Amsterdam)
 - Marta Bílková (Czech Academy of Sciences)
@@ -74,7 +59,7 @@ The Autumn school will provide five courses:
 - Hajime Ishihara (Japan Advanced Institute of Science and Technology)
 - Gerhard Jäger (University of Bern)
 
-#### Registration
+### Registration
 
 - Standard: 300 (includes conference dinner)
 - PhD students: 200 (includes conference dinner)
@@ -83,14 +68,14 @@ The Autumn school will provide five courses:
 More information about registration will be available from the website soon.
 
 
-#### ASL Student travel award
+### ASL Student travel award
 
 Student ASL members may apply for (limited) ASL travel to attend 2022 TPS events
 by submitting an application three months prior to the meeting. To apply, please
 visit the link below and follow the instructions  
 <https://aslonline.org/student-travel-awards/>
 
-#### Programme Committee
+### Programme Committee
 
 - Bahareh Afshari, University of Amsterdam & University of Gothenburg (chair)
 - Matthias Baaz, TU Wien
@@ -103,7 +88,7 @@ visit the link below and follow the instructions
 - Norbert Preining, Mercari Inc.
 - Andreas Weiermann, University of Ghent
 
-#### Local organising committee
+### Local organising committee
 
 - Bahareh Afshari, University of Amsterdam (co-chair)
 - Raheleh Jalali, Utrecht Universit
@@ -111,7 +96,7 @@ visit the link below and follow the instructions
 - Robin Martinot, Utrecht University
 - Robert Passman, University of Amsterdam
 
-#### Sponsors
+### Sponsors
 
 - Association for Symbolic Logic
 - Department of Philosophy, Utrecht University
