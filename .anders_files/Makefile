@@ -7,6 +7,7 @@ update: install
 
 clean:
 	rm -rf .direnv
+	rm -rf .bundle
 	rm -rf _site
 	rm -f Gemfile.lock
 

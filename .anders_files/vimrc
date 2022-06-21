@@ -1,13 +1,13 @@
 " sourced every time buffer in this workspace is entered
 " thus make sure sourcing this is idempotent
 
-" the default ignored file types contains Markdown, among others
+" COC.NVIM STUFF
 
+" the default ignored file types contains Markdown, among others
 call coc#config('workspace.ignoredFiletypes', [])
 
 
 " add '**/Gemfile', '**/Gemfile.lock', '**/_site/**' to excludePatterns
-
 let s:extra_excludes = ['**/Gemfile', '**/Gemfile.lock', '**/_site/**']
 let s:excludes = coc#util#get_config('list.source.files')['excludePatterns']
 call uniq(sort(extend(s:excludes, s:extra_excludes)))
