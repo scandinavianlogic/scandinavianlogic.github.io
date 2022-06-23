@@ -15,7 +15,6 @@ setlocal fen
 silent! normal! zE
 1,19fold
 1,19fold
-24,51fold
 22,51fold
 54,96fold
 99,106fold
@@ -24,10 +23,11 @@ silent! normal! zE
 325,369fold
 372,388fold
 let &fdl = &fdl
+1
+normal! zo
 54
 normal! zo
 let &g:so = s:so_save | let &g:siso = s:siso_save
 set hlsearch
-nohlsearch
 doautoall SessionLoadPost
 " vim: set ft=vim :

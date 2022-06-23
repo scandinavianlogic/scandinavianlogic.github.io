@@ -12,10 +12,10 @@ clean:
 	rm -f Gemfile.lock
 
 build: install
-	jekyll build
+	jekyll build --config _config.yml,.anders_files/_config.yml
 
 serve: install
-	jekyll serve --watch
+	jekyll serve --config _config.yml,.anders_files/_config.yml --watch
 
 serve-all: install
 	jekyll serve --watch --host 0.0.0.0
