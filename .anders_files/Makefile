@@ -23,5 +23,8 @@ serve-all: install
 test: build
 	htmlproofer --check-html --check-img-http --check-opengraph --check-sri ./_site
 
+doctor: build
+	jekyll doctor --config _config.yml,.anders_files/_config.yml,.anders_files/_doctor_config.yml
+
 .direnv/bin/github-pages:
 	bundle install
