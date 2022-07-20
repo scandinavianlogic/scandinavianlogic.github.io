@@ -86,6 +86,10 @@ membership.
   Czech Academy of Sciences  
   <https://sites.google.com/site/anstenklev>
 
+- Antonis Achilleos  
+  Reykjavik University  
+  <https://sites.google.com/view/antonisachilleos>
+
 - Anton Setzer  
   Swansea University, Dept. of Computer Science  
   <http://www.cs.swan.ac.uk/~csetzer/>  
@@ -227,6 +231,13 @@ membership.
   Description Logics, Philosophical Logic, Symbolic AI & Knowledge Representation, Philosophy of Cognition
 
 - Ferenc Csatári
+
+- Fernando R. Velázquez-Quesada  
+  Universitetet i Bergen  
+  <https://www.uib.no/en/persons/Fernando.Raymundo.Velazquez.Quesada>  
+  modal logic, epistemic/doxastic logic, dynamic epistemic logic, logics for
+  multi-agent systems, belief revision, formal epistemology, logics for
+  preferences
 
 - Fredrik Engström  
   University of Gothenburg  
@@ -700,6 +711,12 @@ membership.
   Sun Yat-sen University  
   <http://xixilogic.org/ynw/index.html>  
   Logics for AI, Philosophical Logic
+
+- Yong Cheng  
+  School of Philosophy, Wuhan University, China  
+  <http://yongcheng.whu.edu.cn>  
+  Logic and Foundations of Mathematics, proof theory, philosophy of mathematics
+  and logic
 
 - Yoshihiro Maruyama  
   Australian National University  
