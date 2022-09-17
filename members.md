@@ -110,6 +110,10 @@ membership.
   <https://www.mv.helsinki.fi/home/asaekman/>  
   mathematical logic, model theory, quantum information
 
+- Asta Halkjær From  
+  Technical University of Denmark  
+  <https://people.compute.dtu.dk/ahfrom/>
+
 - B. Göran Sundholm  
   Leiden University, Institute for Philosophy  
   <https://www.researchgate.net/profile/Goeran-Sundholm>  
