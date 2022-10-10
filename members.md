@@ -470,6 +470,10 @@ membership.
   <https://tu-dresden.de/ing/informatik/sya/se/die-professur/beschaeftigte/muhammad-usama-sardar>  
   Formal verification, formal methods for security analysis, hardware security, temporal logic, (probabilistic) model checking
 
+- Murat Kelikli  
+  Department Of Philosophy, Afyon Kocatepe University  
+  Mathematical Logic, Aristotle Logic, Set Theory
+
 - Mustafa Hashmi  
   La Trobe University  
   Knowledge representation, model logic, higher order logics, proof theory
