@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Symposium in honor of the 2020 Rolf Schock prize recipients Dag Pratwiz
+title: "Symposium in honor of the 2020 Rolf Schock prize recipients Dag Prawitz
 and Per Martin-Löf"
 start_date: "2022-10-26"
 end_date: "2022-10-26"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Symposium in honor of the 2022 Rolf Schock prize recipient Dag Kaplan"
+title: "Symposium in honor of the 2022 Rolf Schock prize recipient David Kaplan"
 start_date: "2022-10-25"
 end_date: "2022-10-25"
 category: events
