@@ -11,3 +11,4 @@ feed:
   categories:
     - events
     - positions
+future: true
