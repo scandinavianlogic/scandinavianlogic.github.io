@@ -451,6 +451,12 @@ membership.
 - Michael Reichhardt Hansen  
   Technical University of Denmark
 
+- Michal Walicki  
+  University of Bergen  
+  <https://www.ii.uib.no/~michal/>  
+  Circularity, paradoxes of self-reference and substitution, semantic closure,
+  paraconsistency
+
 - Miika Hannula  
   University of Helsinki  
   <https://sites.google.com/view/miika-hannula>  
