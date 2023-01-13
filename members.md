@@ -208,6 +208,10 @@ membership.
   <https://uni-sofia.academia.edu/DenitsaZhelyazkova>  
   Contemporary philosophy
 
+- Deniz Sarikaya  
+  University of Copenhagen, Technical University of Denmark - DTU, and CLPS - Vrije Universiteit Brussels  
+  <https://www.denizsarikaya.de>
+
 - Douglas Sutherland Bridges  
   University of Canterbury  
   <https://www.dsbridges.com>  
