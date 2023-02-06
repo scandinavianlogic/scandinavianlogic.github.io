@@ -7,6 +7,5 @@
 /.vim
 /.direnv
 /.envrc
-/.bundle
 /shell.nix
 /Makefile

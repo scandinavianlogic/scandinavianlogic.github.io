@@ -1,1 +1,4 @@
-exclude: ["Makefile", "css.css.view", "shell.nix"]
+exclude:
+  - "Makefile"
+  - "shell.nix"
+  - "css.css.view"

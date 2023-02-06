@@ -1,21 +1,12 @@
-with import <nixpkgs> {};
-
+with import <unstable> {};
+let
+  github-pages-env = ruby_2_7.withPackages (ps : [ps.github-pages]);
+in
 stdenv.mkDerivation {
   name = "env";
 
-  # solution from
-  # https://stackoverflow.com/questions/37933375/how-to-build-a-ruby-gem-using-nix-that-has-native-extensions
-  shellHook = lib.optional stdenv.isDarwin ''
-    export XML2_LIB=${lib.makeLibraryPath [ libxml2 ]}
-    bundle config build.nokogiri --use-system-libraries --with-xml2-lib=$XML2_LIB
-  '';
-
   buildInputs = [
-    libxslt
-    ruby
-    pkgconfig
-    libxml2
-    bundler
     html-proofer
+    github-pages-env
   ];
 }

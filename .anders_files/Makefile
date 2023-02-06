@@ -1,13 +1,13 @@
-.PHONY: install update clean build serve serve-all
+.PHONY: install clean build serve serve-all test doctor
 
-install: .direnv/bin/github-pages
+.direnv:
+	direnv allow
+	direnv reload
 
-update: install
-	bundle update
+install: .direnv
 
 clean:
 	rm -rf .direnv
-	rm -rf .bundle
 	rm -rf _site
 	rm -f Gemfile.lock
 
@@ -18,13 +18,10 @@ serve: install
 	jekyll serve --config _config.yml,.anders_files/_config.yml --watch
 
 serve-all: install
-	jekyll serve --watch --host 0.0.0.0
+	jekyll serve --config _config.yml,.anders_files/_config.yml --watch --host 0.0.0.0
 
 test: build
 	htmlproofer --check-html --check-img-http --check-opengraph --check-sri ./_site
 
 doctor: build
-	jekyll doctor --config _config.yml,.anders_files/_config.yml,.anders_files/_doctor_config.yml
-
-.direnv/bin/github-pages:
-	bundle install
+	jekyll doctor --config _config.yml,.anders_files/_config.yml,_doctor_config.yml
