@@ -439,6 +439,9 @@ membership.
   <https://www.gu.se/en/about/find-staff/martinkasa>  
   philosophical logic, philosophy of logic, philosophy of language, argumentation theory
 
+- Martina Menconi  
+  <https://www.linkedin.com/in/martina-menconi-136816235/>
+
 - Mathias Barra  
   Akershus universitetssykehus HF, Universitetet i Bergen
 
