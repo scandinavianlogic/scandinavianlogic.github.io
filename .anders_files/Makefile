@@ -1,8 +1,14 @@
+SHELL := bash
+.ONESHELL:
+.SHELLFLAGS := -eu -o pipefail -O globstar -c
+.DELETE_ON_ERROR:
+MAKEFLAGS += --warn-undefined-variables
+MAKEFLAGS += --no-builtin-rules
+
 .PHONY: install clean build serve serve-all test doctor
 
 .direnv:
-	direnv allow
-	direnv reload
+	direnv exec . true || echo 'execute ‘direnv allow’ first (to unblock .envrc)!'
 
 install: .direnv
 
