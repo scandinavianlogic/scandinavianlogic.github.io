@@ -12,3 +12,5 @@ feed:
     - events
     - positions
 future: true
+exclude:
+  - "TODO.md"
