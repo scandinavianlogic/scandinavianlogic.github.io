@@ -5,17 +5,19 @@ SHELL := bash
 MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
 
-.PHONY: install clean build serve serve-all test doctor
+.PHONY: clean update-flake build serve serve-all test doctor
 
 .direnv:
-	direnv exec . true || echo 'execute ‘direnv allow’ first (to unblock .envrc)!'
+	direnv exec . true
 
 install: .direnv
 
 clean:
 	rm -rf .direnv
 	rm -rf _site
-	rm -f Gemfile.lock
+
+update-flake:
+	nix flake update .anders_files
 
 build: install
 	jekyll build --config _config.yml,.anders_files/_config.yml

@@ -1,8 +1,8 @@
 Files used by Anders Lundstedt for development and maintenance. Might be of help
 to a future developer or maintainer.
 
-- envrc and shell.nix: For running a local development environment using
-  nix-shell and direnv.
+- envrc and flake.nix: For running a local development environment using
+  nix flakes and direnv.
 
 - css.css.view: my custom vim folds for the css.css file
 
@@ -12,7 +12,5 @@ to a future developer or maintainer.
 - exclude: My ../.git/info/exclude file
 
 - Makefile: Anders' Makefile for this project
-
-- vimrc: some additional vim magic I use
 
 - make_symlinks.sh: bash script creating symlinks to the above files

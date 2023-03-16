@@ -1,4 +1,1 @@
 /_site
-# we should not check in the Gemfile.lock file since we always want the latest
-# version of github-pages
-/Gemfile.lock

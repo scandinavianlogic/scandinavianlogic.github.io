@@ -1,2 +1,1 @@
-use nix
-layout ruby
+use flake ./.anders_files
