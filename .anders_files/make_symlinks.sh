@@ -7,4 +7,3 @@ cd ..
 cd ..
 ln -sf .anders_files/envrc .envrc
 ln -sf .anders_files/Makefile .
-ln -sf .anders_files/css.css.view .
