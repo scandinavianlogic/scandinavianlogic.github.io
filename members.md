@@ -537,6 +537,11 @@ membership.
 - Paul Gorbow  
   Logic: PA, ZF, NF, axiomatic theories of truth, non-standard models. Applications of logic to philosophy: Metaphysics, Language, Truth, Knowledge, Belief, Mind, Mathematics
 
+- Pepijn Demortier  
+  KU Leuven / LMU München  
+  <https://www.linkedin.com/in/pepijn-leonard-demortier-985a74216/>  
+  Game theory, Philosophy of (Animal) Mind, Modal logic, Ontological Arguments
+
 - Per Martin-Löf  
   Departments of Mathematics and Philosophy, Stockholm University  
   Proof Theory, Type Theory
