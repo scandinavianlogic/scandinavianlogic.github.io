@@ -5,6 +5,9 @@ start_date: "2023-08-07"
 end_date: "2023-08-11"
 category: [events]
 ---
+
+UPDATE 2023-04-17: Submission deadline extended to April 23.
+
 ESSLLI 2023 WORKSHOP on  
 First-order Modal and Temporal Logics: State of the art and perspectives (FOMTL
 2023)  
@@ -60,8 +63,9 @@ format, preferably prepared with LaTeX, and must be done via EasyChair:
 - Michael Zakharyaschev (Birkbeck College, University of London)
 
 ### Important dates
-- Deadline for submission of abstracts: April 16
-- Final decision and notification: May 16
+
+- Deadline for submission of abstracts: ~~April 16~~ April 23
+- Final decision and notification: ~~May 16~~ May 19
 - Deadline for registration at the workshop: June 30
 - Workshop: August 7-11
 
