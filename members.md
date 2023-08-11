@@ -748,6 +748,11 @@ membership.
   Australian National University  
   Algebraic and categorical logic
 
+- Xavier Parent  
+  TU Wien  
+  <http://xavierparent.co.uk>  
+  semantics of modal and deontic logics, and conditional logic
+
 - Zhaohui Luo
 
 - Zuzanna Gnatek  
