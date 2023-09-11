@@ -194,6 +194,11 @@ membership.
   Stockholm University  
   Proof theory, Philosophy of logic and mathematics
 
+- Dag Westerståhl  
+  Stockholm University, Tsinghua University  
+  generalized quantifiers, formal semantics, logical consequence, logical
+  constants
+
 - Daisuke Ikegami  
   Shibaura Institute of Technology  
   <http://www.sic.shibaura-it.ac.jp/~ikegami/>  
