@@ -6,6 +6,7 @@ defaults:
 permalink: /:year-:month-:day-:title:output_ext
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 title: "Scandinavian Logic Society" # for feeds
 feed:
   categories:
