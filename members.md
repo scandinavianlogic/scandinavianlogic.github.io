@@ -226,6 +226,10 @@ membership.
   Tampere University  
   Non classical logics
 
+- Esteban G. Echaniz Álvarez  
+  University of Valparaiso  
+  Modal Logic, Modalities, Possible Worlds and Mereology
+
 - Esteban Guerrero  
   Department of computing science, Umeå university, Sweden  
   <https://people.cs.umu.se/esteban/>  
