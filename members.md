@@ -86,6 +86,10 @@ membership.
   Czech Academy of Sciences  
   <https://sites.google.com/site/anstenklev>
 
+- Antonio Piccolomini d'Aragona  
+  University of Siena  
+  <https://sites.google.com/site/piccdarag>
+
 - Antonis Achilleos  
   Reykjavik University  
   <https://sites.google.com/view/antonisachilleos>
