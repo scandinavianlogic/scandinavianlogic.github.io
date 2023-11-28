@@ -275,6 +275,10 @@ membership.
   <https://www.hf.uio.no/ifikk/english/people/aca/philosophy/emeriti/fbjordal/index.html>  
   Grunnlagsproblem i matematikk, modallogikk,
 
+- Gaia Belardinelli  
+  <https://sites.google.com/view/gaiabelardinelli/home>  
+  Epistemic logic, attention, awareness, implicit reasoning
+
 - Gianluca Paolini  
   <https://sites.google.com/view/gianlucapaolini/home>
 
