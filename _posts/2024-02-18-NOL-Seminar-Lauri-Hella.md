@@ -1,13 +1,18 @@
 ---
 layout: post
 title: "NOL Seminar with Lauri Hella"
-start_date: "2024-02-26"
-end_date: "2024-02-26"
+start_date: "2024-03-04"
+end_date: "2024-03-04"
 speaker: "Lauri Hella"
 talk_title: "Game characterizations for the number of quantifiers"
 category: ["events", "nol-seminar"]
 redirect_from: /2024-02-16-NOL-Seminar-Lauri-Hella.html
 ---
+
+UPDATE 2024-02-26:
+This event has been postponed to 4 March 2024.
+
+
 [The Nordic Online Logic Seminar](/the-NOL-seminar.html)
 is organised monthly over Zoom, with expository talks on topics of interest for
 the broader logic community. The seminar is open for professional or aspiring
@@ -15,7 +20,7 @@ logicians and logic aficionados worldwide. If you wish to receive the Zoom ID
 and password for it, as well as further announcements, please subscribe here:  
 <https://listserv.gu.se/sympa/subscribe/nordiclogic>
 
-**Date**: Monday,  26 February 2024 at 16:00 CET (UTC+1) on Zoom  
+**Date**: Monday,  ~~26 February~~ 4 March 2024 at 16:00 CET (UTC+1) on Zoom  
 **Speaker:** Lauri Hella, Professor at the Faculty of Information Technology and
 Communication Sciences, Tampere University  
 **Title:** Game characterizations for the number of quantifiers  
