@@ -208,6 +208,8 @@ membership.
   <http://www.sic.shibaura-it.ac.jp/~ikegami/>  
   Set Theory
 
+- Daniel Lindegger
+
 - David A. Ross  
   University of Hawaii, USA  
   <http://math.hawaii.edu/~ross/>
