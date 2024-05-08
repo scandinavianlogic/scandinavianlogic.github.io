@@ -6,6 +6,8 @@ end_date: "2024-05-27"
 speaker: "Ana María Mora-Márquez"
 talk_title: "Medieval Aristotelian Logic is Scientific Method"
 category: ["events", "nol-seminar"]
+redirect_from: 2024-05-08-NOL-Seminar-Ana-María-Mora-Márquez.html
+
 ---
 
 [The Nordic Online Logic Seminar](/the-NOL-seminar.html)
