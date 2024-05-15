@@ -345,6 +345,11 @@ membership.
   Roskilde University  
   Logic for social networks, Logic and AI, Logic and Machine Learning
 
+- Jinhe Ye  
+  University of Oxford  
+  <https://sites.google.com/view/vincentye>  
+  Model theory, mathematical logic
+
 - Joao Marcos  
   Federal University of Rio Grande do Norte, Brazil  
   <http://sequiturquodlibet.googlepages.com>  
