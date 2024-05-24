@@ -208,6 +208,10 @@ membership.
   <http://www.sic.shibaura-it.ac.jp/~ikegami/>  
   Set Theory
 
+- Daniel Leivant  
+  Indiana University Bloomington  
+  Theoretical Computer Science, Foundations of Mathematics, Programming Languages
+
 - Daniel Lindegger
 
 - David A. Ross  
