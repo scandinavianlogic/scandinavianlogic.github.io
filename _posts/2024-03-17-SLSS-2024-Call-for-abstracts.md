@@ -6,6 +6,8 @@ end_date: "2024-06-16"
 category: [symposiums,events]
 ---
 
+<https://scool24.github.io/SLSS>
+
 The Nordic Logic Summer School (NLS) and Scandinavian Logic Symposium (SLSS) are
 respectively
 [the Summer School](/summer-school.html) and

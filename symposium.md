@@ -8,6 +8,11 @@ The Scandinavian Logic Symposium is a recurring conference organized by the
 society. The primary aim of the Symposium is to promote research in the field of
 logic (broadly conceived) carried out in research communities in Scandinavia.
 
+### Next symposium
+
+14–16 June 2024, Reykjavík, Iceland  
+<https://scool24.github.io/SLSS/>
+
 ### Past symposia
 
 - 1968: Åbo
