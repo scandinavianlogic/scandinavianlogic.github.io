@@ -373,6 +373,11 @@ membership.
   Former student at Uppsala and Stockholm University  
   Proof theory, metamathematics, verification, constructivism
 
+- Jonni Virtema  
+  University of Sheffield  
+  <http://www.virtema.fi>  
+  Logic in computer science, finite model theory, logic and complexity theory
+
 - Jørgen Fischer Nilsson  
   DTU Technical University of Denmark  
   <https://www.dtu.dk/english/service/phonebook/person?id=1845&cpid=109299&tab=3&qt=dtuprojectquery>  
