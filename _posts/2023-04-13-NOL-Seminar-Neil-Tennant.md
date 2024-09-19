@@ -4,7 +4,7 @@ title: "NOL Seminar with Neil Tennant"
 start_date: "2023-04-24"
 end_date: "2023-04-24"
 speaker: "Neil Tennant"
-talk_title: "It's All or Nothing—Explosion v. Implosion"
+talk_title: "It's All or Nothing: Explosion v. Implosion"
 category: ["events", "nol-seminar"]
 ---
 [The Nordic Online Logic Seminar](/the-NOL-seminar.html)
@@ -14,10 +14,10 @@ logicians and logic aficionados worldwide. If you wish to receive the Zoom ID
 and password for it, as well as further announcements, please subscribe here:  
 <https://listserv.gu.se/sympa/subscribe/nordiclogic>
 
-**Date**: Monday, 24 April 2023 at 16:00 CEST (UTC+2), over Zoom  
-**Speaker:**  Neil Tennant, Distinguished Professor in Philosophy, College of
+**Date** Monday, 24 April 2023 at 16:00 CEST (UTC+2), over Zoom  
+**Speaker**  Neil Tennant, Distinguished Professor in Philosophy, College of
 Arts & Sciences, The Ohio State University  
-**Title:** It's All or Nothing─Explosion v. Implosion  
+**Title** It's All or Nothing: Explosion v. Implosion  
 
 **Abstract**  
 We set out five basic requirements for a logical system to be

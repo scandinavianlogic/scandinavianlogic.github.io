@@ -4,7 +4,7 @@ title: "NOL Seminar with Eric Pacuit"
 start_date: "2024-08-26"
 end_date: "2024-08-26"
 speaker: "Eric Pacuit"
-talk_title: "From paradox to principles—Splitting cycles and breaking ties"
+talk_title: "From paradox to principles: Splitting cycles and breaking ties"
 category: ["events", "nol-seminar"]
 redirect_from: 2024-08-26-NOL-Seminar-Eric-Pacuit.html
 ---

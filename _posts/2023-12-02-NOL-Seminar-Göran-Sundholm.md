@@ -4,7 +4,7 @@ title: "NOL Seminar with Göran Sundholm"
 start_date: "2023-12-18"
 end_date: "2023-12-18"
 speaker: "Göran Sundholm"
-talk_title: "Curry-Howard—a meaning explanation or just another realizability interpretation?"
+talk_title: "Curry-Howard: a meaning explanation or just another realizability interpretation?"
 category: ["events", "nol-seminar"]
 ---
 [The Nordic Online Logic Seminar](/the-NOL-seminar.html)
@@ -14,9 +14,9 @@ logicians and logic aficionados worldwide. If you wish to receive the Zoom ID
 and password for it, as well as further announcements, please subscribe here:  
 <https://listserv.gu.se/sympa/subscribe/nordiclogic>
 
-**Date**: Monday, 18 December 2023 at 16:00 CET (UTC+1) on Zoom  
-**Speaker:** Göran Sundholm (Professor of Logic (em.), Leiden University  
-**Title:** Curry-Howard—a meaning explanation or just another realizability interpretation?  
+**Date** Monday, 18 December 2023 at 16:00 CET (UTC+1) on Zoom  
+**Speaker** Göran Sundholm (Professor of Logic (em.), Leiden University  
+**Title** Curry-Howard: a meaning explanation or just another realizability interpretation?  
 
 **Abstract**  
 Around 1930 a major paradigm shift occurred in the foundations of mathematics;

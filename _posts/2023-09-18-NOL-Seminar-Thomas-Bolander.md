@@ -4,7 +4,7 @@ title: "NOL Seminar with Thomas Bolander"
 start_date: "2023-09-25"
 end_date: "2023-09-25"
 speaker: "Thomas Bolander"
-talk_title: "Epistemic Planning—Logical formalism, computational complexity, and robotic implementations"
+talk_title: "Epistemic Planning: Logical formalism, computational complexity, and robotic implementations"
 category: ["events", "nol-seminar"]
 redirect_from: /2023-09-25-NOL-Seminar-Thomas-Bolander.html
 ---
@@ -15,10 +15,10 @@ logicians and logic aficionados worldwide. If you wish to receive the Zoom ID
 and password for it, as well as further announcements, please subscribe here:  
 <https://listserv.gu.se/sympa/subscribe/nordiclogic>
 
-**Date**: Monday, 25 September 2023 at 16:00 CEST (UTC+2) on Zoom  
-**Speaker:** Thomas Bolander (Professor in logic and AI at DTU Compute,
+**Date** Monday, 25 September 2023 at 16:00 CEST (UTC+2) on Zoom  
+**Speaker** Thomas Bolander (Professor in logic and AI at DTU Compute,
 Technical University of Denmark)  
-**Title:** Epistemic Planning—Logical formalism, computational complexity, and robotic implementations  
+**Title** Epistemic Planning: Logical formalism, computational complexity, and robotic implementations  
 
 **Abstract**  
 Dynamic Epistemic Logic (DEL) can be used as a formalism for agents to represent

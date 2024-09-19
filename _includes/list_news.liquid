@@ -47,7 +47,9 @@
         {% case include.category %}
           {% when "nol-seminar" %}
             <a href="{{ post.url }}">
-              {{ post.speaker }}: {{ post.talk_title }}
+              {{ post.speaker }}
+              <br>
+              {{ post.talk_title }}
             </a>
           {% else %}
             <a href="{{ post.url }}">{{ post.title }}</a>

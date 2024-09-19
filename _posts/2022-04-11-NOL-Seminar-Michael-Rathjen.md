@@ -4,7 +4,7 @@ title: "NOL Seminar with Michael Rathjen"
 start_date: "2022-04-25"
 end_date: "2022-04-25"
 speaker: "Michael Rathjen"
-talk_title: "Completeness—Turing, Schütte, Feferman (and Löb)"
+talk_title: "Completeness: Turing, Schütte, Feferman (and Löb)"
 category: ["events", "nol-seminar"]
 ---
 [The Nordic Online Logic Seminar](/the-NOL-seminar.html)
@@ -17,9 +17,9 @@ and password for it, as well as further announcements, please subscribe here:
 Next talk: **Monday, 25 April, 16.00-17.30 CEST** (UTC+2), on Zoom (details are
 provided to the seminar subscribers)
 
-Title: **Completeness: Turing, Schütte, Feferman (and Löb)**
+Title **Completeness: Turing, Schütte, Feferman (and Löb)**
 
-Speaker: **Michael Rathjen**, Professor in Pure Mathematics, University of Leeds
+Speaker **Michael Rathjen**, Professor in Pure Mathematics, University of Leeds
 
 Abstract:  
 Progressions of theories along paths through Kleene’s Omega adding the

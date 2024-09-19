@@ -4,7 +4,7 @@ title: "NOL Seminar with Sara L. Uckelman"
 start_date: "2021-11-22"
 end_date: "2021-11-22"
 speaker: "Sara L. Uckelman"
-talk_title: "John Eliot’s Logick Primer—A bilingual English-Wôpanâaak logic textbook"
+talk_title: "John Eliot’s Logick Primer: A bilingual English-Wôpanâaak logic textbook"
 category: ["events", "nol-seminar"]
 ---
 [The Nordic Online Logic Seminar](/the-NOL-seminar.html)

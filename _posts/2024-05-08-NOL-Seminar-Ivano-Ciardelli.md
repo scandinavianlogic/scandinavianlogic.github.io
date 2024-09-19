@@ -4,7 +4,7 @@ title: "NOL Seminar with Ivano Ciardelli"
 start_date: "2024-06-03"
 end_date: "2024-06-03"
 speaker: "Ivano Ciardelli"
-talk_title: "Inquisitive modal logic—an overview"
+talk_title: "Inquisitive modal logic: an overview"
 category: ["events", "nol-seminar"]
 ---
 
@@ -15,11 +15,11 @@ logicians and logic aficionados worldwide. If you wish to receive the Zoom ID
 and password for it, as well as further announcements, please subscribe here:  
 <https://listserv.gu.se/sympa/subscribe/nordiclogic>
 
-**Date**: Monday, 3 June 2024 at 16:00 CEST (UTC+2) on Zoom  
-**Speaker:** Ivano Ciardelli (Associate Professor of Logic, University of Padua)  
-**Title:** Inquisitive modal logic—an overview
+**Date** Monday, 3 June 2024 at 16:00 CEST (UTC+2) on Zoom  
+**Speaker** Ivano Ciardelli (Associate Professor of Logic, University of Padua)  
+**Title** Inquisitive modal logic: an overview
 
-**Abstract:**  
+**Abstract**  
 Inquisitive modal logic is a generalization of standard modal logic where the
 language also contains questions, and modal operators that can be applied to
 them. In this talk, I will provide an introductory overview of inquisitive modal

@@ -4,7 +4,7 @@ title: "NOL Seminar with Dag Westerståhl"
 start_date: "2023-10-30"
 end_date: "2023-10-30"
 speaker: "Dag Westerståhl"
-talk_title: "From consequence to meaning—the case of intuitionistic propositional logic (IPL)"
+talk_title: "From consequence to meaning: the case of intuitionistic propositional logic (IPL)"
 category: ["events", "nol-seminar"]
 ---
 [The Nordic Online Logic Seminar](/the-NOL-seminar.html)
@@ -14,9 +14,9 @@ logicians and logic aficionados worldwide. If you wish to receive the Zoom ID
 and password for it, as well as further announcements, please subscribe here:  
 <https://listserv.gu.se/sympa/subscribe/nordiclogic>
 
-**Date**: Monday, 30 October 2023, at 16:00 CET (UTC+1) on Zoom  
-**Speaker:** Dag Westerståhl (Stockholm University, Tsinghua University)  
-**Title:** From consequence to meaning—the case of intuitionistic propositional logic (IPL)
+**Date** Monday, 30 October 2023, at 16:00 CET (UTC+1) on Zoom  
+**Speaker** Dag Westerståhl (Stockholm University, Tsinghua University)  
+**Title** From consequence to meaning: the case of intuitionistic propositional logic (IPL)
 
 **Abstract**  
 One quarter of the talk presents background on how facts about entailments and
