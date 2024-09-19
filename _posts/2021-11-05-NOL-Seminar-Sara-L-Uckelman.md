@@ -40,7 +40,7 @@ of the Massachusett language.
 In this talk, I will:
 
 • Introduce John Eliot and the linguistic context he was working in.  
-• Introduce the contents of the Logick Primer —vocabulary, inference patterns,
+• Introduce the contents of the Logick Primer—vocabulary, inference patterns,
 and applications.  
 • Discuss notions of “Puritan” logic that inform this primer.  
 • Talk about the importance of his work in documenting and expanding the

@@ -18,7 +18,7 @@ and password for it, as well as further announcements, please subscribe here:
 
 **Date** Monday, 26 August 2024 at 16:00 CEST (UTC+2) on Zoom  
 **Speaker** Eric Pacuit (Professor of Logic, University of Maryland)  
-**Title** From paradox to principles: Splitting cycles and breaking tie
+**Title** From paradox to principles: Splitting cycles and breaking ties
 
 **Abstract**  
 Voting on two alternatives appears unproblematic compared to voting on three (or
