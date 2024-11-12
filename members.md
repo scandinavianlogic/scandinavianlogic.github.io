@@ -179,6 +179,10 @@ membership.
   Chalmers  
   <https://www.chalmers.se/en/staff/Pages/claes-strannegard.aspx>
 
+- Codrin Codrea  
+  Faculty of Law, Alexandru Ioan Cuza University, Iasi  
+  legal logic, legal theory, philosophy of law
+
 - Cynthia M. Grund  
   Associate Professor Emerita, University of Southern Denmark  
   <http://www.sdu.dk/ansat/cmgrund>  
