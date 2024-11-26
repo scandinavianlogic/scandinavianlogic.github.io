@@ -4,7 +4,7 @@ title: "NOL Seminar with Wesley Holliday"
 start_date: "2024-11-25"
 end_date: "2024-11-25"
 speaker: "Wesley Holliday"
-talk_title: "Looking at quantum mechanics with model theoretic glasses"
+talk_title: "From constructive mathematics and quantum mechanics to Fundamental Logic"
 category: ["events", "nol-seminar"]
 ---
 
