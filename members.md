@@ -332,6 +332,11 @@ membership.
   <http://www.mathematik.uni-muenchen.de/~schwicht/>  
   proof theory, lambda calculus, program extraction  from proofs
 
+- Ivan Di Liberti  
+  Göteborgs universitet  
+  <https://diliberti.github.io>  
+  logic, category theory
+
 - Jakob Nordström  
   University of Copenhagen and Lund University  
   <http://www.csc.kth.se/~jakobn/>  
