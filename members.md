@@ -421,6 +421,10 @@ membership.
   <http://pageperso.lif.univ-mrs.fr/~karoliina.lehtinen/>  
   Logic, Games, Automata, Verification, Synthesis
 
+- Karoliina Visti  
+  Philosophy of logic, the relation between logic and science, non-classical
+  logics, proof theory
+
 - Kerkko Pekka Luosto  
   Tampere university  
   Finite model theory, generalized quantifiers, mathematical logic in general
