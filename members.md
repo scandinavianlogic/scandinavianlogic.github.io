@@ -730,6 +730,8 @@ membership.
   Roskilde University  
   <http://akira.ruc.dk/~torben/>
 
+- Tom Janne Eisermann
+
 - Tore Fjetland Øgaard  
   University of Bergen  
   <https://philpeople.org/profiles/tore-fjetland-ogaard>  
