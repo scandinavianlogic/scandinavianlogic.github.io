@@ -55,7 +55,7 @@ including the fields computer science, philosophy, mathematics and linguistics.
 - Lauri Hella (Finland)
 - [Nina Gierasimczuk](http://www.ninagierasimczuk.com) (Denmark)
 - [Rasmus Kræmmer Rendsvig](https://rasmuskrendsvig.dk) (Denmark)
-- [Thomas Bolander](http://www.dtu.dk/english/service/phonebook/person?id=6474&amp;tab=1) (Denmark)
+- [Thomas Bolander](https://www2.compute.dtu.dk/~tobo/) (Denmark)
 - Thomas Ågotnes (Norway)
 
 ### Auditors
