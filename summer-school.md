@@ -15,6 +15,7 @@ particular subject.
 - 2015: [Helsinki](https://web.archive.org/web/20161117234437/https://www.helsinki.fi/sls2015/index.html)
 - 2017: [Stockholm](https://www.math-stockholm.se/en/konferenser-och-akti/logic-in-stockholm-2/nls-summer-school-in)
 - 2022: [Bergen](https://scandinavianlogic2020.w.uib.no/fourth-nordic-logic-summer-school-nls-2020/)
+- 2024: [Reykjavík](https://scool24.github.io/NLS/)
 
 ### News
 
