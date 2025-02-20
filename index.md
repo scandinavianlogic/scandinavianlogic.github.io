@@ -55,7 +55,6 @@ including the fields computer science, philosophy, mathematics and linguistics.
 - [Antonis Achilleos](https://sites.google.com/view/antonisachilleos) (Iceland)
 - Lauri Hella (Finland)
 - [Nina Gierasimczuk](http://www.ninagierasimczuk.com) (Denmark)
-- [Rasmus Kræmmer Rendsvig](https://rasmuskrendsvig.dk) (Denmark)
 - [Thomas Bolander](https://www2.compute.dtu.dk/~tobo/) (Denmark)
 - Thomas Ågotnes (Norway)
 
