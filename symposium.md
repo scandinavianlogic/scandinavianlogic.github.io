@@ -23,7 +23,7 @@ logic (broadly conceived) carried out in research communities in Scandinavia.
 - 1982: Telemark
 - 1996: Uppsala
 - 2012: [Roskilde](http://scandinavianlogic.weebly.com)
-- 2014: [Tampere](http://www.sis.uta.fi/SLS2014/)
+- 2014: [Tampere](https://web.archive.org/web/20221017072530/https://homepages.tuni.fi/kerkko.luosto/event/SLS2014/)
 - 2018: [Gothenburg]({% post_url 2017-09-18-SLS2018 %})
 - 2022: [Bergen](https://scandinavianlogic2020.w.uib.no/eleventh-scandinavian-logic-symposium-slss-2020/)
 
