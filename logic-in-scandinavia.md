@@ -195,13 +195,11 @@ works on philosophical logic and Frege.
 #### Gothenburg
 
 Much of the research in the
-[Division of Logic and Types](https://www.chalmers.se/en/departments/cse/organisation/LT/Pages/default.aspx)
+[Unit of Logic and Types](https://www.chalmers.se/en/departments/cse/our-research/computing-science/logic-and-types/)
 at the Department of Computer Science and Engineering is in the area
 intuitionistic type theory and constructive mathematics. Much current work is on
 univalent foundations and homotopy type theory. The group is also developing the
-proof assistant Agda based on intuitionistic type theory. The group runs a
-seminar series entitled
-[Initial Types Club](https://github.com/InitialTypes/Club/wiki).
+proof assistant Agda based on intuitionistic type theory. 
 
 The
 [logic group at the Department of Philosophy, Linguistics and Theory of Science](https://www.logic-gu.se/)
@@ -215,23 +213,23 @@ meets biweekly.
 #### Stockholm
 
 The main research of the logic group at the
-[Department of Philosophy at Stockholm university](https://www.philosophy.su.se/english)
+[Department of Philosophy at Stockholm university](https://www.su.se/department-of-philosophy/)
 is currently focused on various logical systems for agency and multi-agent
 systems, including logics for strategic reasoning and for normative reasoning,
 as well as study of fragments of the modal mu-calculus and of transition
 semantics for branching time logics. There is a broader scope weekly seminar
 series on Logic, Language and Mind, organized by the
-[Centre for Logic, Language, and Mind (CLLAM)](https://www.philosophy.su.se/english/research/projects-and-centers/cllam)
+[Centre for Logic, Language, and Mind (CLLAM)](https://www.su.se/department-of-philosophy/about-the-department/centres-and-other-units/cllam-1.640497)
 at the department.
 
 The
-[Stockholm University Department of Mathematics logic group](https://www.math.su.se/english/research/research-groups/research-group-in-mathematical-logic-1.330078)
+[Stockholm University Department of Mathematics logic group](https://www.su.se/english/research/research-groups/mathematical-logic)
 has a long-standing focus on foundations of mathematics, including especially
 type theory, constructive mathematics, and categorical logic. There is a weekly
 seminar on mathematical logic: <http://logic.math.su.se/seminar/>
 
 At
-[the division of theoretical computer science (TCS) at KTH](https://www.kth.se/tcs)
+[the division of theoretical computer science (TCS) at KTH](https://www.kth.se/cs/tcs)
 several researchers work on areas involving logic, such as Formal Verification,
 Software security, and Provably secure systems. While most of this research uses
 or adapts existing logical frameworks for Model checking, Deductive
@@ -250,3 +248,4 @@ from model theoretic classification theory (stability/simplicity theory) are
 used. See the
 [webpage of Vera Koponen](https://katalog.uu.se/profile/?id=N96-558)
 for more information.
+
