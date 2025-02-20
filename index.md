@@ -2,6 +2,7 @@
 layout: default
 ---
 ## Statement on the war in Ukraine
+<p class="post_dates">2022-03-30</p>
 On behalf of the Scandinavian Logic Society, its Executive Committee joins the
 international community in condemning the military invasion of Russia in
 Ukraine, resulting in massive loss of human lives and destruction of residential
