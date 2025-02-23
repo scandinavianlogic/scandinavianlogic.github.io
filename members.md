@@ -57,6 +57,11 @@ membership.
 
 - Anders Märak Leffler
 
+- Anders Mörtberg  
+  Stockholm University  
+  <https://staff.math.su.se/anders.mortberg/>  
+  Computer formalization of mathematics, type theory, constructive mathematics, categorical logic
+
 - André Rognes  
   OsloMet – Oslo Metropolitan University  
   algebraic logic, automated reasoning
