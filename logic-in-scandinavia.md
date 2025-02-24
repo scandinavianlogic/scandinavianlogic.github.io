@@ -35,7 +35,7 @@ Mathematics, Copenhagen University.
 
 In Denmark there has been a number of research projects on logic combining
 researchers from multiple of the above-mentioned universities and also crossing
-the bound between philosophy and computer science departments. We expect to see
+the boundaries between philosophy and computer science departments. We expect to see
 more such projects in the future. There has also been a tradition of organising
 multi-disciplinary seminar series on logic in the Copenhagen area involving
 researchers in computer science and philosophy from Copenhagen University,
