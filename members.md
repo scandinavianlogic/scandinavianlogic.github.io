@@ -337,6 +337,10 @@ membership.
   <http://www.mathematik.uni-muenchen.de/~schwicht/>  
   proof theory, lambda calculus, program extraction  from proofs
 
+- Iosif Petrakis  
+  University of Verona  
+  Constructive Mathematics, Type Theory, Category Theory
+
 - Ivan Di Liberti  
   Göteborgs universitet  
   <https://diliberti.github.io>  
