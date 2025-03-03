@@ -275,6 +275,14 @@ membership.
   multi-agent systems, belief revision, formal epistemology, logics for
   preferences
 
+- Franziskus Wiesnet  
+  TU Vienna  
+  <https://www.wiesnet.eu/>  
+  Proof assistents; in particular Minlog and Agda. Constructive Algebra.
+  Constructive Analysis. Signed digit representation of real numbers. Program
+  extraction from proofs. Proof mining. The axiom of choice and its variants.
+  Well quasi orders. Linear logic.
+
 - Fredrik Engström  
   University of Gothenburg  
   <http://engstrom.morot.org/>  
