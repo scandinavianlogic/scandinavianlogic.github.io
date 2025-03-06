@@ -4,7 +4,7 @@ title: "NOL Seminar with Peter van Emde Boas and Ghica van Emde Boas"
 start_date: "2025-03-24"
 end_date: "2025-03-24"
 speaker: "Peter van Emde Boas and Ghica van Emde Boas"
-talk_title: "Proof-theoretic semantics: from intuitionism to classical, from natural deduction to sequents"
+talk_title: "Analyzing the Logic of Sun Tzu in “The Art of War”, using Mind Maps"
 category: ["events", "nol-seminar"]
 ---
 
