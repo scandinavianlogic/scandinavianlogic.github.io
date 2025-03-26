@@ -76,12 +76,12 @@ most recently dependence logic. There is a weekly
 [Logic Seminar](https://wiki.helsinki.fi/xwiki/bin/view/Logic/Home/Seminar/)
 held on Wednesdays at 12-14.
 
-In the
-[Philosophy](https://www2.helsinki.fi/en/faculty-of-arts/research/disciplines/philosophy-history-and-art/philosophy)
-group at the Faculty of Arts,
-[Sara Negri](https://www2.helsinki.fi/en/people/people-finder/sara-negri-9032085)
-has conducted research on philosophical
-logic.
+In the Theoretical Philosophy unit, Gabriel Sandu conducts research on interventionist 
+counterfactuals and their relation to causality, on foundations of mathematics and on 
+modal logic. Fausto Barbero investigates interventionist counterfactuals, indeterminism 
+and logics of dependence and independence. Tuukka Tanninen analyzes Jaakko Hintikka's 
+Nachlass and his philosophical legacy, focusing on the history of quantified modal logic 
+and formal methodologies in philosophy.
 
 Also of interest to logicians is the
 [Gödel Enigma](https://www2.helsinki.fi/en/researchgroups/godel-enigma),
