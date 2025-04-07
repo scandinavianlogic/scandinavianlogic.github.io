@@ -48,12 +48,12 @@ membership.
   <https://www.nmbu.no/emp/amirhosein.mosavi>  
   Machine Learning
 
+- Anders E.V. Lundstedt  
+  <https://anderslundstedt.com>
+
 - Anders Hellström  
   <https://linktr.ee/andersh3>  
   Kinematics, AI
-
-- Anders Lundstedt  
-  <https://anderslundstedt.com>
 
 - Anders Märak Leffler
 
@@ -240,6 +240,11 @@ membership.
   University of Canterbury  
   <https://www.dsbridges.com>  
   constructive mathematics, esp. analysis, topology, and set theory
+
+- Eric Johannesson  
+  Stockholm University  
+  <https://ericjohannesson.com>  
+  Philosophy of logic and mathematics
 
 - Esko Turunen  
   Tampere University  
