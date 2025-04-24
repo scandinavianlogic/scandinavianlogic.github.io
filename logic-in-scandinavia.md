@@ -132,17 +132,20 @@ and non-classical logic, and theories of truth), philosophy of logic, theory of
 argumentation, and rationality. The group is responsible for several externally
 funded research projects and organizes many talks and workshops.
 
-[The Logic, Information and Interaction group](https://www.uib.no/en/rg/lii)
+[The Logic and Artificial Intelligence Group](https://www.uib.no/en/rg/lai)
 at the University of Bergen is a research group at the
 [Department of Information Science and Media Studies](https://www.uib.no/en/infomedia).
-The group study formalisation of reasoning about different aspects of
-interaction, in particular information change and aggregation. Research areas
-include modal logics for reasoning about interaction, such as epistemic-,
-action- and game logics, as well as logical formalisation of reasoning about
-interaction in other areas of the social sciences such as game theory,
-(computational) social choice and social network analysis. The group is very
-active in the international community and is responsible for organising the next
-Scandinavian Logic Symposium and Nordic Logic School in Bergen in 2021.
+A main focus of the group is pure and applied modal logic, including
+epistemic and doxastic logic, action logic, game- and strategy logic,
+temporal logic, awareness logic, social network logic, and normative
+systems, as well as applications in knowledge representation and
+reasoning, multi-agent systems, AI ethics, abstract argumentation and
+judgment- and preference aggregation. The group organise regular
+research seminars often with visiting international researchers, and
+have organised many events in Bergen, including the Scandinavian Logic
+Symposium (SLS), the Nordic Logic Summer School (NLSS), the Conference
+on Logic and the Foundations of Game and Decision Theory (LOFT), and
+the International Conference on Deontic Logic (DEON).
 
 There is also a logic cluster in
 [Department of Informatics](https://www.uib.no/en/ii)
