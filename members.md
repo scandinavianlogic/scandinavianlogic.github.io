@@ -385,6 +385,8 @@ membership.
   <https://sites.google.com/view/vincentye>  
   Model theory, mathematical logic
 
+- Jixian Yu
+
 - Joao Marcos  
   Federal University of Rio Grande do Norte, Brazil  
   <http://sequiturquodlibet.googlepages.com>  
