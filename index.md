@@ -66,6 +66,9 @@ including the fields computer science, philosophy, mathematics and linguistics.
 #### Substitute auditor
 - Lars Kristiansen (Norway)
 
+### Chief technology officer
+- [Anders Lundstedt](https://anderslundstedt.com) (Sweden)
+
 ## Statute of the society
 - [Swedish version](/assets/statutes/SLS-statute-2019-11-18-swedish.pdf)
 - [English translation](/assets/statutes/SLS-statute-2019-11-03-english.pdf)
