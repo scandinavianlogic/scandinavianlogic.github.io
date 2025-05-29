@@ -483,6 +483,12 @@ membership.
   <https://www.itu.dk/people/maca>  
   Programming Languages, Types, Linear Logic
 
+- Margherita Zorzi  
+  University of Verona  
+  <https://www.di.univr.it/?ent=persona&id=3616>  
+  Mathematical logic, lambda calculus, proof theory, constructive mathematics,
+  quantum computing
+
 - Maria Emilia Maietti  
   University of Padova  
   <https://www.math.unipd.it/~maietti>  
@@ -574,6 +580,8 @@ membership.
 - Nemi Pelgrom  
   Ludwig-Maximilians-Universität  
   Foundations of Mathematics, philosophical logic
+
+- Niclas Bengtsson
 
 - Nina Gierasimczuk  
   Technical University of Denmark  
