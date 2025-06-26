@@ -708,6 +708,21 @@ membership.
 - Sankha S. Basu  
   IIIT-Delhi, India
 
+- Dr. Santanu Acharjee  
+  Gauhati University  
+  <https://sites.google.com/view/santopology/home>  
+  Topology (General, algebraic, combinatorial, and computational),
+  Bitopological dynamical systems and its applications in evolutionary biolog
+  and communication theory,
+  Dynamical systems,
+  Soft Computing,
+  Soft computing based logic (Soft logic, Fuzzy Logic, IFS Logic, etc.),
+  Artificial Intelligence,
+  Big Data Analytics,
+  Complex systems and Social Networks,
+  Mathematical economics,
+  Quantum Computing
+
 - Sara Negri  
   University of Genova  
   <https://sites.google.com/view/saranegri>  
