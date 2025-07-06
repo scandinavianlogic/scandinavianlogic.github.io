@@ -165,6 +165,13 @@ membership.
   <http://cieslinski.filozofia.uw.edu.pl/>  
   truth theory (deflationism, theories of self-referential truth), mathematical and philosophical logic, model theory,
 
+- Charles J. Wolf  
+  Independent Researcher  
+  <https://orcid.org/0009-0006-4072-9404>  
+  trauma research, cognitive neuroscience, affective science, psychology,
+  neuropsychology, embodied cognition, consciousness studies, somatic
+  approaches, philosophy of mind
+
 - Christian Espindola  
   University of La Réunion  
   <https://sites.google.com/view/christianespindola>  
