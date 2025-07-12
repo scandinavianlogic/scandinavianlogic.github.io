@@ -683,6 +683,10 @@ membership.
   <https://Rends.dk>  
   Epistemic Logic, Dynamic Epistemic Logic, Logic and Rational Interaction, Logic and Topology, Modal Logic
 
+- Resul Genç   
+  Afyon Kocatepe University  
+  Quantum Logic
+
 - Rineke Verbrugge  
   University of Groningen  
   <https://rinekeverbrugge.nl>  
