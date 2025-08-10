@@ -7,21 +7,15 @@ speaker: "Johan van Benthem"
 talk_title: "Building Modern Modal Logic: Honoring Krister Segerberg"
 category: ["events", "nol-seminar"]
 ---
-
-[The Nordic Online Logic Seminar](/the-NOL-seminar.html)
-is organised monthly over Zoom, with expository talks on topics of interest for
-the broader logic community. The seminar is open for professional or aspiring
-logicians and logic aficionados worldwide. If you wish to receive the Zoom ID
-and password for it, as well as further announcements, please subscribe here:  
-<https://listserv.gu.se/sympa/subscribe/nordiclogic>
-
 The next NOL seminar event will be devoted to a memorial session for Krister
-Segerberg, who passed away in January. There will be two speakers. This is the
-announcement for Johan van Benthem's talk.
-[The other talk](/2025-08-06-NOL-Seminar-John-Cantwell.html)
-is given by John Cantwell.
+Segerberg, who passed away in January. There will be two speakers.
 
 **Date** Monday, 25 August 2025 at 16:00 CEST (UTC+2) on Zoom  
+
+This is the announcement for the second talk, by Johan van Benthem.
+[The first talk](/2025-08-06-NOL-Seminar-John-Cantwell.html) is given by John
+Cantwell.
+
 **Speaker** Johan van Benthem, University Professor emeritus of pure and applied
 logic at the University of Amsterdam, Henry Waldgrave Stuart Professor of
 Philosophy at Stanford University, and Jin Yuelin Professor of Logic at Tsinghua
