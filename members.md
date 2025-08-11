@@ -28,6 +28,11 @@ membership.
   Université catholique de Louvain  
   <https://asamonek.github.io>
 
+- Alexander Gheorghiu  
+  University of Southampton  
+  <https://www.alexandergheorghiu.com>  
+  Proof Theory, Proof-theoretic Semantics, Proof-search
+
 - Alexander Regueiro  
   University of Bristol  
   <http://noldorin.com/>  
