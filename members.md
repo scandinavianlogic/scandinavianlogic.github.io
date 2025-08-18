@@ -486,6 +486,10 @@ membership.
   <https://www.lewishammond.com>  
   Logic in Computer Science, Artificial Intelligence, Game Theory
 
+- Dr. Litan Kumar Das  
+  Mahishdal Raj College, India  
+  Mathematical foundations of logic and its applications in computer science
+
 - Magdalena Ivanovska  
   BI Norwegian Business School  
   knowledge representation and reasoning, uncertainty in AI, probabilistic graphical models, probabilistic logic, causality, judgment aggregation
