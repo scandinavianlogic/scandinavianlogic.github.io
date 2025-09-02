@@ -669,6 +669,11 @@ membership.
   <https://people.maths.bris.ac.uk/~mapdw/>  
   Set Theory, Foundations, Transfinite Computation, Theories of Truth
 
+- Phokion Kolaitis  
+  University of California Santa Cruz and IBM Research  
+  <https://users.soe.ucsc.edu/~kolaitis/>  
+  Logic in computer science
+
 - Pietro Galliani  
   Free University of Bozen-Bolzano
 
