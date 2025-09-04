@@ -362,6 +362,11 @@ membership.
   <http://www.mathematik.uni-muenchen.de/~schwicht/>  
   proof theory, lambda calculus, program extraction  from proofs
 
+- Hermine Grosinger  
+  Örebro University  
+  <https://sites.google.com/view/herminegrosinger>  
+  Logic in Artificial Intelligence, Epistemic reasoning, Causality, (Proactive) Agent Systems
+
 - Iosif Petrakis  
   University of Verona  
   Constructive Mathematics, Type Theory, Category Theory
