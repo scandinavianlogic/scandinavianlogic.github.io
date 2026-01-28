@@ -88,6 +88,9 @@ membership.
   <https://avillavecesn.net>  
   Model Theory, Set Theory, Infinitary Logic, Abstract Elementary Classes
 
+- Aniket Sharma  
+  Department of Philosophy, Ashoka University, India
+
 - Annika Kanckos  
   University of Helsinki  
   Proof theory
