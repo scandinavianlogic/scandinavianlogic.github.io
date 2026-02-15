@@ -6,6 +6,7 @@ end_date: "2026-02-23"
 speaker: "Fan Yang"
 talk_title: "Possible and impossible conditionals for logics based on team semantics"
 category: ["events", "nol-seminar"]
+redirect_from: 2026-02-16-NOL-Seminar-Fan-Yang.html
 ---
 
 [The Nordic Online Logic Seminar](/the-NOL-seminar.html)
