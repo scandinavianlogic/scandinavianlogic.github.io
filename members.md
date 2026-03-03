@@ -549,8 +549,7 @@ membership.
   Micropsi Industries GmbH  
   Probability theory
 
-- Mattias Granberg Olsson  
-  Göteborgs universitet
+- Mattias Granberg Olsson
 
 - Mauricio Martel  
   University of Gothenburg
