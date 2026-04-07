@@ -485,6 +485,11 @@ membership.
   <https://www.mn.uio.no/ifi/english/people/aca/larsk/>  
   Mathematical Logic, Computability Theory, Complexity Theory
 
+- Lassi Saario-Ramsay  
+  University of Helsinki  
+  <https://researchportal.helsinki.fi/en/persons/lassi-saario-ramsay/>  
+  history and philosophy of logic, medieval logic, philosophical logic, model theory
+
 - Lauri Hella  
   Faculty of Information Technology and Communication Sciences, Tampere University  
   Logic in computer science, generalized quantifiers, dependence logics, modal logic
