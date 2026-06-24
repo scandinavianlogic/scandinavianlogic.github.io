@@ -742,6 +742,10 @@ membership.
   <http://www.SaeedSalehi.ir/>  
   Mathematical Logic & Computer Science
 
+- Salvatore Florio  
+  University of Oslo  
+  Philosophical logic, philosophy of logic, philosophy of mathematics
+
 - Sankha S. Basu  
   IIIT-Delhi, India
 
