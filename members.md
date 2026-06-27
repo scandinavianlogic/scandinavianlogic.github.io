@@ -855,6 +855,9 @@ membership.
   <https://vcvpaiva.github.io/>  
   proof theory, linear logic
 
+- Valerio Mangiacotti  
+  Università di Bologna
+
 - Vera Koponen  
   Department of Mathematics, Uppsala University  
   <https://katalog.uu.se/profile/?id=N96-558>  
