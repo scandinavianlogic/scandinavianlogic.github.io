@@ -56,8 +56,7 @@ membership.
 - Anders E.V. Lundstedt  
   <https://anderslundstedt.com>
 
-- Anders Hellström  
-  <https://linktr.ee/andersh3>  
+- Anders Hellström
 
 - Anders Märak Leffler
 
