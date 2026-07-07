@@ -58,7 +58,6 @@ membership.
 
 - Anders Hellström  
   <https://linktr.ee/andersh3>  
-  Kinematics, AI
 
 - Anders Märak Leffler
 
