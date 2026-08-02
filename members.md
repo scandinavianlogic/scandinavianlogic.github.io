@@ -638,6 +638,11 @@ membership.
   <https://bahr.io/>  
   functional programming, type theory, formal verification
 
+- Patrick Rowan Blackburn  
+  Roskilde University  
+  <https://forskning.ruc.dk/en/persons/patrickb/>  
+  Philosophical logic, Computational logic
+
 - Paul Gorbow  
   Logic: PA, ZF, NF, axiomatic theories of truth, non-standard models. Applications of logic to philosophy: Metaphysics, Language, Truth, Knowledge, Belief, Mind, Mathematics
 
