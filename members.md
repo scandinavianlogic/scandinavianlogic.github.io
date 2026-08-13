@@ -542,6 +542,10 @@ membership.
   <https://www.gu.se/en/about/find-staff/martinkasa>  
   philosophical logic, philosophy of logic, philosophy of language, argumentation theory
 
+- Martin Zimmermann  
+  Aalborg University  
+  <https://homes.cs.aau.dk/~mzi/>
+
 - Martina Menconi  
   <https://www.linkedin.com/in/martina-menconi-136816235/>
 
