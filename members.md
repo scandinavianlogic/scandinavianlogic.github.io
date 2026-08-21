@@ -753,6 +753,10 @@ membership.
   University of Oslo  
   Philosophical logic, philosophy of logic, philosophy of mathematics
 
+- Sama Agahi  
+  Department of Philosophy, Stockholm university  
+  Metalogic, non-classical logics, Philosophy of logic
+
 - Sankha S. Basu  
   IIIT-Delhi, India
 
