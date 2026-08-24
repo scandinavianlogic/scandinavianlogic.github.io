@@ -1,11 +1,11 @@
 {
   description = "A GitHub Pages development environment";
 
-  inputs.nixpkgs.url = "nixpkgs/nixpkgs-unstable";
-
+  inputs.pins.url        = "github:anderslundstedt/nix-pins";
+  inputs.nixpkgs.follows = "pins/nixpkgs-unstable";
   inputs.flake-utils.url = "github:numtide/flake-utils";
 
-  outputs = {self, nixpkgs, flake-utils}:
+  outputs = {self,nixpkgs,flake-utils,...}:
     flake-utils.lib.eachDefaultSystem (system:
       let pkgs = import nixpkgs { inherit system; }; in
       {
