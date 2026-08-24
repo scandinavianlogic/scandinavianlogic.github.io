@@ -17,7 +17,7 @@ clean:
 	rm -rf _site
 
 update-flake:
-	nix flake update .anders_files
+	nix flake update --flake .anders_files
 
 build: install
 	jekyll build --config _config.yml,.anders_files/_config.yml
