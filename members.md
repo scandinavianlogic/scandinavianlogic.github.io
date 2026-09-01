@@ -368,6 +368,10 @@ membership.
   <https://sites.google.com/view/herminegrosinger>  
   Logic in Artificial Intelligence, Epistemic reasoning, Causality, (Proactive) Agent Systems
 
+- Huub Vromen  
+  Radboud University  
+  logic, philosophy of language
+
 - Iosif Petrakis  
   University of Verona  
   Constructive Mathematics, Type Theory, Category Theory
@@ -501,6 +505,11 @@ membership.
   Mahishdal Raj College, India  
   Mathematical foundations of logic and its applications in computer science
 
+- Luca Castaldo  
+  ILLC, Amsterdam  
+  <https://sites.google.com/view/lucacastaldo>  
+  Proof theory, Axiomatic theories of truth, Non-monotonic reasoning
+
 - Magdalena Ivanovska  
   BI Norwegian Business School  
   knowledge representation and reasoning, uncertainty in AI, probabilistic graphical models, probabilistic logic, causality, judgment aggregation
@@ -575,6 +584,9 @@ membership.
   <https://sites.google.com/view/miika-hannula>  
   Finite model theory, database theory, dependence logic
 
+- Mikkel Tvorup Moseholm  
+  University of Copenhagen
+
 - Mirja Hartimo  
   University of Jyväskylä  
   Philosophy of mathematics and philosophy of logic
@@ -627,6 +639,10 @@ membership.
   University of Bergen  
   Philosophy of logic, nonclassical logics, proof theory
 
+- Orvar Lorimer-Olsson  
+  University of Gothenburg  
+  <https://orvarlog.se>
+
 - Otavio Bueno  
   University of Miami  
   <http://www.as.miami.edu/personal/obueno>  
@@ -646,6 +662,9 @@ membership.
   Roskilde University  
   <https://forskning.ruc.dk/en/persons/patrickb/>  
   Philosophical logic, Computational logic
+
+- Paula Quinon  
+  <https://www.paulaquinon.com>
 
 - Paul Gorbow  
   Logic: PA, ZF, NF, axiomatic theories of truth, non-standard models. Applications of logic to philosophy: Metaphysics, Language, Truth, Knowledge, Belief, Mind, Mathematics
@@ -809,6 +828,11 @@ membership.
   University of Gothenburg  
   <https://www.gu.se/en/about/find-staff/sylviesaget>  
   Logic and Language, Philosophical logic
+
+- Søren Brinck Knudstorp  
+  Institute for Logic, Language and Computation, University of Amsterdam  
+  <https://knudstorp.github.io/>  
+  Logic
 
 - Thomas Ågotnes  
   University of Bergen  
