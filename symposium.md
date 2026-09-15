@@ -26,6 +26,11 @@ TBD
 - 2018: [Gothenburg]({% post_url 2017-09-18-SLS2018 %})
 - 2022: [Bergen](https://scandinavianlogic2020.w.uib.no/eleventh-scandinavian-logic-symposium-slss-2020/)
 - 2024: [Reykjavík](https://scool24.github.io/SLSS/)
+- 2026: [Copenhagen](https://slss2026.compute.dtu.dk/sls-symposium/)
+  {% comment %}
+    archive URL:
+    https://web.archive.org/web/20260915171025/https://slss2026.compute.dtu.dk/sls-symposium/
+  {% endcomment %}
 
 ### News
 
