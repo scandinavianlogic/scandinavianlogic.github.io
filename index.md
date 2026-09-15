@@ -40,31 +40,31 @@ including the fields computer science, philosophy, mathematics and linguistics.
 ### Executive committee
 
 #### President
-- [Valentin Goranko](https://www2.philosophy.su.se/goranko) (Sweden)
+- Nina Gierasimczuk, Technical University of Denmark, Denmark
 
 #### Vice-president
-- [Åsa Hirvonen](http://www.helsinki.fi/~asaekman/) (Finland)
+- Graham Leigh, University of Gothenburg, Sweden
 
 #### Secretary
-- [Øystein Linnebo](http://www.hf.uio.no/ifikk/personer/vit/filosofi/fast/oysteinl/) (Norway)
+- Thomas Ågotnes, University of Bergen, Norway
 
 #### Treasurer
-- [Fredrik Engström](https://flov.gu.se/english/about/staff?userId=xengfr) (Sweden)
+- Antonis Achilleos, Reykjavik, Iceland
 
 #### Members at large
-- [Antonis Achilleos](https://sites.google.com/view/antonisachilleos) (Iceland)
-- Lauri Hella (Finland)
-- [Nina Gierasimczuk](http://www.ninagierasimczuk.com) (Denmark)
-- [Thomas Bolander](https://www2.compute.dtu.dk/~tobo/) (Denmark)
-- Thomas Ågotnes (Norway)
+- Salvatore Florio, University of Oslo, Norway
+- Juha Kontinen, University of Helsinki, Finland
+- Lars Kristiansen, University of Oslo, Norway
+- Kerkko Luosto, Tampere University, Finland
+- Jørgen Villadsen, Technical University of Denmark, Denmark
 
 ### Auditors
 
 #### Auditor
-- Kerkko Luosto (Finland)
+- Fernando Velzquez-Quesada, University of Bergen, Norway
 
 #### Substitute auditor
-- Lars Kristiansen (Norway)
+- Annika Kanckos, University of Helsinki, Finland
 
 ### Chief technology officer
 - [Anders Lundstedt](https://anderslundstedt.com) (Sweden)
