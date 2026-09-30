@@ -120,6 +120,9 @@ membership.
   <https://www.beckmann.pro/>  
   Proof Theory, Bounded Arithmetic, Propositional Proof Complexity
 
+- Arunavo Ganguly  
+  Umeå University
+
 - Åsa Hirvonen  
   University of Helsinki  
   <https://www.mv.helsinki.fi/home/asaekman/>  
@@ -253,6 +256,11 @@ membership.
   University of Canterbury  
   <https://www.dsbridges.com>  
   constructive mathematics, esp. analysis, topology, and set theory
+
+- Elliot Kaplan  
+  Stockholm University  
+  <https://elliotakaplan.github.io>  
+  Model theory
 
 - Eric Johannesson  
   Stockholm University  
