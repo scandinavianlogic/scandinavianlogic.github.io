@@ -595,6 +595,11 @@ membership.
 - Mikkel Tvorup Moseholm  
   University of Copenhagen
 
+- Mina Young Pedersen  
+  University of Oslo  
+  <https://www.minayoungp.xyz>  
+  logics for social networks, logics for multi-agent systems, epistemic logic
+
 - Mirja Hartimo  
   University of Jyväskylä  
   Philosophy of mathematics and philosophy of logic
